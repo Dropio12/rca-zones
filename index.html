@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Québec City Zoning Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+    #search-panel {
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 8px 10px;
+      border-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 14px;
+    }
+    #search-panel input[type="text"] {
+      width: 260px;
+      padding: 4px 6px;
+      font-size: 14px;
+    }
+    #search-panel button {
+      margin-left: 4px;
+      padding: 4px 8px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    #search-status {
+      margin-top: 4px;
+      font-size: 12px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div id="search-panel">
+    <div>
+      <input id="address-input" type="text" placeholder="Enter address in Québec City" />
+      <button id="address-search-btn" type="button">Find zone</button>
+    </div>
+    <div id="search-status"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Leaflet JS -->
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <!-- Turf.js for point-in-polygon -->
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+
+  <script>
+    // 1. Create the base map centered on Québec City
+    const map = L.map('map').setView([46.8139, -71.2082], 11);
+
+    // 2. Add a basemap (OpenStreetMap)
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    let zonesLayer;        // GeoJSON layer with zones
+    let addressMarker;     // Marker for the searched address
+    let highlightedZone;   // Layer of the zone containing the address
+
+    const statusEl = document.getElementById('search-status');
+    const addressInput = document.getElementById('address-input');
+
+    function setStatus(msg) {
+      statusEl.textContent = msg || '';
+    }
+
+    // 3. Load your GeoJSON and add it to the map
+    fetch('vdq-zonagemunicipalzones.geojson.json')
+      .then(resp => resp.json())
+      .then(data => {
+        zonesLayer = L.geoJSON(data, {
+          style: feature => ({
+            color: '#333',
+            weight: 1,
+            fillColor: '#3182bd',
+            fillOpacity: 0.4
+          }),
+          onEachFeature: (feature, layer) => {
+            const id = feature.properties?.ID ?? 'Unknown';
+            const area = feature.properties?.SUPERFICIE;
+            const perimeter = feature.properties?.PERIMETRE;
+
+            let popupHtml = `<strong>Zone ID:</strong> ${id}`;
+            if (area != null) {
+              popupHtml += `<br/><strong>Area:</strong> ${area} m²`;
+            }
+            if (perimeter != null) {
+              popupHtml += `<br/><strong>Perimeter:</strong> ${perimeter} m`;
+            }
+            layer.bindPopup(popupHtml);
+          }
+        }).addTo(map);
+
+        // 4. Fit the map to the GeoJSON bounds
+        map.fitBounds(zonesLayer.getBounds());
+      })
+      .catch(err => {
+        console.error('Error loading GeoJSON:', err);
+        setStatus('Error loading zoning data. Check console for details.');
+      });
+
+    async function geocodeAddress(rawAddress) {
+      const base = 'https://nominatim.openstreetmap.org/search';
+      const q = encodeURIComponent(rawAddress + ', Québec City, QC, Canada');
+      const url = `${base}?format=json&limit=1&q=${q}`;
+
+      const resp = await fetch(url, {
+        headers: {
+          'Accept-Language': 'en'
+        }
+      });
+      if (!resp.ok) {
+        throw new Error('Geocoding request failed');
+      }
+      const results = await resp.json();
+      if (!results.length) {
+        throw new Error('No results for this address');
+      }
+      const { lat, lon, display_name } = results[0];
+      return {
+        lat: parseFloat(lat),
+        lon: parseFloat(lon),
+        displayName: display_name
+      };
+    }
+
+    function findZoneForPoint(lat, lon) {
+      if (!zonesLayer) return null;
+
+      const pt = turf.point([lon, lat]); // GeoJSON uses [lon, lat]
+      let found = null;
+
+      zonesLayer.eachLayer(layer => {
+        if (found) return; // already found one
+        const f = layer.feature;
+        if (!f || !f.geometry) return;
+        if (turf.booleanPointInPolygon(pt, f)) {
+          found = layer;
+        }
+      });
+
+      return found;
+    }
+
+    async function handleSearch() {
+      const addr = addressInput.value.trim();
+      if (!addr) {
+        setStatus('Enter an address to search.');
+        return;
+      }
+      if (!zonesLayer) {
+        setStatus('Zoning data not loaded yet.');
+        return;
+      }
+
+      setStatus('Geocoding address…');
+
+      try {
+        const { lat, lon, displayName } = await geocodeAddress(addr);
+
+        // Clear previous marker/highlight
+        if (addressMarker) {
+          map.removeLayer(addressMarker);
+        }
+        if (highlightedZone) {
+          map.removeLayer(highlightedZone);
+          highlightedZone = null;
+        }
+
+        // Add marker
+        addressMarker = L.marker([lat, lon]).addTo(map);
+
+        // Find zone
+        const zoneLayer = findZoneForPoint(lat, lon);
+        if (!zoneLayer) {
+          setStatus('Address geocoded, but no zone polygon contains this point.');
+          map.setView([lat, lon], 16);
+          return;
+        }
+
+        const props = zoneLayer.feature.properties || {};
+        const id = props.ID || 'Unknown';
+        const area = props.SUPERFICIE;
+        const perimeter = props.PERIMETRE;
+
+        // Highlight zone by cloning it with a different style
+        highlightedZone = L.geoJSON(zoneLayer.toGeoJSON(), {
+          style: {
+            color: '#d73027',
+            weight: 3,
+            fillColor: '#fc8d59',
+            fillOpacity: 0.5
+          }
+        }).addTo(map);
+
+        const popupHtml = [
+          `<strong>Address:</strong> ${displayName}`,
+          `<strong>Zone ID:</strong> ${id}`,
+          area != null ? `<strong>Area:</strong> ${area} m²` : null,
+          perimeter != null ? `<strong>Perimeter:</strong> ${perimeter} m` : null
+        ].filter(Boolean).join('<br/>');
+
+        addressMarker.bindPopup(popupHtml).openPopup();
+        map.fitBounds(highlightedZone.getBounds(), { maxZoom: 18 });
+        setStatus('Address located. Zone highlighted on the map.');
+      } catch (err) {
+        console.error(err);
+        setStatus(err.message || 'Unable to find this address.');
+      }
+    }
+
+    document.getElementById('address-search-btn').addEventListener('click', handleSearch);
+    addressInput.addEventListener('keydown', e => {
+      if (e.key === 'Enter') {
+        handleSearch();
+      }
+    });
+  </script>
+</body>
+</html>
