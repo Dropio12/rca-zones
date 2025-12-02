@@ -1,0 +1,187 @@
+
+
+--- Page 1136 ---
+M1Ac
+5500 m²Administration
+ Vente au détail
+ Par établissement
+ Maximal
+65 log/haMinimalR1Parc
+Un bar est associé à un restaurant - article 221
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Un restaurant est associé à un usage de la classe Publique - article 237
+Un établissement d'enseignement secondaire d'une superficie de plancher de plus de 5 000 mètres carrés
+Un centre local de services communautairesUsage associé :
+Usage spécifiquement exclu :
+  6 m  
+Toute partie d'un bâtiment principal dans la zone doit être confinée à l'intérieur du volume compris à l'intérieur d'un angle d'éloignement de 45° à la limite de la zone 23306Hb - 
+article 331.0.1P3
+P5Établissement d'éducation et de formation
+Établissement de santé sans hébergement 
+  
+ S,R,2
+S,R,2C20Restaurant   S,R,2
+25 % 10 % 4   7 m   H1Logement  Isolé
+ Minimum  En rangée
+ Type de bâtiment
+  Nombre de logements autorisés  par bâtiment Localisation
+ Projet d'ensemble
+I2Industrie artisanale   S,R,2C1
+C2
+C3Services administratifs
+Vente au détail et services
+Lieu de rassemblement 
+ 
+  
+ 
+ S,R,2
+S,R,2
+S,R,2
+Réparation ou reconstruction autorisée malgré l'implantation dérogatoire - article 1138.0.15
+Maintien autorisé de l'usage dérogatoire - article 1138.0.16Jumelé
+Maximum 
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logements
+ MARGE DE RECUL À L'AXEDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRES
+GESTION DES DROITS ACQUIS
+CONSTRUCTION DÉROGATOIREBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectareH2Habitation avec services communautaires    Nombre de chambres ou de logements
+ autorisés par bâtiment
+5 m²/log 15 % 25 %  Projet d'ensemble
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge 
+arrière Marge avantMarge 
+latéralePOS
+minimalPourcentage 
+d'aire verte
+minimaleSuperficie 
+d'aire 
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Un mur écran doit être aménagé autour d'une aire de chargement ou de déchargement - article 686 STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHABITATION
+Soumande, Rue /  Québec 20 mètresHauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou +   3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Urbain denseTYPE 
+Un maximum de 3 drapeaux sont autorisés par lot - article 828ENSEIGNE
+DISPOSITIONS PARTICULIÈRESType 4 MixteTYPE   Maximum Minimum RÈGLEMENT DE L'ARRONDISSEMENT DES RIVIÈRES SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Localisation
+Par bâtiment23401Mc
+L'aménagement d'une aire de stationnement devant une façade principale d'un bâtiment principal est prohibé - article 634
+Le stationnement doit être situé à l'intérieur à au moins 90% - article 585
+Le pourcentage minimal du nombre de cases de stationnement aménagées sur un lot qui doivent être à l'intérieur ne s'applique pas à un usage des classes Commerce de consommation
+et de services, Commerce de restauration et de débit d'alcool, Publique, Industrie, Récréation extérieur, et aux usages H1 Logement et H2 Habitations avec services communautaires 
+de moins de 20 unités - article 588.0.1 1136
+
+--- Page 1142 ---
+M1Ac
+5500 m²Administration
+ Vente au détail
+ Par établissement
+ Maximal
+65 log/haMinimalR1Parc
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Un atelier de réparation, d'entretien ou de modification de véhicules automobiles est associé à un établissement de vente au détail lorsque la 
+superficie de plancher de cet établissement est supérieure à 4 000 mètres carrés - article 231
+Le nombre maximal d'établissements destinés à des usages du groupe C31 poste de carburant est de deux - article 301
+Un établissement d'enseignement secondaire d'une superficie de plancher de plus de 12 000 mètres carrésUsage associé :
+Usage contingenté :
+Usage spécifiquement exclu :
+9 m 6 m 6 m 4.5 m
+Un lave-auto ne peut s'implanter qu'à une distance minimale de 50 mètres d'un immeuble abritant un ou des logements - article 373
+Un immeuble abritant un ou des logements ne peut s'implanter qu'à une distance minimale de 50 mètres d'un lave-auto - article 373
+Le rez-de-chaussée doit avoir une hauteur d'au moins 4 mètres - Article 692
+Toute partie d'un bâtiment principal dans la zone doit être confinée à l'intérieur du volume compris à l'intérieur d'un angle d'éloignement de 45° à la limite de la zone 23306Hb - 
+article 331.0.1C31Poste d'essence    
+P3
+P5Établissement d'éducation et de formation
+Établissement de santé sans hébergement 
+  
+ C20
+C21Restaurant
+Débit d'alcool 
+  
+ 
+  6   7 m   H1Logement  Isolé
+ Minimum  En rangée
+ Type de bâtiment
+  Nombre de logements autorisés  par bâtiment
+2,2+Localisation
+ Projet d'ensemble
+I2Industrie artisanale   C1
+C2
+C3Services administratifs
+Vente au détail et services
+Lieu de rassemblement 
+ 
+  
+ 
+ Jumelé
+Maximum 
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+par bâtiment par établissement
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logements
+ MARGE DE RECUL À L'AXEDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRESBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectareH2Habitation avec services communautaires    Nombre de chambres ou de logements
+ autorisés par bâtiment
+5 m²/log 15 % 25 %Projet d'ensemble  Projet d'ensemble
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge 
+arrière Marge avantMarge 
+latéralePOS
+minimalPourcentage 
+d'aire verte
+minimaleSuperficie 
+d'aire 
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Le stationnement doit être situé à l'intérieur à au moins 90 %  - article 585
+Un mur écran doit être aménagé autour d'une aire de chargement ou de déchargement - article 686 STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHABITATION
+COMMERCE ASSOCIÉ AUX VÉHICULES AUTOMOBILES
+Wilfrid-Hamel, Boulevard /  Québec 22 mètresHauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou +   3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Urbain denseTYPE    Maximum Minimum RÈGLEMENT DE L'ARRONDISSEMENT DES RIVIÈRES SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Localisation
+Par bâtiment23406Mb
+Une aire de chargement ou de déchargement d'un usage du groupe C2 vente au détail et services d'une superficie de plancher de plus de 2000 mètres carrés doit être dissimulée 
+derrière un mur écran d'une hauteur minimale de quatre mètres ou être aménagée à l'intérieur d'un bâtiment principal - article 681
+L'aménagement d'une aire de stationnement devant une façade principale d'un bâtiment principal est prohibé - article 634
+Le pourcentage minimal du nombre de cases de stationnement aménagées sur un lot qui doivent être à l'intérieur ne s'applique pas à un usage des classes Commerce de consommation
+et de services, Commerce de restauration et de débit d'alcool, Commerce associé aux véhicules automobiles, Publique, Industrie, Récréation extérieur, et aux usages H1 Logement et 
+H2 Habitations avec services communautaires de moins de 20 unités - article 588.0.1 1142

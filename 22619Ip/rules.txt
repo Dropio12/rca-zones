@@ -1,0 +1,84 @@
+
+
+--- Page 1060 ---
+CD/Su 0Cc
+5500 m²Administration
+5500 m²Vente au détail
+4400 m²Par établissement
+0 log/haMaximal
+0 log/haMinimalUn restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212Usage associé :
+ 3 m 6 m 3 mC36
+C37
+C38Atelier de réparation
+Atelier de carrosserie
+Vente, location ou réparation d'équipement lourd 
+ 
+  
+ 
+  
+ 
+ 
+C40Générateur d'entreposage   
+P3
+P8Établissement d'éducation et de formation
+Équipement de sécurité publique  
+    24 m    I2
+I3Industrie artisanale
+Industrie générale 
+  
+ C2
+C3Vente au détail et services
+Lieu de rassemblement 
+  
+ Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+par bâtiment par établissement
+Projet d'ensemble par établissement par bâtiment COMMERCE À INCIDENCE ÉLEVÉE
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancherSuperficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+   MATÉRIAUX DE REVÊTEMENTBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectare 10 % 20 %Projet d'ensemble
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge 
+arrière Marge avantMarge 
+latéralePOS
+minimalPourcentage 
+d'aire verte
+minimaleSuperficie 
+d'aire 
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Pourcentage minimal exigé
+A
+B
+C
+DUne marchandise, à l'exception des suivantes :  un véhicule automobile; une marchandise mentionnée aux paragraphes 2° à 6°
+Un matériau de construction, à l'exception des suivants :  la terre; le sable; la pierre; toute autre matière granuleuse ou organique
+Un équipement d'une hauteur maximale de trois mètres, tel qu'un conteneur, un échafaudage ou un outillage
+Un véhicule automobile dont le poids nominal brut est de 4 500 kilogrammes et plus, un équipement d'une hauteur de plus de trois mètres, un véhicule-outil ou une 
+machinerie qui se meut à l'aide d'un moteurENTREPOSAGE EXTÉRIEUR
+TYPE 
+D'ENTREPOSAGEBIEN OU MATÉRIAUX VISÉS PAR LE TYPE D'ENTREPOSAGE EXTÉRIEURSTATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESCOMMERCE ASSOCIÉ AUX VÉHICULES AUTOMOBILES
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou +   3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+GénéralTYPE 
+ENSEIGNE
+Type 6 CommercialTYPEMatériaux prohibés : Vinyle
+Enduit : stuc ou agrégat exposé
+Clin de bois
+Clin de fibre de boisRÈGLEMENT DE L'ARRONDISSEMENT DES RIVIÈRES SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Par bâtiment22616Cb
+Une case de stationnement requise peut être située sur une aire de stationnement aménagée dans la zone 22619Ip - article 610 1060

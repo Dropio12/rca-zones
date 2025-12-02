@@ -1,0 +1,209 @@
+
+
+--- Page 913 ---
+CV* 1Aa
+ Administration
+ Vente au détail
+4400 m²Par établissement
+ Maximal
+65 log/haMinimalR1Parc
+La location d'une chambre à une clientèle de passage est associée à un logement - article 178
+Une aire de stationnement est associée à un usage autre qu'un usage de la classe Habitation - article 197
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une aire de stationnement autorisée à titre d'usage associé doit être souterraine - article 200
+Un bar est associé à un usage de la classe Publique - article 236
+Un restaurant est associé à un usage de la classe Publique - article 237
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Un usage du groupe C1 services administratifs est associé à un usage de la classe Publique - article 238
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+La distance minimale entre deux endroits destinés à la location, pour une courte durée, d'une chambre à une clientèle de passage, associée à un 
+logement est de 100 mètres - article 301
+Le nombre maximal d'établissements destinés à un usage du groupe C21 débit d'alcool dans la zone 13005Mb est de dix -article 299
+Atelier d'artiste - article 85Usage associé :
+Usage contingenté :
+Usage spécifiquement autorisé :
+    
+Calcul de la hauteur maximale d'un bâtiment sur un terrain en pente - article 340
+Lorsqu'un usage du groupe C1 services administratifs est exercé, à titre d'usage principal, d'usage associé ou d'usage accessoire, au rez-de-chaussée d'un bâtiment, la façade 
+principale de ce bâtiment doit comporter une vitrine - article 692P1
+P3
+P5
+P8Équipement culturel et patrimonial
+Établissement d'éducation et de formation
+Établissement de santé sans hébergement
+Équipement de sécurité publique 
+ 
+  
+ 
+ R,R+,2C20
+C21Restaurant
+Débit d'alcool 
+ 500 m²
+100 m²R,R+,1
+R,R+
+    13 m 6 m   H1Logement 1 Isolé
+1 Minimum 1 En rangée
+8 Type de bâtiment
+8 8 Nombre de logements autorisés  par bâtiment
+2,2+Localisation
+ Projet d'ensemble
+logement protégé
+I1
+I2Industrie de haute technologie
+Industrie artisanale 
+200 m² 
+ R,R+
+R,R+C1
+C2
+C3Services administratifs
+Vente au détail et services
+Lieu de rassemblement 
+ 
+  
+ 
+ R,R+,1,2
+R,R+,1
+R,R+,1Jumelé
+Maximum 
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRESBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectare4 m²/log  35 %R+
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge 
+arrière Marge avantMarge 
+latéralePOS
+minimalPourcentage 
+d'aire verte
+minimaleSuperficie 
+d'aire 
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Le stationnement doit être situé à l'intérieur à au moins 100 %  - article 585STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHABITATION
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou +   3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Urbain denseTYPE RÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+H3Maison de chambres et de pension    Nombre de chambres autorisées par bâtiment
+  Localisation Projet d'ensemble
+   Maximum Minimum 
+Par bâtiment13005Mb R.C.A.1V.Q. 480
+Exemption de tablier de manoeuvre - article 676 913
+
+--- Page 914 ---
+Remplacement autorisé d'un usage dérogatoire - article 856
+Réparation ou reconstruction autorisée malgré l'implantation dérogatoire - article 1138.0.15
+Maintien autorisé de l'usage dérogatoire - article 1138.0.16
+AUTRES DISPOSITIONS PARTICULIÈRES
+Une clôture ajourée à au moins 80% ou une haie peut être implantée en cour avant à la limite du lot - article 518
+Protection des arbres en milieu urbain - article 702
+Aucune enseigne n'est autorisée pour un service de lave-auto à l'extérieur du bâtiment dans lequel il est exercé - article 766GESTION DES DROITS ACQUIS
+USAGE DÉROGATOIRE
+CONSTRUCTION DÉROGATOIRE
+ENSEIGNE
+Type 3 Rue principale de quartierTYPERÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+13005Mb R.C.A.1V.Q. 480  914
+
+--- Page 1584 ---
+s: 165,2
+s: 275,8s: 306,1
+s: 256,8s: 149,5
+s: 264,9s: 144,2s: 157,2
+10,17
+9,34
+15,326,64
+1,2324,80
+14,636,61
+21,00
+0,193,15
+12,5913,59
+3,99
+5,3910,536,576,32
+6,53
+14,387,2314,6719,1929,89
+6,167,006,71
+7,016,4024,79
+15,0924,1521,1824,83
+3,6516,85
+0,20#509A#515#531#537
+#505#525
+#519#535#500
+#501#511
+#495
+#499#509
+1 213 033
+3 622 3701 213 049
+1 213 0381 213 048
+1 213 0341 213 0361 213 023
+1 213 024S: 2 775,6
+1 623 220
+13005Mb
+13007Hb
+13007HbRue Saint-Jean
+No du règlement :
+Préparé par :No du plan :
+Échelle :R.C.A.1V.Q. 4
+M.M. 1:200
+ANNEXE IV
+LOT NUMÉRO 1213024 -
+TERRITOIRE SUR LEQUEL UNE PERMISSION D'OCCUPATION PEUT ÊTRE PERMISELot visé
+Limite de lot
+Bâtiments principaux
+Zone de zonage
+RCA1VQ4PC51PLAN DE CONSTRUCTION - ANNEXE "IV"
+SERVICE DE LA PLANIFICATION
+DE L'AMÉNAGEMENT ET
+DE L'ENVIRONNEMENT1584
+
+--- Page 1620 ---
+ 3° préserver la fonction résidentielle sur la rue Richelieu en au torisant 
+uniquement des logements à tous les étages, incluant le rez-de-ch aussée;  
+4° tenir compte du caractère patrimonial du faubourg Saint-Jean-B aptiste 
+relativement à la trame cadastrale, à l’implantation et à la hauteur d es 
+bâtiments, à la typologie des logements et aux caractéristiques archi tecturales 
+d'ensemble;  
+5° exprimer le caractère moderne du projet par une composition qui  utilise un 
+vocabulaire architectural contemporain, tout en s’insérant harmonieu sement 
+dans le contexte du faubourg Saint-Jean-Baptiste;  
+6° favoriser la réalisation d’un projet exemplaire par l’intég ration des 
+tendances reconnues en matière de design et de technologies 
+environnementales. 
+CHAPITRE II 
+CRITÈRE DE DESIGN ET D’AMÉNAGEMENT 
+SECTION I 
+USAGES ET NORMES D’IMPLANTATION 
+5. 5. 5. 5.  Le niveau des locaux commerciaux doit être le plus possible en c ontact 
+direct avec la circulation piétonne publique.  
+6. 6. 6. 6.  Les usages autorisés et les normes d’implantation applicables son t ceux 
+prescrits à l’égard de la zone 13005Mb en vertu du présent règl ement, à 
+l’exception de ce qui suit : 
+1° aucun nombre maximal de logements ne s’applique; 
+2° au rez-de-chaussée de la rue Richelieu, seul l’usage H1 logement  est 
+autorisé; 
+3° aucune superficie maximale de plancher ne s’applique, sauf la su perficie de 
+plancher maximale de vente au détail de 4 400 mètres carrés par établiss ement. 
+7. 7. 7. 7.  Malgré l'article 6,  la hauteur maximale autorisée d'un bâtiment est de 
+15,5 mètres. 
+Malgré le premier alinéa, une portion du bâtiment peut atteindre jusqu'à 
+18,7 mètres de hauteur et celle-ci ne doit pas excéder 30 % de la projection au 
+sol totale du bâtiment. Elle doit majoritairement être locali sée dans la moitié 1620

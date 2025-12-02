@@ -1,0 +1,253 @@
+
+
+--- Page 633 ---
+10 m
+10 m
+10 m15 m10 m
+10 m
+35 m4,5 m
+10 m
+10 m3 m
+3 m5 m
+3 m5 m
+75 m
+15021Ma
+15082Ra
+15083Hb15061Hb15063Hb15064Ma15044Pa
+15056Ra
+15030Cc15026Hb15053Pa
+15034Cb15043Hb15041Hb
+15072Hb15060Pa15046Hb
+15058Pb
+15005Cb15011Ip15018Hb
+15027Ip15028Hb
+15067Hc15014Pb
+15062Mb
+15006Cc15008Pa
+15012Mb
+15015Ra15017Ma15007Rb
+15025Pb15074Hb15068Mb15055Hb
+15077Ip
+15033Rb15016Ra15045Mc15059Hb
+15078Rb15047Pb
+15013Ha15029Mb
+15075Mb
+15070Hb15065Hb15069Hc15042Ra
+15066Mb15073Mb
+15031Ip15036Hb15038Mc15039Pb15040Ra
+15050Hb
+15054Hb
+15032Ra15051Mb15057Mb
+15080Ha15009Ha
+15035Mb15010Ia15037Ra
+15079Hb15071Hb15076Rb15022Pa15052Hb15019Pa
+15024Ip15020Mb15081Ha
+Chemin Sainte-FoyRue Chabot
+Rue Saint-Vallier OuestBoulevard Charest Ouest
+Rue Kirouac
+Rue Bagot
+Rue BorneBoulevard Wilfrid-Hamel
+Rue Napoléon
+Rue Raoul-JobinRue Franklin
+Rue AnnaRue Hermine
+Rue FraserAvenue Proulx
+Boulevard René-Lévesque OuestAvenue JoffreRue BayardAvenue des OblatsAvenue GauvinRue Bourdages
+Rue Saint-Luc
+Rue SempleRue NolinAvenue Bélanger
+Rue de l'Aqueduc
+Rue GarnierRue Durocher
+Avenue BelvédèreRue Boisseau
+Rue Arago OuestRue Blouin
+Boulevard Pierre-Bertrand
+Rue ChâteauguayAvenue PlanteAvenue Giguère
+Rue Marie-de-l'Incarnation
+Rue Saint-SauveurRue Caron
+Rue Frank-CarrelRue des ArdennesRue Dollard
+Avenue Brown
+Autoroute CharestAutoroute Laurentienne
+Rue de Montmartre
+Avenue Bernatchez
+Avenue MonkRue Victoria
+Rue Cyrille-DuquetAvenue Turcotte
+Rue ProvincialeRue Père-Grenier
+Boulevard de l'EntenteBoulevard Père-Lelièvre
+Rue des ArtisansRue Saint-Germain
+Rue Lafayette
+Avenue des BravesRue de Dieppe
+Rue Taillon
+Rue BarrinBoulevard LangelierRue de Carillon
+Rue Beaucage
+Rue De MazenodRue Saint-Bernard
+Avenue Ernest-GagnonRue Renaud
+Avenue MurrayRue Christophe-Colomb OuestRue du RoiRue Bigaouette
+Rue Marie-Louise
+Rue Vincent-MasseyAvenue Rousseau
+Rue Signaï
+Avenue des ÉrablesAvenue De Bougainville
+Avenue HollandAvenue Calixa-LavalléeRue des Franciscains
+Rue EymardRue Raymond-Casgrain
+Rue Marie-RolletRue Saint-Léon
+Rue Dolbeau
+Rue Lescarbot
+Rue De CallièresAvenue Ducharme
+Rue BardouAvenue Santerre
+Rue Saint-MathiasRue Saint-Benoît
+Rue de la Reine
+Rue Saint-Ambroise
+Rue Crémazie OuestRue De La Salle
+Rue Père-Marquette
+Rue FrontenacRue Saint-Ignace
+Avenue George-VIRue BouffardAvenue Béchard
+Rue des TanneursAvenue du Chanoine-Côté
+Rue Cardinal
+Avenue du ParcAvenue CasotRue du Cardinal-Maurice-Roy
+Rue Soumande
+Avenue ChampagnatRue Victor-Delamarre
+Rue Monseigneur-Plessis
+Rue Sainte-Agnès
+Rue de CourceletteAvenue Pruneau
+Rue Churchill
+Rue RicherRue Arthur-GagnéRue Lalemant
+Rue Jeanne-d'Arc
+Avenue BaillairgéRue Dorchester
+Avenue De BienvilleRue de l'Armée
+Avenue du Cardinal-BéginAvenue des JésuitesRue Montmagny
+Avenue Sir-Adolphe-RouthierAvenue Cardinal-RouleauRue Père-Lacombe
+Rue HocquartRue Panet
+Avenue Saint-SacrementRue D'Argenson
+Avenue Dessane
+Avenue de MériciRue Chênevert
+Rue RooseveltRue Saint-Bonaventure
+Rue de l'AviationRue Guyart
+Rue de la Marine
+Rue Jackson
+Avenue Marguerite-BourgeoysRue Saint-François Ouest
+Rue de la Victoire
+Rue De LongueuilRue Alleyn
+Avenue De BourlamaqueRue LeberRue Émile-FontaineRue Saint-Joseph EstRue Desrochers
+Rue Saint-François Est
+Rue JérômeRue du Prince-Édouard
+Rue Louis-JettéRue Isabelle-Aubert
+Rue Gamelin
+Côte de la Pente-DouceRue des Commissaires Est
+Rue des Jardins-MériciRue DumontRue Bérubé
+Avenue DésyRue du Cardinal-Taschereau
+Avenue des LaurentidesRue de Verdun
+Rue Léon-HarmelRue de la Pointe-aux-Lièvres
+Rue Arago Est
+Côte De SalaberryRue Corinne
+Avenue Chouinard
+Avenue Émile-CôtéCôte de l'Aqueduc
+Avenue De LévisRue Robert-RumillyRue Irma-LeVasseur
+Rue De LauneAvenue Simon-Napoléon-Parent
+Rue Aurèle-Cloutier
+Avenue LesageBoulevard Charest Est
+Avenue de VimyRue Ratté
+Rue des Ingénieurs
+Avenue Cartier
+Avenue MontcalmRue De Saint-Vallier EstRue Notre-Dame-des-AngesRue ChevrièreRue Latulippe
+Rue Général-VanierRue Demers
+Rue LearmonthRue Chénier
+Rue DefoyeRue des Commissaires Ouest
+Boulevard ChamplainRue de la TourelleRue Marceau
+Avenue Lemesurier
+Rue De RepentignyAvenue de l'Alverne
+Rue SaundersRue Lavigueur
+Rue LavoisierRue Turgeon
+Rue JollietRue Laviolette
+Rue de Candiac
+Avenue Thornhill
+Rue Maréchal-FochRue de l'Ancienne-CartoucherieRue Eugène-ChinicAvenue du Sacré-Coeur
+Rue De La JonquièreRue des Embarcations
+Avenue VauquelinAvenue MonctonRue Marie-Brière
+Avenue BranlyRue de la Croix-Rouge
+Rue Père-ArnaudRue LebouthillierRue Général-McNaughtonRue Christophe-Colomb EstRue Saint-Alexis
+Avenue Larose
+Avenue Louis-FréchetteAvenue du Pont-Scott
+Rue Lomer-GouinRue Saint-Olivier
+Avenue du RavinRue Louis-Adolphe-RobitailleRue AberdeenRue ColbertRue Lee
+Avenue de ManrèseRue Tourangeau
+Rue des Soeurs-du-Bon-PasteurRue Saint-Joseph OuestRue du Chalutier
+Rue De Sainte-Hélène
+Rue Saint-OursRue Père-AlbanelRue RichelieuRue De Rigauville
+Rue De LongpréRue SherbrookeRue de la Maréchaussée
+Rue DallaireRue Elzéar-BédardRue Jeanne-Burel
+Rue Nazaire-Fortier
+Rue du Boisé-de-SilleryRue Oscar-DrouinRue Louise-Verret
+Rue De Jumonville
+Rue Émile-Coderre
+Rue de la Minéralogie
+Rue du Père-VimontRue D'AvaugourRue Yvon-Guillou
+Avenue ChapdelaineRue D'Ailleboust
+Rue Lavergne
+Rue Catherine-JérémieRue Saint-LaurentRue Louis-FalardeauRue Joseph-Isabelle
+Rue Denis-Jamet
+Rue du Parc-ThornhillRue Henri-Landry
+Rue Garagonthié
+Rue du Père-HiralRue Saint-CrépinRue Catherine-Isambert
+Rue Bernard-Leonard
+Boulevard Wilfrid-HamelRue Demers
+Rue Père-MarquetteRue Père-MarquetteBoulevard Wilfrid-HamelRue Saint-Léon
+Boulevard Wilfrid-Hamel
+Avenue ChapdelaineRue Blouin
+Rue Raymond-CasgrainAvenue Bernatchez
+Avenue MurrayRue MontmagnyRue Beaucage
+Rue Père-MarquetteRue Beaucage
+Rue Provinciale
+Autoroute CharestRue BouffardBoulevard Pierre-Bertrand
+Avenue Louis-FréchetteRue Beaucage
+Rue Marie-de-l'Incarnation
+Rue Vincent-MasseyRue Saint-LucAvenue Pruneau
+Avenue MonctonRue BeaucageRue Monseigneur-Plessis
+Rue Marie-LouiseAvenue Santerre
+Rue de VerdunBoulevard Pierre-Bertrand
+Avenue de VimyAvenue du Pont-Scott
+LISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M.
+PLAN Nº
+CA1Q15Z01ÉCHELLE
+1:3 500R.C.A.1V.Q. 4
+EN VIGUEUR LE :2010-01-05
+2025-08-26M.M. R.C.A.1V.Q.42 2010-10-28
+M.M. R.C.A.1V.Q.48 2011-12-07
+M.M. R.C.A.1V.Q.91 2012-04-16
+M.M. R.C.A.1V.Q.120 2013-02-18
+SERVICE DE LA PLANIFICATION
+ET DE LA COORDINATION DE
+L'AMÉNAGEMENT DU TERRITOIRE
+ET DE L'ENVIRONNEMENT
+DIVISION DE LA PLANIFICATION
+DU TERRITOIRE
+TERRITOIRE 1-5RÈGLEMENT DE L'ARRONDISSEMENT
+DE LA CITÉ-LIMOILOU SUR L'URBANISME
+ANNEXE I
+ZONAGE
+M.M. R.C.A.1V.Q.271 2016-08-19
+M.M. R.C.A.1V.Q.289 2017-02-20LÉGENDE
+Limite de zone
+Butte écran
+Mur anti-bruit
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulier
+S.R. R.C.A.1V.Q.461 2023-01-26
+S.R. R.C.A.1V.Q.475 2023-04-17
+S.R. R.C.A.1V.Q.485 2023-11-21
+S.R. R.C.A.1V.Q.521 2024-11-28
+S.R. R.C.A.1V.Q.536 2025-05-01
+S.R. R.C.A.1V.Q.548 2025-08-26633
+
+--- Page 1077 ---
+AUTRES DISPOSITIONS PARTICULIÈRES
+Une clôture ajourée à au moins 80% ou une haie peut être implantée en cour avant à la limite du lot - article 518
+L'installation d'un auvent ou d'un parasol est autorisée au-dessus d'un café terrasse - article 507
+Protection des arbres en milieu urbain - article 702
+Aucune enseigne n'est autorisée pour un service de lave-auto à l'extérieur du bâtiment dans lequel il est exercé - article 766ENSEIGNE
+Type 4 MixteTYPERÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+15021Ma  1077

@@ -1,0 +1,448 @@
+
+
+--- Page 818 ---
+CV* 1 A aAdministration Vente au détail
+4400 m²Par établissementMaximal
+65 log/haMinimalR1 Parc
+La location d'une chambre à une clientèle de passage est associée à un logement - article 178
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une piste de danse est  associée à un restaurant ou un débit d'alcool - article 224
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Le nombre maximal d'établissements destinés à un usage du groupe C21 débit d'alcool dans le groupe des zones contigües 12031Mc,  12047Cc, 
+12049Cc, 12054Cc et 12083Mc est de six - article 299
+Atelier d'artiste - article 85Usage associé :
+Usage contingenté :
+Usage spécifiquement autorisé :
+Lorsque qu'un usage des groupes C1 services administratifs, C10 établissement d'hébergement touristique général, C12 auberge de  jeunesse, P5 établissement de santé sans 
+hébergement et I1 industrie de haute technologie est exercé à titre d'usage principal, d'usage associé ou d'usage accessoire au  rez-de-chaussée d'un bâtiment, une façade donnant 
+sur la rue Saint-Joseph Est doit comporter une vitrine au rez-de-chaussée - article 692C30 Stationnement et poste de taxi Souterrain 100
+P1
+P3
+P4P5P6Équipement culturel et patrimonial
+Établissement d'éducation et de formation
+Établissement d'éducation post-secondaireÉtablissement de santé sans hébergementÉtablissement de santé avec hébergementC20C21Restaurant
+Débit d'alcool R,1+
+S,R,1+
+33 mH1 LogementIsolé
+MinimumEn rangéeType de bâtiment
+Nombre de logements autorisés  par bâtiment
+2,2+Localisation Projet d'ensemble
+logement protégé
+I1
+I2Industrie de haute technologie
+Industrie artisanale R,1C1C2C3Services administratifs
+Vente au détail et services
+Lieu de rassemblement
+R,1
+R,1
+C10
+C12Établissement d'hébergement touristique général
+Auberge de jeunesse2,2+Jumelé
+Maximum
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Nombre maximal d'unités
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE D'HÉBERGEMENT TOURISTIQUE
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation COMMERCE ASSOCIÉ AUX VÉHICULES AUTOMOBILES Type %
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRESBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectareH2 Habitation avec services communautairesNombre de chambres ou de logements
+ autorisés par bâtiment
+3 m²/log 35 %2,2+Projet d'ensembleR+
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge
+arrière Marge avantMarge
+latéralePOS
+minimalPourcentage
+d'aire verte
+minimaleSuperficie
+d'aire
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALESHABITATION
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou + 3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtimentMaximumMinimumRÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+H3 Maison de chambres et de pensionNombre de chambres autorisées par bâtiment
+2,2+Localisation Projet d'ensemble
+MaximumMinimumLocalisation
+Par bâtiment12031Mc R.V.Q. 3374818
+
+--- Page 842 ---
+CV* 1 A aAdministration Vente au détail
+4400 m²Par établissementMaximal
+65 log/haMinimalR1 Parc
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une piste de danse est  associée à un restaurant ou un débit d'alcool - article 224
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Le nombre maximal d'établissements destinés à un usage du groupe C21 débit d'alcool dans le groupe des zones contigües 12031Mc,  12047Cc, 
+12049Cc, 12054Cc et 12083Mc est de six - article 299
+Atelier d'artiste - article 85Usage associé :
+Usage contingenté :
+Usage spécifiquement autorisé :
+0 m 0 m 0 m 0 m
+Lorsque qu'un usage des groupes C1 services administratifs, C10 établissement d'hébergement touristique général, C12 auberge de  jeunesse, P5 établissement de santé sans 
+hébergement et I1 industrie de haute technologie est exercé à titre d'usage principal, d'usage associé ou d'usage accessoire au  rez-de-chaussée d'un bâtiment, une façade donnant 
+sur la rue Saint-Joseph Est doit comporter une vitrine au rez-de-chaussée - article 692
+Remplacement autorisé d'un usage dérogatoire - article 856C30 Stationnement et poste de taxi Souterrain 100
+P1
+P5Équipement culturel et patrimonial
+Établissement de santé sans hébergementC20
+C21Restaurant
+Débit d'alcoolR,1+
+R,1+
+60 mH1 LogementIsolé
+MinimumEn rangéeType de bâtiment
+Nombre de logements autorisés  par bâtiment
+2,2+Localisation Projet d'ensemble
+logement protégé
+I1
+I2Industrie de haute technologie
+Industrie artisanale2,3,4
+R,1C1
+C2C3Services administratifs
+Vente au détail et servicesLieu de rassemblement2,3,4
+R,1
+R,1
+Réparation ou reconstruction autorisée malgré l'implantation dérogatoire - article 1138.0.15
+Maintien autorisé de l'usage dérogatoire - article 1138.0.16Jumelé
+Maximum
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation COMMERCE ASSOCIÉ AUX VÉHICULES AUTOMOBILES Type %
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRES
+GESTION DES DROITS ACQUIS
+USAGE DÉROGATOIRE
+CONSTRUCTION DÉROGATOIREBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectare4 m²/log 5 % 35 %R+
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge
+arrière Marge avantMarge
+latéralePOS
+minimalPourcentage
+d'aire verte
+minimaleSuperficie
+d'aire
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Le stationnement doit être situé à l'intérieur à au moins 100 %  - article 585STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHABITATION
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou + 3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Urbain denseTYPERÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Par bâtiment12047Cc R.V.Q. 3374
+Agrandissement autorisé d'un usage autre qu'un usage du groupe H1 logement dans un bâtiment d'au plus trois logements ou un usa ge du groupe C21 débit d'alcool - article 875842
+
+--- Page 846 ---
+CV* 1A aAdministration Vente au détail
+4400 m²Par établissementMaximal
+65 log/haMinimalR1 Parc
+La location d'une chambre à une clientèle de passage est associée à un logement - article 178
+Une aire de stationnement est associée à un usage autre qu'un usage de la classe Habitation - article 197
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une piste de danse est  associée à un restaurant ou un débit d'alcool - article 224
+Une aire de stationnement autorisée à titre d'usage associé doit être souterraine - article 200
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Le nombre maximal d'établissements destinés à un usage du groupe C21 débit d'alcool dans le groupe des zones contigües 12031Mc,  12047Cc, 
+12049Cc, 12054Cc et 12083Mc est de six - article 299
+Atelier d'artiste - article 85Usage associé :
+Usage contingenté :
+Usage spécifiquement autorisé :
+Lorsque qu'un usage des groupes C1 services administratifs, C10 établissement d'hébergement touristique général, C12 auberge de  jeunesse, P5 établissement de santé sans 
+hébergement et I1 industrie de haute technologie est exercé à titre d'usage principal, d'usage associé ou d'usage accessoire au  rez-de-chaussée d'un bâtiment, une façade donnant 
+sur la rue Saint-Joseph Est doit comporter une vitrine au rez-de-chaussée - article 692P1
+P3
+P5P6Équipement culturel et patrimonial
+Établissement d'éducation et de formation
+Établissement de santé sans hébergementÉtablissement de santé avec hébergementC20C21Restaurant
+Débit d'alcool
+R,1+
+22 mH1 LogementIsolé
+MinimumEn rangéeType de bâtiment
+Nombre de logements autorisés  par bâtiment
+2,2+Localisation Projet d'ensemble
+nombre maximal de bâtiments dans une rangéelogement protégé
+I1
+I2Industrie de haute technologie
+Industrie artisanale R,1C1
+C2
+C3
+C4Services administratifs
+Vente au détail et services
+Lieu de rassemblement
+Salle de jeux mécaniques ou électroniques 100 m²R,1
+R
+C10
+C12Établissement d'hébergement touristique général
+Auberge de jeunesse2,2+Jumelé
+Maximum
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Nombre maximal d'unités
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE D'HÉBERGEMENT TOURISTIQUE
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRESBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectare5 m²/log 5 % 35 %R+
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge
+arrière Marge avantMarge
+latéralePOS
+minimalPourcentage
+d'aire verte
+minimaleSuperficie
+d'aire
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Le stationnement doit être situé à l'intérieur à au moins 100 %  - article 585
+Un mur écran doit être aménagé autour d'une aire de chargement ou de déchargement - article 686 STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHABITATION
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou + 3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Urbain denseTYPERÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Par bâtiment12049Cc R.V.Q. 3374846
+
+--- Page 855 ---
+CV* 1 A aAdministration Vente au détail
+4400 m²Par établissementMaximal
+65 log/haMinimalR1 Parc
+La location d'une chambre à une clientèle de passage est associée à un logement - article 178
+Une aire de stationnement est associée à un usage autre qu'un usage de la classe Habitation - article 197
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une piste de danse est  associée à un restaurant ou un débit d'alcool - article 224
+Une aire de stationnement autorisée à titre d'usage associé doit être souterraine - article 200
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Le nombre maximal d'établissements destinés à un usage du groupe C21 débit d'alcool dans le groupe des zones contigües 12031Mc,  12047Cc, 
+12049Cc, 12054Cc et 12083Mc est de six - article 299
+Atelier d'artiste - article 85Usage associé :
+Usage contingenté :
+Usage spécifiquement autorisé :
+0 m 0 m 0 m 0 m
+Lorsque qu'un usage des groupes C1 services administratifs, C10 établissement d'hébergement touristique général, C12 auberge de  jeunesse, P5 établissement de santé sans 
+hébergement et I1 industrie de haute technologie est exercé à titre d'usage principal, d'usage associé ou d'usage accessoire au  rez-de-chaussée d'un bâtiment, une façade donnant 
+sur la rue Saint-Joseph Est doit comporter une vitrine au rez-de-chaussée - article 692P1
+P5Équipement culturel et patrimonial
+Établissement de santé sans hébergementC20C21Restaurant
+Débit d'alcool
+60 mH1 LogementIsolé
+MinimumEn rangéeType de bâtiment
+Nombre de logements autorisés  par bâtiment
+2,2+Localisation Projet d'ensemble
+I1
+I2Industrie de haute technologie
+Industrie artisanale R,1+C1
+C2
+C3Services administratifs
+Vente au détail et services
+Lieu de rassemblement2,3,4
+R,1
+R,1
+C10 Établissement d'hébergement touristique généralJumelé
+Maximum
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Nombre maximal d'unités
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE D'HÉBERGEMENT TOURISTIQUE
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRESBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectareH2 Habitation avec services communautairesNombre de chambres ou de logements
+ autorisés par bâtiment
+5 m²/log 5 % 35 %2,2+Projet d'ensemble
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge
+arrière Marge avantMarge
+latéralePOS
+minimalPourcentage
+d'aire verte
+minimaleSuperficie
+d'aire
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Le stationnement doit être situé à l'intérieur à au moins 100 %  - article 585
+Un mur écran doit être aménagé autour d'une aire de chargement ou de déchargement - article 686 STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHABITATION
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou + 3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Urbain denseTYPEMaximumMinimumRÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Localisation
+Par bâtiment12054Cc R.V.Q. 3374855
+
+--- Page 856 ---
+Remplacement autorisé d'un usage dérogatoire - article 856
+Réparation ou reconstruction autorisée malgré l'implantation dérogatoire - article 1138.0.15
+Maintien autorisé de l'usage dérogatoire - article 1138.0.16
+AUTRES DISPOSITIONS PARTICULIÈRES
+Une clôture ajourée à au moins 80% ou une haie peut être implantée en cour avant à la limite du lot - article 518
+L'installation d'un auvent ou d'un parasol est autorisée au-dessus d'un café terrasse - article 507
+Protection des arbres en milieu urbain - article 702
+Aucune enseigne n'est autorisée pour un service de lave-auto à l'extérieur du bâtiment dans lequel il est exercé - article 766Affichage numérique - article 815.0.1GESTION DES DROITS ACQUIS
+USAGE DÉROGATOIRE
+CONSTRUCTION DÉROGATOIRE
+ENSEIGNE
+Type 6 CommercialTYPERÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+12054Cc R.V.Q. 3374
+Agrandissement autorisé d'un usage autre qu'un usage du groupe H1 logement dans un bâtiment d'au plus trois logements ou un usa ge du groupe C21 débit d'alcool - article 875856
+
+--- Page 897 ---
+CV* 1 A aAdministration Vente au détail
+4400 m²Par établissementMaximal
+65 log/haMinimalR1 Parc
+La location d'une chambre à une clientèle de passage est associée à un logement - article 178
+Une aire de stationnement est associée à un usage autre qu'un usage de la classe Habitation - article 197
+Un bar est associé à un usage du groupe C3 lieu de rassemblement - article 212
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une piste de danse est  associée à un restaurant ou un débit d'alcool - article 224
+Une aire de stationnement autorisée à titre d'usage associé doit être souterraine - article 200
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+La vente de propane est associée un à usage du groupe C2 vente au détail et services  - article 205
+Un restaurant est associé à un usage du groupe C3 lieu de rassemblement - article 210
+Le nombre maximal d'établissements destinés à un usage du groupe C21 débit d'alcool dans le groupe des zones contigües 12031Mc,  12047Cc, 
+12049Cc, 12054Cc et 12083Mc est de six - article 299
+Atelier d'artiste - article 85Usage associé :
+Usage contingenté :
+Usage spécifiquement autorisé :
+Lorsque qu'un usage des groupes C1 services administratifs, C10 établissement d'hébergement touristique général, C12 auberge de  jeunesse, P5 établissement de santé sans 
+hébergement et I1 industrie de haute technologie est exercé à titre d'usage principal, d'usage associé ou d'usage accessoire au  rez-de-chaussée d'un bâtiment, une façade donnant 
+sur la rue Saint-Joseph Est doit comporter une vitrine au rez-de-chaussée - article 692P1
+P3
+P4
+P5
+P6Équipement culturel et patrimonial
+Établissement d'éducation et de formation
+Établissement d'éducation post-secondaire
+Établissement de santé sans hébergement
+Établissement de santé avec hébergementC20C21Restaurant
+Débit d'alcool R,1+
+S,R,1+
+33 mH1 LogementIsolé
+MinimumEn rangéeType de bâtiment
+Nombre de logements autorisés  par bâtiment
+2,2+Localisation Projet d'ensemble
+logement protégé
+I1
+I2Industrie de haute technologie
+Industrie artisanale R,1C1
+C2C3Services administratifs
+Vente au détail et services
+Lieu de rassemblement R,1
+R,1
+C10
+C12Établissement d'hébergement touristique général
+Auberge de jeunesseJumelé
+Maximum
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Nombre maximal d'unités
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE D'HÉBERGEMENT TOURISTIQUE
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+Localisation Projet d'ensemble par établissement par bâtiment INDUSTRIE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRESBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectareH2 Habitation avec services communautairesNombre de chambres ou de logements
+ autorisés par bâtiment
+3 m²/log 35 %2,2+Projet d'ensembleR+
+DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge
+arrière Marge avantMarge
+latéralePOS
+minimalPourcentage
+d'aire verte
+minimaleSuperficie
+d'aire
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALESHABITATION
+Hauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou + 3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtimentMaximumMinimumRÈGLEMENT DE L'ARRONDISSEMENT DE LA CITÉ-LIMOILOU  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+H3 Maison de chambres et de pensionNombre de chambres autorisées par bâtiment
+2,2+Localisation Projet d'ensemble
+MaximumMinimumLocalisation
+Par bâtiment12083Mc R.V.Q. 3374897

@@ -1,0 +1,714 @@
+--- PAGE 1 ---
+Service des affaires juridiques
+Ce document est une codification administrative
+À jour au 10 octobre 2025
+RÈGLEMENT R.C.A.3V .Q. 4
+RÈGLEMENT DE L’ARRONDISSEMENT DE SAINTE-FOY–
+SILLERY–CAP-ROUGE SUR L’URBANISME
+LA VILLE DE QUÉBEC, PAR LE CONSEIL D’ARRONDISSEMENT DE
+SAINTE-FOY–SILLERY–CAP-ROUGE, DÉCRÈTE CE QUI SUIT :
+CHAPITRE I
+DÉFINITIONS
+1. Dans le présent règlement, à moins que le contexte n’indique un sens
+différent, on entend par :
+ « abattage » : une opération qui consiste à enlever 50 % ou plus de la cime
+ou des racines d’un arbre ou une opération qui provoque la mort d’un arbre;
+ « abord de forte pente » : une bande de terrain dont la profondeur correspond
+à :
+1° la moins élevée des mesures suivantes :a) deux fois la hauteur de la forte pente, mesurée à partir de la ligne de crête;
+b) 20 mètres;
+2° la moins élevée des mesures suivantes :a)la moitié de la hauteur de la forte pente, mesurée à partir de la ligne de
+pied de talus;
+b) dix mètres;
+ « abri » : une construction constituée de toile ou de matériau souple et
+destinée à abriter;
+--- PAGE 2 ---
+ « abri de véhicule automobile » : un bâtiment attaché à un bâtiment principal
+ou à un garage, ouvert sur 40 % ou plus de la superficie de ses quatre côtés et
+destiné au remisage d’un véhicule automobile ou au stationnement de celui-ci;
+ « agrandissement » : une augmentation de la superficie de plancher d’une
+construction ou une augmentation de la superficie de plancher ou de la
+superficie du sol occupée par un usage;
+ « aire constructible » : la superficie d’un lot lorsqu’on en exclut les marges
+avant, latérales et arrière, les zones tampons, les distances de dégagement et les
+zones de contrainte;
+ « aire d’agrément » : une partie d’un lot ou une partie extérieure d’un
+bâtiment principal destinée à la détente, à la récréation ou à l’aménagement
+paysager. Un bâtiment accessoire complètement fermé, une allée d’accès et une
+aire de stationnement sont exclus de l’aire d’agrément;
+ « aire de chargement ou de déchargement » : un espace situé à l’extérieur
+d’une voie de circulation et réservé au stationnement d’un véhicule automobile
+pour la durée de son chargement ou de son déchargement;
+ « aire de consommation » : la superficie de plancher occupée par un usage de
+la classe Commerce  de restauration et de débit d’alcool , à l’exclusion d’une
+aire à laquelle la clientèle n’a pas accès et de celle des toilettes;
+ « aire d’empilement, d’ébranchage et de tronçonnage » : un site utilisé pour
+l’empilement du bois, des écorces, des copeaux ou de la biomasse forestière et
+où peuvent également se dérouler des activités d’ébranchage d’arbres et de
+tronçonnage du bois;
+ « aire de jeux » : un espace extérieur destiné au jeu et occupé par un
+équipement de jeux;
+ « aire de stationnement » : un espace qui comprend au moins une case de
+stationnement et, le cas échéant, une allée de circulation ou une allée de
+courtoisie;
+ « aire verte » : la surface perméable d’un lot destinée à la plantation et à la
+végétalisation. Une construction, une allée d’accès, une aire de stationnement et
+une surface en gazon synthétique sont exclues de l’aire verte, sauf une piscine
+ou un spa et leurs accessoires, incluant les éléments s’y rattachant, dont la
+superficie correspond à 10 % ou moins de la superficie du lot;
+ « alignement » : la ligne parallèle à une ligne avant de lot, située au point de
+la façade du bâtiment principal le plus près de la ligne avant de lot. Aux fins de
+déterminer ce point, un élément qui empiète dans la marge avant ne fait pas
+partie de la façade;
+ « allée d’accès » : une allée qui relie une aire de stationnement à une rue;
+2
+--- PAGE 3 ---
+ « allée de circulation » : la partie d’une aire de stationnement qui permet à un
+véhicule automobile d’accéder à une case de stationnement;
+ « allée de courtoisie » : une allée qui sert exclusivement à déposer ou à faire
+monter les passagers d’un véhicule automobile sur un lot occupé par un
+bâtiment;
+ « angle d’éloignement » : angle formé par la rencontre d’un plan oblique et
+d’un plan horizontal déterminé au niveau du sol à la limite d’une zone;
+ « antenne » : un ou plusieurs conducteurs aériens et sa structure qui sont
+destinés à capter ou à diffuser des ondes;
+ « arbre » : une plante ligneuse vivace dont le tronc a un diamètre minimal de
+0,1 mètre, mesuré à 1,3 mètre au-dessus du niveau du sol. Une plante ligneuse
+vivace dont le diamètre minimal du tronc à maturité habituelle pour l’espèce est
+de 0,1 mètre, mesuré à 1,3 mètre au-dessus du niveau du sol, est réputée être un
+arbre lorsqu’elle est plantée conformément à une exigence de plantation
+d’arbres prévue au présent règlement. Les tiges ou les troncs qui proviennent
+d’une souche commune composent un même arbre;
+ « arbre dépérissant » : un arbre dont la cime est morte à plus de 50 % sans
+qu’on puisse en déterminer la cause ou un arbre qui est dans un état de
+détérioration susceptible de causer sa mort;
+ « arbuste » : une plante ligneuse vivace dont la hauteur à maturité habituelle
+pour l’essence est de moins de sept mètres et dont la croissance n’implique pas
+le développement d’un tronc distinct mais plutôt de nombreuses tiges qui se
+ramifient dès la base;
+ « architecte » : un membre de l’Ordre des architectes du Québec;
+ « arpenteur-géomètre » : un membre de l’Ordre des arpenteurs-géomètres du
+Québec;
+ « assiette d’une autoroute » : la partie pavée d’une autoroute; « assiette d’une voie ferrée » : la partie d’une voie ferroviaire délimitée par
+les rails;
+ « atelier d’artiste » : un établissement dont l’activité principale est de
+produire une œuvre originale qui répond à une des caractéristiques suivantes :
+1°elle est exprimée par la peinture, la sculpture, l’estampe, le dessin,
+l’illustration, la photographie, les arts textiles, l’installation, la performance, la
+vidéo d’art ou toute autre forme d’expression de même nature;
+3
+--- PAGE 4 ---
+2°elle est destinée à une fonction utilitaire, décorative ou d’expression et
+exprimée par l’exercice d’un métier relié à la transformation du bois, du cuir,
+des textiles, des métaux, des silicates ou de toute autre matière;
+3°elle constitue une création ou une traduction d’œuvres littéraires
+originales, exprimées par le roman, le conte, la nouvelle, l’œuvre dramatique, la
+poésie, l’essai ou toute œuvre écrite de même nature;
+4° elle constitue une des productions artistiques suivantes :
+a) la scène, y compris le théâtre et le théâtre lyrique;
+b) la musique;
+c) la danse ou les variétés;
+d)le multimédia, le film, le disque ou les autres modes d’enregistrement du
+son;
+e) le doublage;
+f) l’enregistrement d’annonces publicitaires;
+ « automobile » : lorsque utilisée comme nom commun : un véhicule moteur
+destiné au transport routier des personnes ou des biens, d’une dimension d’au
+plus sept mètres de long par 2,25 mètres de haut. Lorsque « automobile » est
+utilisée comme adjectif, elle a le sens commun;
+ « auvent » : un abri sans poteau ni colonne, rattaché directement au bâtiment
+et installé au-dessus d’une fenêtre, d’une porte, d’une vitrine, d’un portail ou
+d’une autre ouverture d’un bâtiment;
+ « balcon » : une plate-forme, autre qu’une terrasse, ouverte, en saillie sur un
+mur d’un bâtiment;
+ « bandeau du rez-de-chaussée » : la partie extérieure d’un bâtiment située
+entre le dessus des fenêtres du rez-de-chaussée et le dessous des fenêtres de
+l’étage supérieur au rez-de-chaussée ou, en l’absence de telles fenêtres, la partie
+extérieure du bâtiment située entre le quart supérieur du rez-de-chaussée et le
+quart inférieur de l’étage supérieur au rez-de-chaussée lequel est établi par
+rapport au plancher de cet étage supérieur;
+ « bande de protection riveraine » : une bande de terrain qui borde la rive
+d’un cours d’eau à débit régulier ou d’un lac et qui s'étend vers l'intérieur des
+terres à partir de la limite extérieure de la rive. La largeur de cette bande se
+mesure horizontalement et elle est de :
+1° cinq mètres, lorsque la rive a une largeur de quinze mètres;
+4
+--- PAGE 5 ---
+2° dix mètres, lorsque la rive a une largeur de dix mètres;
+ « banderole » : une enseigne constituée d’une pièce de tissu ou d’un autre
+matériel souple, fixée à plat sur un bâtiment ou tendue au-dessus du sol;
+ « bâtiment » : une construction destinée à abriter ou à loger des personnes,
+des animaux ou des choses;
+ « bâtiment accessoire » : un bâtiment qui constitue le prolongement normal
+et logique d’un bâtiment ou d’un usage principal et qui est implanté sur le
+même lot que ce dernier;
+ « bâtiment en rangée » : un bâtiment qui fait partie d’une suite continue d’au
+moins trois bâtiments reliés les uns aux autres par :
+1° au moins un mur latéral mitoyen érigé sur une ligne latérale de lot;2°au moins un mur latéral érigé sur une ligne latérale de lot et adossé au
+mur latéral d’un autre bâtiment;
+3°au moins un mur latéral relié à un autre bâtiment par un abri de véhicule
+automobile, un garage ou un toit sur au moins 50 % de la profondeur du
+bâtiment.
+Dans le cas d’un lot d’angle, un mur arrière est considéré comme un mur
+latéral aux fins de la présente définition;
+ « bâtiment isolé » : un bâtiment dont aucun mur n’est mitoyen ou adossé à
+un autre bâtiment;
+ « bâtiment jumelé » : un bâtiment qui n’est pas un bâtiment en rangée et qui
+est relié à un autre bâtiment par :
+1° un mur latéral mitoyen érigé sur une ligne latérale de lot;2°un mur latéral érigé sur une ligne latérale de lot et adossé au mur latéral
+d’un autre bâtiment;
+3°un mur latéral relié à un autre bâtiment par un abri de véhicule
+automobile, un garage ou un toit sur au moins 50 % de la profondeur du
+bâtiment.
+Dans le cas d’un lot d’angle, un mur arrière est considéré comme un mur
+latéral aux fins de la présente définition;
+ « bâtiment principal » : un bâtiment destiné à un usage principal; « bâtiment principal dérogatoire » : un bâtiment principal qui n’est pas
+conforme;
+5
+--- PAGE 6 ---
+ « bâtiment principal dérogatoire protégé » : un bâtiment principal qui n’est
+pas conforme mais qui est protégé par droits acquis;
+ « bruit d’ambiance » : l’ensemble des bruits habituels de diverses
+provenances en un lieu et en une période donnée;
+ « café-terrasse » : une partie d’un établissement aménagée à l’extérieur de
+manière à accueillir la clientèle qui consomme des aliments ou des boissons;
+ « camion-restaurant » : un véhicule autopropulsé destiné exclusivement à la
+cuisine;
+ « centre commercial » : un ou plusieurs bâtiments implantés sur un même
+lot, occupés par des usages de la classe Commerce  de consommation et de
+services , Commerce d’hébergement touristique , Commerce de restauration et
+de débit d’alcool , Commerce associé aux véhicules automobiles , Commerce
+générateur d’entreposage et centre de jardinage , ou Publique , qui incluent un
+stationnement commun et qui comprennent au moins cinq établissements dont
+la superficie de plancher totale de ceux-ci est d’au moins 500 mètres carrés;
+ « centre d’entreposage et de distribution de marchandises » : un
+établissement dont l’activité principale est de vendre des marchandises à des
+clients qui ne se trouvent pas physiquement sur les lieux de l’établissement, soit
+notamment par Internet, par téléphone ou par la poste. Un tel établissement
+comprend les espaces nécessaires pour la réception et l’entreposage des
+marchandises destinées à la vente, de même que pour la préparation et
+l’expédition des commandes;
+ « chemin forestier » : un chemin destiné au transport du bois du lieu
+d’abattage jusqu’à une rue;
+ « chenil » : un établissement où des chiens sont logés dans le but d’en faire
+l’élevage, le dressage ou de les garder en pension
+ « cimetière » : un lieu où on enterre les morts;
+ « clôture » : une construction déposée ou reliée au sol qui sert à délimiter ou
+à enclore un espace, un terrain ou un lot, à le cacher ou à dissimuler ce qui s’y
+trouve ou à en obstruer l’accès, à l’exception d’une haie, d’un mur de
+soutènement et d’un talus;
+ « commission » : la Commission d’urbanisme et de conservation de Québec; « composteur » : un contenant destiné à la transformation de matières
+résiduelles en compost;
+ « conforme » : lorsque ce mot n’est pas suivi de la citation d’un article ou
+d’une partie d’un article : qui respecte les dispositions du présent règlement
+autres que celles des chapitres XVII, XXIV .1 et XXIV .2;
+6
+--- PAGE 7 ---
+ « construction » : un assemblage de matériaux qui sont déposés ou reliés au
+sol ou qui sont fixés à un objet déposé ou relié au sol;
+ « construction dérogatoire » : une construction ou un ouvrage ou un élément
+d’une construction ou d’un ouvrage qui n’est pas conforme;
+ « construction dérogatoire protégée » : une construction ou un ouvrage ou un
+élément d’une construction ou d’un ouvrage qui n’est pas conforme mais qui
+est protégé par droits acquis;
+ « contenant de matières résiduelles » : un contenant destiné à l’enlèvement
+des matières résiduelles et autorisé en vertu d’un règlement d’un conseil
+d’arrondissement sur l’enlèvement des matières résiduelles;
+ « coupe avec protection de la régénération et des sols » : une coupe d’au
+moins 80 % des arbres d’un parterre de coupe, réalisée en prenant les
+précautions requises pour protéger la régénération préétablie et minimiser la
+perturbation des sols;
+ « coupe d’assainissement » : un abattage ou une récolte d’arbres
+dépérissants, endommagés ou morts dans un peuplement;
+ « coupe de conversion » : une coupe d’arbres effectuée dans un peuplement
+dégradé ou un peuplement improductif en vue de son remplacement par le
+reboisement avec une essence commerciale;
+ « coupe de régénération » : une coupe d’arbres effectuée dans un peuplement
+dégradé ou à maturité, afin de permettre une régénération naturelle ou
+artificielle;
+ « coupe de succession » : une coupe d’arbres effectuée afin de permettre
+l’amélioration d’un peuplement en récoltant les tiges d’un étage dominant, pour
+favoriser la croissance des tiges qui composent un sous-étage;
+ « cour » : une cour arrière, une cour avant ou une cour latérale;
+ « cour arrière » : l’espace qui s’étend sur toute la largeur d’un lot et qui est
+compris entre une ligne arrière de lot ou une ligne latérale de lot, le mur arrière
+du bâtiment principal et le prolongement de ce mur tracé parallèlement à la
+ligne avant de lot. Dans le cas d’un lot d’angle, la cour arrière est l’espace
+compris entre une des cours avant, un mur arrière du bâtiment principal contigu
+à cette cour avant, le prolongement de ce mur arrière tracé parallèlement à la
+ligne avant de lot située du côté de la façade opposée à ce mur arrière et les
+lignes latérales de lot;
+ « cour avant » : l’espace qui s’étend sur toute la largeur d’un lot, compris
+entre la ligne avant de lot, une façade du bâtiment principal et le prolongement
+de la façade tracé parallèlement à la ligne avant de lot;
+7
+--- PAGE 8 ---
+ « cour avant secondaire » : une cour avant autre que celle située du côté de la
+façade principale et qui exclut la portion de la cour avant comprise entre le
+prolongement de la façade principale et la ligne avant de lot;
+ « cour latérale » : l’espace compris entre une ligne latérale de lot, le mur
+latéral du bâtiment principal, la cour avant et la cour arrière;
+ « cours d’eau » : une masse d’eau qui s’écoule, par débit régulier ou
+intermittent, dans un lit d’écoulement naturel ou créé ou modifié par une
+intervention humaine, à l’exception d’un fossé mitoyen, d’un fossé de voie de
+circulation publique ou privée ou d’un fossé de drainage;
+ « déboisement » : une coupe qui vise à enlever plus de 30 % des tiges de
+dimension commerciale d’une superficie boisée;
+ « déjection animale » : l’urine et les matières fécales d’animaux, la litière
+utilisée comme absorbant de cette urine ou de ces matières fécales, les eaux
+souillées et les eaux de précipitations qui sont entrées en contact avec l’urine,
+les matières fécales d’animaux ou la litière;
+ « éclaircie commerciale » : une récolte d’arbres d’une essence commerciale
+qui nuisent à d’autres arbres;
+ « éclaircie précommerciale » : une élimination de tiges qui nuisent à la
+croissance d’arbres d’un jeune peuplement forestier en régularisant
+l’espacement entre chaque tige;
+ « écurie » : un bâtiment destiné à loger des chevaux;
+ « emprise » : un espace réservé à une voie de circulation et à ses accessoires
+ou au passage d’un réseau d’utilité publique;
+ « emprise au sol » : la superficie du sol qui est constituée de la surface
+occupée par la base d’une construction;
+ « enseigne » : une affiche, une banderole, un décor, un dessin, une devise, un
+drapeau, un écrit, un écriteau, un emblème, un fanion, une gravure, une
+illustration, une image, un logo, une marque de commerce, une oriflamme, une
+pancarte, une photo, une représentation picturale, un symbole ou un autre
+élément utilisé pour annoncer, avertir, informer ou faire de la publicité;
+ « enseigne à éclat » : une enseigne lumineuse, ou éclairée par une source
+lumineuse, clignotante dont l’intensité de la lumière artificielle ou sa couleur
+n’est pas constante ni stationnaire. Une horloge, un thermomètre ou un tableau
+de pointage d’un match sportif qui se déroule sur un terrain de sport n’est pas
+une enseigne à éclat;
+8
+--- PAGE 9 ---
+ « enseigne à plat » : une enseigne installée parallèlement à une partie d’un
+bâtiment et qui, en aucun point, ne fait saillie de plus de 0,25 mètre de la partie
+du bâtiment sur laquelle elle est installée;
+ « enseigne au sol » : une enseigne installée sur une structure détachée d’un
+bâtiment;
+ « enseigne bipode » : une enseigne au sol qui est fixée, par ses côtés, à deux
+montants verticaux;
+ « enseigne commémorative » : une enseigne qui rappelle le souvenir d’un
+événement ou d’une personne;
+ « enseigne commerciale » : une enseigne qui identifie un produit ou une
+marque de commerce, vendu ou offert sur le même lot que celui où l’enseigne
+est installée. Elle peut inclure le contenu d’une enseigne d’identification ainsi
+que des renseignements relatifs au produit ou à la marque vendu ou offert;
+ « enseigne dérogatoire » : une enseigne qui n’est pas conforme;
+ « enseigne de type vidéo négatif » : une enseigne lumineuse dont le message
+est découpé dans une matière opaque et qui est éclairé de l’intérieur par une
+source lumineuse qui n’est pas visible;
+ « enseigne d’identification » : une enseigne qui mentionne uniquement un ou
+des éléments parmi les suivants :
+1° le nom du bâtiment qu’elle dessert;2° l’adresse du bâtiment qu’elle dessert;3°le nom ou la raison sociale du propriétaire ou de l’occupant du bâtiment
+qu’elle dessert ou d’une partie de celui-ci;
+4°l’adresse du propriétaire ou de l’occupant du bâtiment qu’elle dessert ou
+d’une partie de celui-ci;
+5°l’occupation du propriétaire ou de l’occupant du bâtiment qu’elle dessert
+ou d’une partie de celui-ci;
+6°l’activité exercée à l’intérieur du bâtiment sans mention d’une marque de
+commerce d’un produit;
+7°le numéro de téléphone du propriétaire ou de l’occupant du bâtiment
+qu’elle dessert ou d’une partie de celui-ci;
+8°l’adresse courriel ou du site internet du propriétaire ou de l’occupant du
+bâtiment qu’elle dessert ou d’une partie de celui-ci;
+9
+--- PAGE 10 ---
+ « enseigne d’information ou d’orientation » : une enseigne qui fournit des
+renseignements utiles à la clientèle ou qui indique une direction. Une enseigne
+directionnelle n’est pas une enseigne d’information ou d’orientation;
+ « enseigne d’interprétation » : une enseigne qui décrit ou explique l’histoire
+ou les caractéristiques d’un bâtiment, d’un site ou d’un lieu, de ses occupants
+ou de l’environnement naturel;
+ « enseigne directionnelle » : une enseigne qui indique le sens de la
+circulation ou l’entrée d’un stationnement;
+ « enseigne électorale » : une enseigne se rapportant à une élection, à un
+scrutin référendaire ou à une consultation publique;
+ « enseigne en saillie » : une enseigne dont la saillie excède 0,25 mètre de la
+partie du bâtiment sur laquelle elle est installée;
+ « enseigne lumineuse » : une enseigne qui émet une lumière artificielle
+directement ou par transparence ou translucidité;
+ « enseigne mobile » : une enseigne qui n’est pas fixée sur un bâtiment ou au
+sol et qui est conçue pour être déplacée;
+ « enseigne numérique » : une enseigne lumineuse offrant un contenu média
+dont l’intensité de la lumière artificielle ou la couleur n’est pas constante ni
+stationnaire, tel un écran ou un projecteur;
+ « enseigne projetée » : une enseigne constituée de la projection du nom ou
+du logo d’une entreprise sur le sol ou sur le mur d’un bâtiment;
+ « enseigne publicitaire » : une enseigne qui annonce une entreprise, une
+profession, un produit, un service ou une activité, exercé, vendu ou offert sur un
+autre lot que celui où elle est installée;
+ « enseigne rétroéclairée » : une enseigne lumineuse dont la source lumineuse
+n’est pas visible. Cette source est localisée dans ou derrière le message et
+dirigée vers l’arrière-plan de ce message pour le mettre en relief. Le message,
+quant à lui, est constitué d’un matériel opaque;
+ « enseigne sur potence » : une enseigne qui est suspendue, par sa partie
+supérieure, à une traverse horizontale fixée en équerre sur un poteau ou un mur;
+ « enseigne sur socle » : une enseigne au sol dont la largeur de la structure
+représente au moins 80 % de la largeur de l’enseigne;
+ « enseigne suspendue  » : une enseigne reliée à un plan horizontal d’un
+bâtiment par une structure verticale fixe;
+10
+--- PAGE 11 ---
+ « enseigne temporaire » : une enseigne installée pour une période de temps
+limitée au terme de laquelle elle et sa structure sont enlevées;
+ « érosion active » : un phénomène naturel de dégradation du relief, incluant,
+notamment, le sol, le roc et la végétation, causé par un agent externe, tel que
+l'eau ou le vent, et qui représente une menace directe à la stabilité géotechnique
+d’une rive ou d’un talus, comme la perte ou le déplacement vertical de sol, la
+présence de fissures dans le talus ou à son sommet ou le déracinement de la
+végétation;
+ « essence commerciale » : une essence d’arbre utilisée à des fins
+industrielles;
+ « établissement » : l’ensemble des installations qui servent à l’exploitation
+d’une entreprise;
+ « étage » : une partie d’un bâtiment délimitée par la face supérieure d’un
+plancher et celle du plancher situé immédiatement au-dessus ou, en son
+absence, par le plafond au-dessus;
+ « état naturel » : une surface conservée dans son état d’origine, incluant tous
+les végétaux indigènes, et dont le sol n'est pas modifié ni perturbé par la
+circulation de machinerie ou l'entreposage de matériaux. Une surface gazonnée
+n’est pas considérée comme étant à l’état naturel;
+ « exposé à un vent dominant d’été » : qui est situé à l’intérieur de l’aire
+formée par deux lignes droites parallèles imaginaires qui prennent naissance à
+100 mètres des extrémités d’une unité d’élevage et qui sont prolongées à
+l’infini dans la direction prise par un vent dominant d’été;
+ « façade » : un mur extérieur d’un bâtiment situé du côté d’une ligne avant
+de lot. La façade peut être constituée de sections situées à des distances
+différentes de la ligne avant de lot.
+Lorsqu’une section d’une façade est contiguë à un mur latéral et que son
+prolongement vers la ligne avant de lot forme avec celle-ci un angle inférieur à
+45 degrés, cette section de mur fait partie de la façade.
+Lorsqu’une section d’une façade est contiguë à un mur latéral et en retrait du
+plan principal de la façade, cette section de mur ainsi que la section du mur qui
+fait face à la ligne latérale de lot et qui assure le retrait font partie de la façade
+dans une des circonstances suivantes :
+1°la section de la façade qui est contiguë au mur latéral est en retrait de plus
+de dix mètres du plan principal de la façade et d’une largeur de plus de dix
+mètres;
+2° elle est en retrait d’au plus dix mètres du plan principal de la façade.
+11
+--- PAGE 12 ---
+Dans le cas contraire, cette section de mur et la section du mur faisant face à
+la ligne latérale de lot font partie du mur latéral;
+ « façade principale » : lorsqu’un bâtiment comporte plusieurs façades, la
+façade principale est celle choisie comme telle par le propriétaire ou l’occupant
+du bâtiment;
+ « façade secondaire » : une façade qui n’est pas une façade principale;
+ « fenêtre verte » : une ouverture, aménagée à travers la végétation de la rive
+d’un lot, qui permet une percée visuelle vers un cours d’eau ou un lac adjacent
+à ce lot;
+ « fonctionnaire désigné » : une personne désignée responsable de la
+délivrance des permis et des certificats par le Règlement sur la délivrance des
+permis et des certificats , R.R.V .Q. chapitre D-2;
+ « forte pente » : lorsqu’elle est illustrée au plan de zonage, la dénivellation
+d’un terrain qui possède une pente supérieure à 25 % sur une hauteur d’au
+moins cinq mètres.
+La hauteur et le pourcentage d’une forte pente sont mesurés
+perpendiculairement à la pente. Un plateau ou un talus dont la pente est égale
+ou inférieure à 25 % est inclus dans une forte pente, sous réserve du respect des
+normes suivantes :
+1°  la projection horizontale du plateau ou du talus est inférieure à
+cinq mètres;
+2°  le plateau ou le talus est compris entre des talus dont la pente est
+supérieure à 25 %;
+3°  la hauteur totale des talus visés au paragraphe 2° est supérieure à
+cinq mètres.
+Lorsque la forte pente est contiguë à un cours d’eau, la mesure de sa hauteur
+et de son pourcentage doit être prise à partir de la ligne des hautes eaux;
+ « fossé de drainage » : une dépression en long creusée dans le sol, utilisée
+exclusivement pour le drainage et l’irrigation, qui n’existe qu’en raison d’une
+intervention humaine et dont la superficie du bassin versant est inférieure à
+100 hectares;
+ « fossé de voie de circulation » : une dépression en long creusée dans le sol,
+servant à drainer une voie de circulation;
+ « fossé mitoyen » : une dépression en long creusée dans le sol, située sur la
+ligne séparative entre deux terrains voisins au sens de l’article 1002 du Code
+civil du Québec ;
+12
+--- PAGE 13 ---
+ « garage » : un bâtiment fermé à plus de 60 % sur l’ensemble des quatre
+côtés et destiné au remisage d’un véhicule automobile ou au stationnement de
+celui-ci;
+ « géologue » : un membre de l’Ordre des géologues du Québec;
+ « gestion liquide » : un mode d’évacuation des déjections animales à
+l’extérieur d’un bâtiment d’élevage ou d’un ouvrage d’entreposage autre que la
+gestion solide;
+ « gestion solide » : un mode d’évacuation des déjections animales à
+l’extérieur d’un bâtiment d’élevage ou d’un ouvrage d’entreposage des
+déjections animales dont la teneur en eau est inférieure à 85 % à la sortie du
+bâtiment;
+ « habitation subventionnée » : une résidence pour personnes âgées ou un
+bâtiment destiné à être occupé ou utilisé entièrement par des personnes ou des
+familles à faible revenu visée par un programme de l’Office municipal
+d’habitation de Québec, de la Société d’habitation du Québec ou de la Société
+canadienne d’hypothèque ou de logement;
+ « immeuble protégé » : un lot situé dans un site patrimonial ou un lot sur
+lequel est implanté ou est aménagé un des éléments suivants :
+1° un centre récréatif de loisir, de sport ou de culture;2° un parc municipal;3° une plage publique ou une marina;4° un bâtiment dans lequel est exercé un usage d’un des groupes suivants :a)P3 établissement d’éducation et de formation ;
+b)P4 établissement d’éducation post-secondaire ;
+c)P5 établissement de santé sans hébergement ;
+d)P6 établissement de santé avec hébergement ;
+e)P7 établissement majeur de santé ;
+5°un bâtiment d’une base de plein air ou d’un centre d’interprétation de la
+nature;
+6° un chalet d’un centre de ski ou d’un club de golf;7° un lieu de culte;
+13
+--- PAGE 14 ---
+8° un théâtre d’été;
+9° un bâtiment dans lequel est exercé un usage d’un des groupes suivants :a)C10 établissement d’hébergement touristique général ;
+b)C12 auberge de jeunesse ;
+c)C13 établissement de villégiature ;
+d)C14 parc de véhicules récréatifs ;
+10° un bâtiment qui sert à des fins de dégustation de vin dans un vignoble;11° un bâtiment dans lequel est exercé un usage d’un des groupes suivants :a)C20 restaurant ;
+b)C21 débit d’alcool ;
+ « ingénieur » : un membre de l’Ordre des ingénieurs du Québec; « ingénieur forestier » : un membre de l’Ordre des ingénieurs forestiers du
+Québec;
+ « installation d’élevage » : un bâtiment dans lequel des animaux sont élevés
+ou un enclos ou une partie d’enclos où sont gardés, à des fins autres que le
+pâturage, des animaux, y compris, le cas échéant, une construction
+d’entreposage des déjections animales dont un point de son périmètre est situé à
+moins de 150 mètres de ce bâtiment ou de cet enclos;
+ « largeur de lot » : une distance mesurée le long de la ligne avant de lot,
+entre les lignes latérales de ce lot ou, lorsqu’il s’agit d’un lot d’angle, entre une
+ligne latérale de ce lot et une ligne avant de lot opposée à cette ligne;
+ « lettre boîtier » : une lettre en trois dimensions constituée d’une face, de
+chants et d’une semelle;
+ « ligne arrière de lot » : une ligne qui sépare deux lots sans être une ligne
+avant de lot ni une ligne latérale de lot;
+ « ligne avant de lot » : une ligne qui sépare un lot d’une rue; « ligne de crête » : un tracé, dans la partie supérieure de la pente, qui relie
+l’ensemble des points où la pente devient supérieure à 25 %;
+ « ligne de pied de talus » : un tracé, dans la partie inférieure de la pente, qui
+relie l’ensemble des points où la pente devient inférieure à 25 %;
+14
+--- PAGE 15 ---
+ « ligne des hautes eaux » : la démarcation entre la rive et le littoral et qui se
+situe, selon les circonstances, à l’un des endroits suivants :
+1°à l’endroit où on passe d'une prédominance de plantes aquatiques à une
+prédominance de plantes terrestres ou, s'il n'y a pas de plantes aquatiques, à
+l'endroit où les plantes terrestres s'arrêtent en direction du plan d'eau;
+2°pour la partie d’un plan d'eau située en amont d’un ouvrage de retenue
+des eaux, à la cote maximale d'exploitation de cet ouvrage, telle que déterminée
+dans le document d’autorisation délivré en vertu de la Loi sur la sécurité des
+barrages  (RLRQ, c. S-3.1.01);
+3°en présence d’un mur de soutènement légalement érigé, à partir du
+sommet de ce mur;
+4°à l’égard du lac Saint-Charles, à la limite du niveau d’inondation d’une
+crue d’une récurrence de deux ans, soit 151,1 mètres;
+5°à défaut de pouvoir la situer conformément aux paragraphes 1° à 4°, à la
+limite du niveau d’inondation d’une crue d’une récurrence de deux ans
+lorsqu’elle est illustrée à la carte DC-2 du schéma d’aménagement;
+ « ligne latérale de lot » : une ligne qui sépare deux lots contigus à une même
+rue. Une partie de cette ligne demeure une ligne latérale de lot même si elle
+devient contiguë à un autre lot;
+ « littoral » : une partie d’un cours d’eau, d’un lac ou d’un étang qui s’étend
+de la ligne des hautes eaux vers le centre d’un cours d’eau, d’un lac ou d’un
+étang;
+ « logement » : une ou plusieurs pièces destinées à la résidence d’une
+personne ou de plusieurs personnes qui vivent en commun et qui comporte des
+installations sanitaires et des installations pour préparer et consommer des repas
+et pour dormir ainsi qu’une entrée distincte qui donne sur l’extérieur ou sur un
+hall commun;
+ « lot » : un fonds de terre identifié et délimité au plan cadastral officiel. Un
+terrain formé de plusieurs lots ou parties de lots non rénovés conformément à la
+Loi favorisant la réforme du cadastre québécois  (L.R.Q., chapitre R-3.1) est
+réputé constitué un lot;
+ « lot d’angle » : un lot situé à l’intersection de deux rues dont l’angle
+d’intersection est inférieur à 135 degrés ou en bordure d’une rue qui forme à cet
+endroit un angle inférieur à 135 degrés. Cet angle est mesuré à l’intérieur du lot
+à la ligne avant de lot ou, lorsque le coin de ce lot est tronqué, à l’intersection
+du prolongement des deux lignes avant de lot;
+ « lot d’angle transversal » : un lot qui est à la fois un lot d’angle et un lot
+transversal;
+15
+--- PAGE 16 ---
+ « lot dérogatoire » : un lot qui n’est pas conforme aux dispositions du
+chapitre IX;
+ « lot dérogatoire protégé » : un lot qui n’est pas conforme aux dispositions
+du chapitre IX, mais qui est protégé par droits acquis;
+ « lot intérieur » : un lot qui n’est ni un lot d’angle ni un lot transversal;
+ « lot transversal » : un lot dont deux lignes avant de lot sont opposées; « maison d’hébergement » : un bâtiment, ou une partie de bâtiment,
+constitué, notamment, de plusieurs chambres au sens de l’article 13 ou
+logements, qui offre un milieu de vie et des services à des personnes qui ne sont
+pas en mesure de vivre seules et dont plus de 10 % de la superficie de plancher
+totale est utilisée pour offrir des services communautaires à l’usage exclusif des
+résidants.  Aux fins du calcul de la superficie de plancher totale qui est utilisée
+pour offrir des services communautaires, un corridor, un escalier et un
+ascenseur sont exclus. Un service de cafétéria, un salon de lecture et une salle
+de divertissement sont, notamment, inclus dans le calcul de cette superficie;
+ « marge » : une marge arrière, une marge avant, une marge avant secondaire
+ou une marge latérale;
+ « marge arrière » : un espace qui correspond à la profondeur minimale de la
+cour arrière, qui s’étend sur toute la largeur d’un lot et qui est situé entre une
+ligne arrière de lot et une ligne établie parallèlement à celle-ci. En l’absence
+d’une ligne arrière de lot, la profondeur de la marge arrière est établie
+parallèlement à la ligne avant de lot, à partir du point des lignes latérales de lot
+le plus éloigné de la ligne avant de lot et elle s’étend sur toute la largeur du lot.
+Dans le cas d’un lot d’angle, la profondeur est établie parallèlement à une ligne
+latérale de lot située du côté d’un mur arrière du bâtiment principal et s’étend
+entre une autre ligne latérale de lot et la marge avant;
+ « marge avant » : un espace qui correspond à la profondeur minimale de la
+cour avant, qui s’étend sur toute la largeur du lot et qui est situé entre une ligne
+avant de lot et une ligne établie parallèlement à cette ligne;
+ « marge avant secondaire » : un espace qui correspond à la profondeur
+minimale de la cour avant secondaire, qui s’étend sur toute la largeur du lot, à
+l’exception d’une partie qui constitue une autre marge avant et qui est situé
+entre une ligne avant de lot et une ligne établie parallèlement à cette ligne;
+ « marge latérale » : un espace qui correspond à la profondeur minimale de la
+cour latérale, qui est situé entre la marge avant, la marge arrière, une ligne
+latérale de lot et une ligne établie parallèlement à cette ligne;
+ « marquise » : une construction rigide en saillie, sans poteau ni colonne,
+décorative ou qui sert de protection contre les intempéries ou le soleil;
+16
+--- PAGE 17 ---
+ « mezzanine » : un niveau entre le plancher et le plafond d’une pièce ou d’un
+étage, ou un balcon intérieur;
+ « mur arrière » : un mur extérieur d’un bâtiment, opposé à une façade, situé
+du côté d’une ligne arrière de lot ou, en l’absence de ligne arrière de lot, du côté
+d’une ligne latérale de lot. Ce mur peut être constitué de sections situées à des
+distances différentes de la ligne arrière de lot ou de la ligne latérale de lot, selon
+le cas;
+ « mur de soutènement » : une construction conçue pour retenir ou appuyer
+un remblai ou maintenir en place le sol ou une partie d’un terrain;
+ « mur latéral » : un mur extérieur d’un bâtiment autre qu’un mur arrière ou
+une façade;
+ « niveau du sol » : le plus bas des niveaux moyens définitifs du sol, mesuré
+le long de chaque mur extérieur d’un bâtiment à l’intérieur d’une distance de
+trois mètres de ce mur, selon des relevés qui tiennent compte de toute autre
+dénivellation que celles qui donnent accès aux portes d’entrée du bâtiment pour
+les véhicules et les piétons;
+ « norme de contingentement » : une norme relative au nombre maximal
+d’établissements destinés à des usages identiques ou similaires, à la distance
+qui doit séparer de tels établissements ou à la superficie de plancher maximale
+qui peut être destinée à de tels usages;
+ « oeuvre murale » : une représentation en deux dimensions, peinte ou
+apposée directement sur un mur, qui n’est pas une enseigne;
+ « opération cadastrale » : une modification cadastrale visée au premier alinéa
+de l’article 3043 du Code civil du Québec ;
+ « oriflamme » : une enseigne constituée d’une pièce de tissu ou d’un autre
+matériel souple, d’une forme verticale plus longue que large, qui est attachée
+perpendiculairement à un mât, à un bâtiment ou à un lampadaire, par au moins
+deux extrémités situées du même côté;
+ « panneau-réclame » : une structure d’affichage permanente, dont la
+superficie est supérieure à six mètres carrés, et destinée à l’affichage temporaire
+d’une enseigne, incluant une enseigne publicitaire;
+ « parasol » : un abri pliant semblable à un vaste parapluie, non ancré dans le
+sol et indépendant de tout autre parasol;
+ « parc » : une superficie aménagée, destinée à la promenade, au repos et au
+jeu. Un terrain destiné à la pratique des sports n’est pas un parc;
+ « parc d’attractions » : un établissement qui regroupe, notamment, des
+attractions mécaniques, des manèges et des petits spectacles;
+17
+--- PAGE 18 ---
+ « parterre de coupe » : une partie d’une propriété foncière où un déboisement
+est projeté et qui inclut un chemin forestier, un sentier de débardage et une aire
+d’empilement, d’ébranchage et de tronçonnage;
+ « pente » : le rapport entre la projection verticale d’une inclinaison et sa
+projection horizontale;
+ « périmètre d'urbanisation » : la limite du territoire d’urbanisation, qui inclut
+les secteurs déjà urbanisés et ceux destinés à l’expansion urbaine, illustrée à la
+carte DC-1 du document complémentaire du schéma d’aménagement;
+ « peuplement à maturité » : un peuplement forestier dont une majorité des
+tiges de dimension commerciale ont atteint l’âge d’exploitation, avant de
+devenir surannées. Cet âge est constaté dans une prescription sylvicole;
+ « peuplement dégradé » : un peuplement d’arbres dont plus de 50 % des
+tiges de dimension commerciale sont mortes, malades, brisées ou défoliées à
+plus de 50 %;
+ « peuplement forestier » : un peuplement d’arbres d’une même composition
+floristique, d’une même structure, d’un même âge et dont la répartition dans
+l’espace et la condition sanitaire permettent de distinguer ce peuplement d’un
+peuplement voisin;
+ « peuplement improductif » : un peuplement d’arbres dont l’accroissement
+est inférieur à 30 mètres cubes solides par hectare par période de 120 ans;
+ « piscine » : un bassin artificiel extérieur, permanent ou temporaire, destiné à
+la baignade, dont la profondeur d’eau est d’au moins 0,6 mètre, à l’exclusion
+d’un spa d’une capacité d’au plus 2 000 litres;
+ « plaine inondable » : un espace occupé par un cours d’eau ou un lac en
+période de crue et correspondant à l’étendue géographique des secteurs sujets
+aux inondations illustrés comme tel à la carte DC-2 du document
+complémentaire du schéma d’aménagement ou, en bordure du fleuve Saint-
+Laurent, indiqués par la cote d’inondation des zones de faible courant et de
+grand courant;
+ « plante aquatique » : une plante hydrophyte, une plante submergée, une
+plante à feuilles flottantes, une plante émergeante ou une plante herbacée et
+ligneuse émergée qui caractérise un marais ou un marécage ouvert sur un plan
+d’eau;
+ « poids nominal brut » : désigne la valeur spécifiée par le fabricant comme
+poids d’un seul véhicule en charge sous l’appellation « poids nominal brut du
+véhicule », « PNBV », « gross vehicle weight rating » ou « GVWR »;
+18
+--- PAGE 19 ---
+ « pourcentage d’occupation au sol » : la proportion, par rapport à cent, de la
+superficie totale du lot occupé par la projection au sol d’un bâtiment principal
+en excluant les constructions accessoires attachées à ce bâtiment;
+ « premier étage » : l’étage le plus élevé dont le plancher se trouve à au plus
+deux mètres au-dessus du niveau du sol;
+ « prescription sylvicole » : un document préparé et signé par un ingénieur
+forestier, qui explique en détail la nature de l’intervention sylvicole projetée et
+qui tient compte des particularités du terrain, de même que du peuplement
+forestier;
+ « profondeur combinée » : la somme des profondeurs des cours latérales
+d’un lot;
+ « profondeur de lot » : la distance minimale mesurée sur toute la largeur du
+lot, entre la ligne avant de lot et la ligne arrière de lot. Lorsqu’il s’agit d’un lot
+d’angle, cette distance est mesurée entre la ligne avant de lot et une ligne
+latérale de lot opposée à cette ligne avant. Lorsqu’il s’agit d’un lot transversal,
+cette distance est mesurée entre les deux lignes avant de lot;
+ « profondeur moyenne de lot » : le résultat obtenu lorsqu’on effectue le
+calcul suivant :
+A + B
+2
+alors que
+1°A est la distance mesurée le long de la ligne latérale de lot entre la ligne
+avant de lot et la ligne arrière de lot;
+2°B est la distance mesurée le long de l’autre ligne latérale de lot entre la
+ligne avant de lot et la ligne arrière de lot;
+ « projection au sol » : la superficie du sol qui est constituée de la surface
+occupée par la base d’une construction et de la surface qui serait occupée par
+toutes les parties d’une construction qui excèdent cette base, si ces parties
+étaient reportées sur le sol. Lorsque cette construction est implantée sur des
+roues, des pieux ou d’autres supports amovibles, la surface occupée par la base
+de cette construction est celle qui serait occupée par la base de cette
+construction si on enlevait ces roues, pieux ou autres supports amovibles.
+Le premier alinéa ne s’applique pas à un avant-toit, une corniche ou une frise,
+ni à une saillie ouverte;
+19
+--- PAGE 20 ---
+ « projet d’ensemble » : plusieurs bâtiments principaux implantés sur un
+même lot avec un usage commun d’une aire de stationnement, de bâtiments
+accessoires, de services ou d’équipements;
+ « projet d’ensemble dérogatoire » : un projet d’ensemble qui n’est pas
+conforme;
+ « projet d’ensemble dérogatoire protégé » : un projet d’ensemble dérogatoire
+qui est protégé par droits acquis;
+ « propriété foncière » : un lot ou un ensemble de lots contigus appartenant au
+même propriétaire. Deux lots sont réputés contigus lorsqu’ils sont séparés par
+une voie de circulation, un chemin de fer ou une emprise d’utilité publique;
+ « quai de chargement ou de déchargement » : une plate-forme intégrée à un
+bâtiment et destinée au chargement ou au déchargement d’un véhicule;
+ « régénération naturelle » : un ensemble de tiges d’arbres qui n’ont pas
+atteint les dimensions d’une tige de dimension commerciale, qui se développe
+naturellement dans une forêt entre les arbres existants ou à la suite d’une coupe;
+ « remise » : un bâtiment destiné au rangement d’objets reliés à un usage
+résidentiel;
+ « résidence pour personnes âgées » : un bâtiment d’habitation collective où
+sont offerts, contre le paiement d’un loyer, des chambres au sens de l’article 13
+ou des logements destinés à des personnes âgées et une gamme plus ou moins
+étendue de services, principalement reliés à la sécurité et à l’aide à la vie
+domestique ou à la vie sociale, à l’exception d’une installation maintenue par
+un établissement au sens de la Loi sur les services de santé et les services
+sociaux  (L.R.Q., chapitre S-4.2) et d’un immeuble ou d’un local d’habitation où
+sont offerts les services d’une ressource intermédiaire ou d’une ressource de
+type familial au sens de cette loi;
+ « résidence principale » : endroit où une personne physique demeure de
+manière régulière et prépondérante en y centralisant ses activités familiales et
+sociales et dont l’adresse correspond à celle qu’elle indique à la plupart des
+ministères et organismes du gouvernement, notamment aux autorités fiscales.
+Une personne ne peut avoir qu’une seule résidence principale;
+ « rez-de-chaussée » : l’étage le plus près du niveau de la rue mais situé à au
+plus deux mètres au-dessus du niveau du sol. Il peut y avoir plus d’un rez-de-
+chaussée dans un bâtiment;
+ « rive » : une bande de terre qui borde un cours d'eau ou un lac et qui s'étend
+vers l'intérieur des terres à partir de la ligne des hautes eaux. Sa largeur est de
+dix mètres, sauf dans les cas identifiés au deuxième alinéa, et elle se mesure
+horizontalement.
+20

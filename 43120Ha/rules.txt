@@ -1,0 +1,390 @@
+
+
+--- Page 489 ---
+10 m2 m3 m2 m
+3 m
+4 m10 mOOOOOOOOOOO
+NNNNNNNNNNNO
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+ON
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+OOOOOOO
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+NNNNNNNN
+N
+N
+N
+N
+N
+N
+N
+N
+N
+NO
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+ON
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+NN
+N43004Aa43002Fb
+43058Aa43038Fb
+43129Ab43131Ha
+43059Rb43098Ab
+43118Ab43114Pa43066Aa43040Aa
+43003Fb
+43029Ra43141Ha
+43147Ra43048Fb43047Aa
+43134Hb43001Up
+43143Ra43144Ra43076Ha43087Ra
+43146Hc43030Ra
+43135Hb
+43093Cb43077Ic
+43117Aa43106Ca
+43091Mc
+43102Ha43084Ha43092Mb43136Ha43137Ha43138Ha43139Ha43140Ha
+43031Ha43032Ha
+43041Hc43069Ha
+43109Hc
+43052Ha43053Ha 43054Ha
+43085Pa
+43063Ha43064Ha
+43071Hc43072Hb43073Ha43074Ha
+43130Ha43142Ra43103Cb43057Ha
+43067Ma
+43075Ma
+43121Ha
+43042Ha43125Ha
+43126Ha
+43127Ha43115Hb
+43133Hb
+43049Hb43051Hb43050Ha43060Ha43061Hb43062Ha43043Ha43111Ha43113Ha
+43122Ha
+43107Hb43149Hb
+43112Hb43116Ma
+43124Ha43068Ha
+43065Ha
+43123Ha
+43089Cc
+43099Cc43005Fb43006Fa
+43022Ha43039Ra
+43008Ha
+43010Ha43013Pa
+43028Hb43020Ha43021Ha
+43037Ha
+43078Hc43079Hb43019Hb
+43027Hb
+43081Hc43082Hc
+43088Cc43070Hc43080Hc43100Cc43026Ha43034Ha
+43095Ha43036Ha
+43045Ha43046Ha
+43055Ha43056Ha
+43033Ha43035Ha43145Hb
+43096Hc
+43105Hb
+43083Hb
+43119Ha43086Pa43148Ha
+43094Ha43108Hb
+43110Hb
+43009Ha
+43015Hb43016Ha
+43023Pa43025Ca
+43024Ha43017Mb
+43012Ha
+43011Hb43007Ha
+43120Ha
+43090Mc43014Hb43018HaRue Aqueduc
+Boulevard Louis-XIV
+Boulevard du LoiretRue du VignobleRue SorbierRue Seigneuriale
+Rue Astrid
+Avenue du Bourg-Royal
+Avenue des PlatanesChemin de Château-Bigot
+Rue des Roses
+Rue des CyprèsRue ÉdithRue Montpellier
+Rue Blanche-Lamontagne
+Rue des PruchesRue M
+yriamRue Glinel
+Rue des PâquerettesRue du ComteRue Guyon
+Avenue Sainte-Thérèse
+Avenue des Tulipes
+Rue des ThuyasRue du Méandre
+Rue du Vice-RoiRue Dubeau
+Rue des CornalinesAvenue Saint-Michel
+Rue des Loutres
+Boulevard Jean-Talon EstRue Turcot
+Rue RachelRue Rimbaud
+Rue des TopazesRue Maxime
+Rue MaudeRue du Baron
+Rue des GlaïeulsRue du Sieur
+Rue de l'AméthysteRue Beaumanoir
+Rue Saint-ViateurRue de la Châtelaine
+Rue Anne-PivainRue du Volt
+Rue de la Souveraine
+Avenue des DiamantsRue Thomassin
+Rue des Sureaux
+Avenue de ColmarRue des ToursRue Rocheleau
+Rue de la MoselleRue des LazuritesRue des JacinthesRue des Chrysolithes
+Rue des LierresRue des ÉmeraudesRue Belliard
+Boulevard Henri-BourassaRue du TilletRue De BroquevilleRue Lindsay
+Rue du SénégalRue Givot
+Rue des TurquoisesRue de Grenelle
+Rue Régaud
+Avenue PradierRue Pascal
+Rue Ém
+ilienRue ChabrierRue Louise-Tessier
+Avenue de TalmontRue Pierre-Paul-Bertin
+Rue ÉliseRue David
+Rue des Cannas
+Avenue Saint-SamuelRue Riopelle
+Rue VerreaultRue Michel-HuppéRue Cyr
+Rue LevesqueRue Guénard
+Rue La Ferté
+Avenue du Bourg-la-ReineRue Colombier
+Avenue des CaryasRue La Valterie
+Rue des OrchidéesRue Patrick
+Avenue des GrenatsRue Élaine
+Rue De MéjanèsRue de MontaubanRue Jobidon
+Avenue Jean-Michel
+Rue des Pervenches
+Rue des Pétunias
+Rue de la Galène
+Rue de l'EscarboucleRue Feydeau
+Avenue de la Caravane
+Rue des WapitisRue GuillemetteRue NobelRue des Lièvres
+Rue des Tournesols
+Avenue de LucerneRue Lauréat-Bélanger
+Rue PotvinRue Brindamour
+Avenue de l'ArlequinRue Bastin
+Rue des BichesRue de la Montagne-des-Roches
+Rue des PékansRue du Grand-Duc
+Rue de la PinèdeRue de la Seigneurie
+Rue des CalcédoinesRue de l'AlbâtreRue George-Sand
+Rue des FaonsRue BourdaisAvenue Alphonse-DupuisRue des PasquiersRue Paul-Eluard
+Rue André-Bernier
+Avenue le Duc NordRue De Gomery
+Rue des Marsouins
+Avenue de LozèreRue des Alysses
+Avenue des GirofléesRue de Manselmont
+Rue NathalieRue MarcadetRue Monge
+Rue Michel-Baudin
+Rue des SumacsAvenue MalletRue Georges-Saint-HilaireRue du Panorama
+Rue Denis
+Rue du RubisRue Marie-France
+Carré De Tracy Est
+Rue des ZinniasRue de l'Ardoise
+Rue des DahliasRue de la Tourmaline
+Rue des CampanulesRue SergerieRue Drouard
+Rue Dagneau
+Rue MarmenRue de l'Outremer
+Rue Philippe-Brais
+Rue Maurice-DéryRue Hubert-Courteau
+Avenue QuévillonRue des Aboiteaux
+Rue des MyosotisRue des Rubellites
+Avenue des BuglesRue MontoisyRue Louise-Monjon
+Rue des ViolettesCarré De Tracy Ouest
+Rue du CorindonRue Pierre-Collard
+Rue du Harfang
+Avenue des SaugesRue Antoine-Berton
+Rue Le MarinelRue Jean-Froissart
+Rue des CapucinesRue du GirasolRue Beauchesne
+Rue M
+athilde
+Rue de Dover
+Rue de l'OpaleRue François-Trefflé
+Avenue de GirondeRue François-Amelot
+Rue Pierre
+Rue d'OrsainvilleRue Le RouxRue Naudet
+Rue GabrielRue du Prince-AlbertRue Lionel-Bélanger
+Rue de ChamonixAvenue des Coyotes
+Rue des Zircons
+Rue des BlaireauxRue PompadourRue De Montherlant
+Avenue VeuillotRue Jacques-Duhault
+Rue des AlmandinsAvenue du Marquis
+Rue des AgatesRue Géraud
+Rue Estelle
+Avenue des OeilletsRue Arthur-Langevin
+Rue de LusignanAvenue du Sommet
+Rue de la Chicouté
+Avenue SullyRue des AnémonesRue Bissonnet
+Rue Bérangère
+Rue Robert-Drouin
+Avenue de ValenceRue Séguin
+Avenue de l'Altesse
+Rue du Saphir
+Avenue du HouxRue du Hibou
+Avenue des ÉquerresRue Breguet
+Rue du DauphinRue Fabienne
+Rue Jean-PinguetRue Lacomblé
+Rue des Marguerites
+Rue des LiseronsRue Philippe-Angers
+Rue des ÉcureuilsAvenue des Verveines 
+Rue de Grandlieu
+Avenue des ChrysanthèmesRue MazarinRue Sabatier
+Rue François-De Villars
+Avenue du HêtreRue du Muguet
+Rue des NormandsCarré des CharmesRue des Grizzlis
+Rue des Cigales
+Rue du Pas-de-CalaisCarré du Jaspe
+Rue de l'Étang
+Rue des Églantiers
+Rue de la WallonieRue Antoine-Gautier
+Rue des PhloxRue des OtariesRue Catherine-CottinAvenue Mathieu-ChoretRue Aimée-Miville
+Rue des LunairesRue Laurence
+Avenue de LorientRue des Samares
+Rue de la CamargueAvenue d'AunisRue des Mouflons
+Rue des ChevreuilsRue de MontferrandRue Olivier-Roy
+Rue MélaniePlace de Lourmel
+Rue de l'OnyxRue Lauréat-L'Heureux
+Rue de BesançonRue de Belvès
+Rue des Pimbinas
+Avenue des Anis
+Place des TilleulsRue Rodin
+Rue du SerpoletRue ChagnyRue Prieur
+Rue de la SardoineRue Audesse
+Rue des Loups-Marins
+Avenue des Inules
+Rue NicollePlace des LysRue Philippe-Grenier
+Avenue des IrisRue du Caucase
+Rue René-ChevalierRue Chapon
+Rue de la SymphorineRue Laura-Brisebois
+Rue André-FleuryPlace Marie-Rémillard
+Rue de Châteauroux
+Rue des CormiersRue Dejarlais
+Avenue GrignonRue des Paradis-du-Bourg
+Place du TrocadéroRue du ConseillerRue Sébastien
+Rue des TagètesPlace Lorquet
+Rue de la Belle-Angélique
+Rue des JoyauxRue des Coquelicots
+Place des Conifères
+Rue de la JachèreAvenue du Bourg-RoyalRue de la Seigneurie
+Avenue des Verveines LISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M.
+PLAN Nº
+CA4Q43Z01ÉCHELLE
+1:5 000R.C.A.4V.Q. 4´
+EN VIGUEUR LE :2010-01-05
+2024-11-29M.M. R.C.A.4V.Q.13 2010-06-16
+M.M. R.C.A.4V.Q.36 2011-06-30
+M.M. R.C.A.4V.Q.62 2012-10-02
+SERVICE DE LA PLANIFICATION
+ET DE LA COORDINATION DE
+L'AMÉNAGEMENT DU TERRITOIRE
+DIVISION DE LA PLANIFICATION
+STRATÉGIQUE DU TERRITOIRE
+LÉGENDE
+Limite de zone
+Butte écran
+Mur écran
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulierÐÐÐÐÐÐÐÐÐÐOOOOONNNNNTERRITOIRE 4-3RÈGLEMENT DE L'ARRONDISSEMENT
+DE CHARLESBOURG SUR L'URBANISME
+ANNEXE I 
+ZONAGE
+F.B. R.C.A.4V.Q.161 2019-05-06
+R.C.A.4V.Q.170 S.R. 2021-01-28
+R.C.A.4V.Q.236 S.R. 2024-11-29489

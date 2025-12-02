@@ -1,0 +1,683 @@
+
+
+--- Page 525 ---
+20 m10 m
+10 m
+20 m20 m
+20 m
+16 m
+2 m20 m10 m10 m
+3 m2 m
+2 m10 m5 m
+3 m5 m
+15 m5 m5 m
+2 m10 m
+2 m5 m3 m5 m
+7,5 m3 m3 m
+7,5 m
+2 m3 m
+2 m2 m6 m
+3 m3 m
+5 m
+2 m
+3 m5 m
+7,5 m
+2 m5 m10 m3 m
+2 m
+2 m5 m3 m
+7,5 m2 m
+2 m20 m2 m
+5 m
+5 m
+5 m7,5 m
+7,5 m
+2 m5 m
+3 m
+2 m3 m2 m
+2 m
+10 m8 m
+5 m
+2 m2 m2 m
+3 m5 m3 m15 m
+3 m2 m5 m
+21402Ha21023Rb21015Ha21007Hc
+21018Hc21125Ha21005Ca
+21438Ha21427Ha21419Ha21022Ha21413Cb21446Hb21153Mb21140Ha
+21150Hb
+21436Mb21437Pa
+21746Mc21543Ha
+21548Hc
+21716Cc21520Ha
+21530Ha
+21535Ha21508Hb21510Ha21211Ma
+21517Cb
+21740Cb21619Cb21625Ha21620Hb21627Hc21628Hc21610Hc21325Ip
+21601Ha
+21736Cc21733Cd21016Ha21116Mb
+21409Ha
+21449Hc21151Ha21129Ma21121Ha
+21202Ha
+21710Cc21425Mb
+21441Hb
+21702Cb21546Hc
+21553Ma21502Ha
+21741Mc21212Ha21323Ic21321Ia
+21711Cd21743Cc21717Cc21622Mc
+21739Cc21725Cc
+21407Ha
+21401Ra21019Ha
+21454Hc21017Ha
+21021Ha21010Ma21138Ha
+21423Ha21408Ha21152Hb21445Ha21132Ha21201Mb
+21705Ip21703Mc21550Hc
+21533Ha21215Ha21313Aa
+21707Rb21538Ra21531Ha21509Ha21504Mb21326Ib
+21521Ha
+21523Ha
+21752Ra21536Ha
+21541Hb21617Ra
+21724Cc21613Mb21327Ip
+21614Hb
+21735Cb21729Cd21730Cd21001Ha
+21020Ha
+21026Mb21004Ra
+21013Ra21133Ra
+21155Ha
+21432Ha21418Ra
+21429Pa21405Cc21450M
+b21146Ha
+21406Mb21134Ha21135Ha
+21440Hb21433Rb21421Cb21549Ha
+21532Rb21552Ha21206Ha21505Ha21315Ib
+21528Ha21519Hb21516Mb
+21524Ra21316Fa
+21606Ha21603Ha
+21616Ra
+21621Ha21331Hb
+21403Hb21124Ha21130Ma
+21415Ha21411Hc21447Hc21414Ha21141Ha 21143Ha21214Ha21118Ha
+21156Ma
+21442Hb21748Mc21547Hb21210Ra
+21208M
+a
+21507Hb21209Ha21319Ib
+21750Mc21709Cd21712Cb21529Ha21328Cb
+21554Ha21602Cb21320Ib
+21722Cc21723Cc21542Cc21624Hc21626Hc21630Hb
+21734Cb21728Cb21611Hc
+21024Ra21014Ra21154Hc21119Ha
+21424Ha
+21426Ha21453Rb21027Mb
+21404Hc21444Ha21142Hb21144Ha21203Ha
+21145Rb21136Ha21213Mb
+21439Mb21448Hc21512Rb
+21525Ha21204Ha
+21513Ha 21544Hb21545Ha21318Aa
+21322Ha
+21747Mc21534Ha
+21540Hb21332Cb
+21744Cc21713Mc21629Hc21333Ip
+21608Ha21609Mb
+21737Cc21618Ha21612Hc
+21623Ha
+21025Ra
+21451Ha21008Ra21003Hb
+21006Ra
+21012Ha
+21431Ha
+21452Hb21434Ha21416Ha
+21428Ha21410Hb21139Ha
+21147Pa21126Hc21128Ha21307Ra
+21312Fa
+21704Ip21443Ha21501M
+a
+21518Mb21207Pa21334Rb
+21537Rb
+21701Cd21706Cb21539Ha21515Ma21324Ip
+21715Cd21329Ip
+21607Ma21605Hc
+21417Ha21011Rb21002Ha
+21009Ha
+21137Ha21120Pa
+21422Rb21412Cb
+21420Hb21149Ha21131Hb21122Ha21106Ra
+21751Ip21708Mc21430Ha
+21435Hc21551Hc21205Ha21216Ha
+21503Mb
+21506Ha21308Fa21314Ib
+21749Mc21526Ha21527Ha21511Ha
+21514Hb21522Cb
+21555Ha
+21721Cc21714Mc21330Ip
+21615Ha21604Pa
+21731Cd21732Cb
+21738Cb
+21720Cc21754Ip21727Ip
+21742Ip
+21719Cc21753Cc21726Cb21117Ha
+21127Ha21123Ha
+21718Ip
+Autoroute Félix-LeclercAutoroute Laurentienne
+Boulevard Saint-JacquesBoulevard Robert-Bourassa1re Avenue
+Avenue Trudelle
+Boulevard Bastien
+Rue Bouvier
+Rue du MaraisBoulevard des Gradins
+Boulevard de l'OrmièreRue de la Faune
+Boulevard Cloutier
+Avenue Doucet
+Avenue GodinRue Saint-Charles
+Rue FortinBoulevard LebourgneufAvenue Lapierre
+Rue LétourneauBoulevard Pierre-Bertrand
+Rue des Rocailles
+Avenue BanvilleRue Drolet76e Rue Ouest
+Boulevard La Morille
+Rue PincourtRue des Sommeliers
+Rue Careau Autoroute Robert-BourassaRue MonfetRue Estiembre
+67e Rue Ouest
+Rue Jean-PerrinRue Fréchette
+Rue Le MesnilRue des Aïeux
+Rue RobitailleAvenue de LavalRue Soret
+Rue Valvue
+68e Rue OuestBoulevard Henri-Bourassa
+Rue De Celles3e Avenue OuestRue Vaillancourt
+Rue HoudeBoulevard de la Colline
+Avenue Paul-Comtois
+Rue Bazire
+Avenue du CostebelleRue Jourdain83e Rue Est
+Rue MétivierRue des BrumesRue du Pomerol
+81e Rue EstRue Saint-Romain
+Rue Jean-MarchandRue de la HerseRue LarcheAvenue du Patrimoine-MondialRue Roland
+Rue de VéroneRue Chauvet
+Rue des TournellesRue de la CamomilleRue Marie-Parent
+Avenue GlazierAvenue Lavoie
+Avenue ChauveauAvenue Nantel66e Rue Ouest82e Rue Ouest76e Rue Est
+Rue de la BroussailleBoulevarddel'Atrium
+Rue de Panama
+Boulevard FontenelleAvenue BecquetRue de Rouen
+Rue Élisabeth-IIAvenue Lucien-Paquet
+Rue du Roitelet
+Rue de la Rive-Boisée NordRue Guillaume-Bresse
+Rue Barraute
+57e Rue Ouest
+Rue CoursolRue du Foyer
+Boulevard Louis-XIV
+Rue MartelRue de Fronsac
+Rue Auguste-Renoir
+Rue du BlizzardRue Thérèse-Casgrain3e Avenue Est
+Rue de la Griotte5e Avenue OuestRue de la Pruchière
+Boulevard des GaleriesRue LatreilleRue des Émilois
+Rue BeauboisRue Louis-GauthierRue du Chénas
+Rue Le Page70e Rue OuestBoulevard Savard
+Rue Clairbonne
+Rue Desrochers Rue DubucRue de Kyoto
+RuedesGéraniumsRue Virginia-Woolf
+Rue de MoreliaRue Marie-Lucie
+Rue du JoybertRue Étienne-DubreuilAvenue des Ancêtres
+Rue de La HavaneCôte des Érables
+Rue
+de
+laComtoise
+Rue Zéphirin-PaquetRue Raymond-Déry
+Rue de BarceloneRue Bienvenue
+Rue MigneronAvenue de VarsovieRue de Nanteuil
+81e Rue OuestRue de Lorraine
+Rue de BurgosRue
+de
+Dakar
+Rue RivardRue du Lyonnais
+Rue du Caire
+Carré DuclauxRue de l'Odyssée
+RueVoltaire
+Rue Durand
+Rue du GriffonAvenue Rigaud
+Avenue de la Roselière7e Avenue OuestAvenue de Marseille
+BoulevardJohnny-Parent
+Avenue BakerRue Lessard
+Rue du GîteRue du Voisinage
+Rue de CaenRue de Coligny
+Rue ToupinRue Courtois
+RuedeBuffaloRue du FenilRue du Maine
+Rue de Boulogne
+Rue Claire-BonenfantRueChomedeyBoulevard CentralRue de MartignyRue des Roselins
+RuedeLunenburg
+Rue d'ArsAvenue Trépanier
+Rue Fernand-DufourRue du Saint-Émilion
+74e Rue EstRue du Beaujolais
+Rue Clairval
+Rue de BogotaRue du PérigordRue Nicolle
+Rue de Belfort
+Rue Henri-LandryRue de Compostelle
+Rue des EntrepreneursRue Maurice-Proulx
+Rue du ChinookRue de Saint-Julien
+RuedelaBelle-ArrivéeRue de l'Embellie
+RuedeChantelle
+Rue Sicotte78e Rue EstAvenue de Gironde
+RueLéo-LessardRue Bethune
+Rue Adéla-Lessard90e Rue Ouest
+Rue du BordelaisRue Viel
+RueVictor-DelamarreRue de CarthagèneBoulevard Jean-Talon Est
+Rue des LobéliesRuedeChamerollesRue de l'Alliance
+Rue de Venise
+Rue du MassifRue Jean-Clément
+Avenue PlanteRuedeBretagneRue Rodier
+Rue JeanRue de Montrachet
+Rue de la Farinière
+RuedelaGirandole
+RueLiret94e Rue OuestAvenue Bourret
+Rue de Beaune
+Avenue ErlangerRue BlaisRue BoilyAvenue Villeneuve
+Avenue De Beauvoir
+Rue de PertuisRue du CabrioletAvenue du Béarn
+Rue du Pinot
+Rue ValdômeRue Rameau Rue Brault
+6e Avenue OuestRue d'Urfé
+Rue du Patelin
+Avenue GermainRue de la Sultane
+RueArchambaultAvenue Dumesnil
+Rue Roland-BédardBoulevard Jean-Talon Ouest
+Rue du Gerbier
+Rue FaribaultRuedeBergenRue de Bilbao
+Rue LionelAvenue Gosselin
+Rue du Gabarit
+Rue de BastogneBoulevard Mathieu
+RueGertrude-RoyRue des Bourraches
+Rue des Arbrisseaux
+Boulevard de M
+onacoAvenue BinetRueCézanne
+Rue AlexandreRue Françoise-GiffardAvenue Ampleman
+Avenue CarrelRue Armand-Viau NordRue de Savoie
+Rue du Curé-Lacroix
+Rue François-Hazeur
+Rue Félicité-AngersRue Meredith
+Rue de CaraquetRuedesGaulis
+Rue Labranche52e Rue OuestRueBoyerRue du Phénix
+Rue BissonRue MalouinRue du Superbe
+Rue des MeuniersRue La MarcheRue de Chartres
+RuedeChambéry
+Rue des Graviers
+Rue Hugues-RandinAvenuedelaGaronne
+Rue de la Boudinière
+Avenue SanterreAvenue Hélène-Paradis
+Rue du Germoir
+Rue Guillaume-RenaudRue des Peupliers-Blancs
+RueduMoulin-des-MèresRue de la Scierie
+Rue Maurice-Barthe
+Avenue Beaudry73e Rue Est
+Rue Jean-BernardRue des Grès
+Rue La Fraîcheur
+Avenue GaliboisRue des GroseillesRuedelaFalaise-Verte
+Rue de la Coupole
+Ruedel'Islet
+Rue des Branches71e Rue Ouest
+Avenue VerchèresAvenueduPlateau-de-Charlesbourg
+Rue d'Évora
+RuedesBois-BrûlésCarré Rose-Leclerc
+Rue des ImpatientesRue du ValaincourtRue Martin
+RueduCalcaireAvenue Honoré
+Rue Marie-De BureRuedeMacao
+Rue de la MontéeAvenuedePortoRue Moisan4e Avenue Ouest
+RueMarie-De
+Lam
+arre
+RuedeQuitoRue WattréRue Renfrew
+AvenueHautevue
+Rue CharmontRue Verreault
+RueAimé-Lantier
+Rue BizetRue BellinRue BeauvaisRue de Navarre
+Rue Cécile-VallerandRue Roland-FisetRue de Barfleur
+Avenue GobertAvenue de Soissons
+RueChantillon
+Rue de MexicoAvenue Paiement
+Rue du BrasierAvenueGaron
+RuedelaGerboise
+Rue LaurentRue de l'AsterAvenue Thomas-Baillairgé
+71e Rue Est
+Rue du Quartz
+Rue ArsenaultAvenue PoirierRue RochefortRueduCôte-de-Nuits
+RueSamsonRuedeBoston
+Rue du Curé-Bégin73e Rue Ouest
+RueMarie-Anne-Gaudreau
+Rue de Beauchastel
+Autoroute Henri-IVRueBresseau
+Rue des Bâtisseurs
+Carré du BrûléAvenue ÉdouardRueduChambertin
+77e Rue EstRue de l'Accueil
+Rue de la Gandolière
+RueSiméon-DroletRue Monique-CorriveauRue Lafond
+Carré Cluseau
+Rue PowellRueLaDurantaye
+Rue du Mousquet
+Rue ValjeanRue des Colibris
+Rue ClaisseRue du Clos-Rousseau
+RuePaul-Henri-LachanceAvenue Courvoisier
+Rue du ChevaletAvenue Grondin
+Avenue BernatchezRue La FranchiseRue des Explorateurs
+Avenue Jacques-IbertAvenue HoffmanRue du Gigondas
+Rue des SauloisRue de Châteauneuf-du-Pape
+Rue BeaufilsRue Antoinette-De PonsAvenue Jean-Paquin
+AvenueDeChoiseul
+Avenue Romain-RollandCarré Mérimée
+Carré du Boisé
+Rue Jean-ArnaudAvenueGuilbaultRuedeMeursault
+Avenue de l'IsèreRue Atsena
+Avenue de Brie
+AvenuedesReplatsAvenue de VienneAvenue Émile-Gauthier
+Rue l'Écuyer
+Rue Morin
+RueBoissinotRue AllardRue des MûriersChemin Samuel
+Rue Thomas-Pope
+Rue de Prague
+RuedelaBrindilleRue Hélène-Pedneault
+51e Rue Ouest
+RueDumouchelRue de Sénart
+RuedelaCantatrice
+Rue Victor-HugoAvenueÉmile-HenriotRue de Perpignan
+Rue RacicotAvenue des Flandres
+RueRobert-LatoucheRue de Tolède
+Rue MauriceRue des Myrtilles
+RueNotre-Dame-de-FatimaAvenue
+desFauvettes
+Avenue Jacques-Prévert
+Rue des Barillets
+AvenueNicolas-FouquetRue Gédéon-OuimetCarré Valois
+RueduBeau-Chemin
+Rue Maurice-BoisAvenue Gustave-Beaudet
+Rue ValinRueValade
+RuePaquinRued'Oviedo
+Rue Cinq-M
+arsRue RéaumurRue du Cantal
+Rue du Berry
+Rue LatulippeRue des Chèvrefeuilles
+Rue des Alpes83e Rue Ouest
+Avenue du Verdon
+Rue Asselin
+Rue des AppalachesRueAdrien-Sanfaçon
+Rue des ClématitesAvenueAlbertRue ForantRuedeJurançonAvenue du PercheRuedeSaint-Véran
+Avenue DescarreauxRueChominaRuedel'Égalité
+RuedeVillemoisson
+Avenue
+de
+M
+ontcourt
+Place Michel-ValcourtRuedelaMarjolaine
+Avenue
+Jean-Paul-Sartre
+Carré des ArgilesAvenueduCuré-RuelRueDeFontangesAvenue du Nivernais
+Rue des Basses-TerresRue Saint-AlphonseRueduMarsan
+RuedeBavière
+AvenuedesGerbes
+Rue Adrien-PouliotRue Raymond-Lasnier
+RueduBriseboisRue de la Dignité
+RueJean-Paul-Lemieux
+Avenue du Mont-Clair
+RueFrancis-ByrneRuedeSalzbourgRuedeColombellesRue du Petit-Bois
+RuedeStockholm
+Rue des Gélinottes
+Boulevarddel'Auvergne
+Rue FlamandRueMolièreRue Saint-Bruno
+Rue Arbour
+Boulevard NeuvialleRuedeChevreuseCarré de Bergerac
+RueLaMadelonRue de l'UnitéRue des Pommiers
+Rue de l'AiglonRue de la Liberté
+Rue
+dela
+BohêmeCarré Antoine-BauméRue
+de
+VendômeRue Paul-GuryRuedeBrêmeRueAlfred-Cloutier
+RueJeanne-Sauvé
+Rue LahayeRue du Grand-PicRue des FondateursRueAndré-MorinRue Projetée
+RueLéveillée
+RueAlphonse-Lacoursière
+RueJoseph-Isabelle49e Rue OuestRuedelaSolidarité
+Avenue Renaude-Lapointe79e Rue Est
+Rue de MirandeRue de Roubaix
+Avenue PruneauCarré MaugerRueduCabernet-Sauvignon
+RueCharles-A.-ParentCarréJean-Hanse
+RuedesAmarantesRue Francine-McKenzie70e Rue Est
+RuedeTrévolRue BergeronRue de la Petite-Oasis
+ImpasseHuet
+Avenue du Curé-GodboutRueMario
+RuedeGascogne
+Rue Thomas-Dunn
+Rue de TrinidadCarré d'Oléron
+AvenueBonaparte
+RuedelaLimoselleRuedesPotagers
+Rue de GrandpuitsRue Corot
+RueduGrand-JardinRue des Bouvreuils
+PlaceOdilon-Gauthier
+Rue des GadellesRueMoffet
+Rue du Court-Métrage
+ImpasseMarie-GuyartRued'Aquitaine
+RueBlaise
+RuePaul-BorduasRueduCordon-Rouge
+92e Rue Ouest
+RueForestierRue Noël
+RueBoisbuissonRuedesPassereauxAvenueAlexis-Bourbeau
+Rue Saint-Vincent-FerrierRue de la BoussoleRueHunter
+AvenuedelaDominique
+RueduMoulin-des-Jésuites
+RueGérard-LajoieRueSiméon-LeroyRueDeMaintenon
+AvenuedeValence
+RuedelaBelle-MeunièreNordRueElzéar-Villeneuve
+75eRueEstAvenueRené-Rhéaume
+RuedesOrmes-d'Amérique
+RueAlice-TrépanierRue Pierre-Beaudin
+Rue des TenaillesRue Ernest-Verret RueduBourbonnais
+RueduMoulin-Blanc
+Rue du CourtilRueduClocher
+RuedesSaponairesRue Albert-CamusRueRoméo-VézinaRueWilliam-Marsh
+RueduDom-PérignonRueduHaut-Médoc
+CarréduLimousin
+PlaceBergerette
+RuedesSouverainsPlaceGalerneauRue de la Miséricorde
+85e Rue OuestRueAlexandre-Blouin
+RueMary-TraversRue Le Rouge
+Rue du CalumetRue
+d'Avila
+AvenuePruneauRue du Court-Métrage94e Rue Ouest
+Avenue Chauveau
+Autoroute Robert-BourassaAvenue Chauveau
+AvenuedePorto
+Boulevard LebourgneufBoulevard Johnny-ParentBoulevardJohnny-Parent
+Avenue Nantel
+Autoroute Félix-LeclercBoulevard Louis-XIVAutoroute Laurentienne
+66e Rue Ouest
+Boulevard de l'AtriumBoulevard Jean-Talon Est
+3e Avenue Est
+Autoroute Félix-LeclercRue Labranche
+PLAN Nº
+CA2Q21Z01ÉCHELLEEN VIGUEUR LE :
+1:7 000
+SERVICE DE LA PLANIFICATION
+DE L'AMÉNAGEMENT
+ET DE L'ENVIRONNEMENT
+DIVISION DE LA PLANIFICATION
+STRATÉGIQUE DU TERRITOIRE
+TERRITOIRE 2-1RÈGLEMENT DE L'ARRONDISSEMENT
+DES RIVIÈRES SUR L'URBANISME
+ANNEXE I 
+ZONAGE
+LÉGENDE
+Limite de zone
+Butte écran
+Mur anti-bruit
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulier
+LISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M. R.C.A.2V.Q.4 2010-01-05
+M.M. R.C.A.2V.Q.14 2010-07-13
+M.M. R.C.A.2V.Q.15 2010-07-13
+M.M. R.C.A.2V.Q.20 2011-01-17
+M.M. R.C.A.2V.Q.26 2011-05-17
+M.M. R.C.A.2V.Q.40 2012-01-25
+M.M. R.C.A.2V.Q.51 2012-04-16
+M.M. R.C.A.2V.Q.53 2012-04-16
+M.M. R.C.A.2V.Q.57 2012-09-10
+M.M. R.C.A.2V.Q.54 2012-11-13
+M.M. R.C.A.2V.Q.72 2012-12-18
+M.M. R.C.A.2V.Q.88 2013-09-04
+M.M. R.C.A.2V.Q.89 2013-09-04
+M.M. R.C.A.2V.Q.99 2014-03-26
+M.M. R.C.A.2V.Q.109 2014-05-16
+M.M. R.C.A.2V.Q.119 2015-03-26
+M.M. R.C.A.2V.Q.123 2015-03-26
+M.M. R.C.A.2V.Q.126 2015-05-12
+M.M. R.C.A.2V.Q.129 2015-05-29
+M.M. R.C.A.2V.Q.131 et 137 2015-07-10
+M.M. R.C.A.2V.Q.148 2015-12-10
+M.M. R.C.A.2V.Q.158 2016-02-26
+M.M. R.C.A.2V.Q.160 et 163 2016-03-29
+M.M. R.C.A.2V.Q.162 et 166 2016-05-02
+R.C.A.2V.Q.161 et 167 V.B. 2016-07-06
+R.C.A.2V.Q.176 M.M. 2016-07-18
+R.C.A.2V.Q.173 M.M. 2016-08-30
+R.C.A.2V.Q.178 M.M. 2016-10-31
+R.C.A.2V.Q.172 et 177 M.M. 2017-03-08
+R.C.A.2V.Q.182 et 187 M.M. 2017-03-08
+R.C.A.2V.Q.188 M.M. 2017-04-06
+R.C.A.2V.Q.191 M.M. 2017-05-31
+R.C.A.2V.Q.205 M.B. 2017-07-05
+R.C.A.2V.Q.198 et 199 M.B. 2017-07-13
+R.C.A.2V.Q.212 M.B. 2017-12-21
+R.C.A.2V.Q.215 M.B. 2018-03-06
+R.C.A.2V.Q.221 et 224 M.B. 2018-07-05
+R.C.A.2V.Q.228 M.B. 2018-07-10
+R.C.A.2V.Q.229 et 230 M.M. 2018-10-31
+R.C.A.2V.Q.247 F.B. 2019-07-08
+R.C.A.2V.Q.257 M.M. 2020-02-12
+R.C.A.2V.Q.259 M.M. 2020-03-04
+R.C.A.2V.Q.268 S.R. 2020-09-03
+R.C.A.2V.Q.266 S.R. 2020-12-10
+R.C.A.2V.Q.283 S.R. 2021-03-01
+R.C.A.2V.Q.299 et 304 M.B. 2021-07-16
+R.C.A.2V.Q.272 J.P. 2021-08-30
+R.V.Q. 3115 S.R. 2023-02-13
+R.C.A.2V.Q.351 S.R. 2023-07-11
+R.C.A.2V.Q.343 S.R. 2023-07-19
+R.C.A.2V.Q.360 S.R. 2023-12-04
+R.C.A.2V.Q.368 S.R. 2024-04-09
+R.C.A.2V.Q.376 S.R. 2024-06-03
+R.C.A.2V.Q.379 S.R. 2024-06-28
+R.C.A.2V.Q.388 S.R. 2024-12-13
+R.C.A.2V.Q.384 S.R. 2025-01-30
+R.C.A.2V.Q.395 S.R. 2025-01-30
+2025-07-10R.C.A.2V.Q.392 S.R. 2025-02-28
+R.C.A.2V.Q.405 S.R. 2025-07-10525
+
+--- Page 1220 ---
+CHAPITRE II  
+CRITÈRES  
+SECTION I  
+NOMBRE MAXIMAL DE LOGEMENTS  
+3. Le nombre de logements autorisés sur la partie du territoire formée du  lot 
+numéro 1 019  632 du cadastre du Québec peut excéder celui prescrit à la grille 
+de spécifications pour la zone  21020Ha , sans toutefois  dépasser 22 logements.  
+ 
+4. Le nombre de logements autorisés sur la partie du territoire formée des  lots 
+numéros  1 021 976, 3 810  797 et 6 387 158 du cadastre du Qué bec peut excéder 
+celui prescrit à la grille de spécifications pour cette zone, sans t outefois dépasser 
+100 logements.  
+SECTION II  
+IMPLANTATION DES BÂTIMENTS  
+5. Les bâtiments projetés assurent une continuité de la trame urbaine par leur 
+implantation le long du boulevard Saint -Jacques, notamment en ayant une marge 
+avant inférieure à celle prescrite pour la zone 21020Ha , et un espace suffisant en 
+arrière -lot assure une insertion harmonieuse des bâtiments avec les bâtiments 
+voisins. 
+ 
+6. Le bâtiment situé sur la partie du territoire formée du lot numéro 1 019  632 
+du cadastre du Québec doit respecter la marge arrière de onze  mètres afin  de 
+préserver l’intimité avec les bâtiments voisins déjà existants  et de maximiser la 
+conservation des arbres existants en arrière -lot. 
+ 
+7. Un espace extérieur suffisant entre le  bâtiment situé sur la partie du 
+territoire formée des lots numéros 1  021 976, 3 810  797 et 6 387  158 du cadastre 
+du Québec et ceux des lots résidentiels adjacents  doit être conservé.  
+SECTION III  
+HAUTEUR DES BÂTIMENTS ET INTÉGRATION ARCHITECTURALE 
+8. La hauteur maximale autorisée des nouveaux bâtiments peut excéder la 
+hauteur maximale permise pour la zone 21020Ha. Toutefois, la hauteur ne peut 
+excéder onze  mètres pour l a partie du territoire formée du  lot numéro 1 019  632 
+du cadastre du Québec et 18 mètres pour celle formée des lots  numéros  
+1 021 976, 3  810 797 et 6 387  158 du cadastre du Québec. 1220
+
+--- Page 1220 ---
+CHAPITRE II  
+CRITÈRES  
+SECTION I  
+NOMBRE MAXIMAL DE LOGEMENTS  
+3. Le nombre de logements autorisés sur la partie du territoire formée du  lot 
+numéro 1 019  632 du cadastre du Québec peut excéder celui prescrit à la grille 
+de spécifications pour la zone  21020Ha , sans toutefois  dépasser 22 logements.  
+ 
+4. Le nombre de logements autorisés sur la partie du territoire formée des  lots 
+numéros  1 021 976, 3 810  797 et 6 387 158 du cadastre du Qué bec peut excéder 
+celui prescrit à la grille de spécifications pour cette zone, sans t outefois dépasser 
+100 logements.  
+SECTION II  
+IMPLANTATION DES BÂTIMENTS  
+5. Les bâtiments projetés assurent une continuité de la trame urbaine par leur 
+implantation le long du boulevard Saint -Jacques, notamment en ayant une marge 
+avant inférieure à celle prescrite pour la zone 21020Ha , et un espace suffisant en 
+arrière -lot assure une insertion harmonieuse des bâtiments avec les bâtiments 
+voisins. 
+ 
+6. Le bâtiment situé sur la partie du territoire formée du lot numéro 1 019  632 
+du cadastre du Québec doit respecter la marge arrière de onze  mètres afin  de 
+préserver l’intimité avec les bâtiments voisins déjà existants  et de maximiser la 
+conservation des arbres existants en arrière -lot. 
+ 
+7. Un espace extérieur suffisant entre le  bâtiment situé sur la partie du 
+territoire formée des lots numéros 1  021 976, 3 810  797 et 6 387  158 du cadastre 
+du Québec et ceux des lots résidentiels adjacents  doit être conservé.  
+SECTION III  
+HAUTEUR DES BÂTIMENTS ET INTÉGRATION ARCHITECTURALE 
+8. La hauteur maximale autorisée des nouveaux bâtiments peut excéder la 
+hauteur maximale permise pour la zone 21020Ha. Toutefois, la hauteur ne peut 
+excéder onze  mètres pour l a partie du territoire formée du  lot numéro 1 019  632 
+du cadastre du Québec et 18 mètres pour celle formée des lots  numéros  
+1 021 976, 3  810 797 et 6 387  158 du cadastre du Québec. 1220
+
+--- Page 1220 ---
+CHAPITRE II  
+CRITÈRES  
+SECTION I  
+NOMBRE MAXIMAL DE LOGEMENTS  
+3. Le nombre de logements autorisés sur la partie du territoire formée du  lot 
+numéro 1 019  632 du cadastre du Québec peut excéder celui prescrit à la grille 
+de spécifications pour la zone  21020Ha , sans toutefois  dépasser 22 logements.  
+ 
+4. Le nombre de logements autorisés sur la partie du territoire formée des  lots 
+numéros  1 021 976, 3 810  797 et 6 387 158 du cadastre du Qué bec peut excéder 
+celui prescrit à la grille de spécifications pour cette zone, sans t outefois dépasser 
+100 logements.  
+SECTION II  
+IMPLANTATION DES BÂTIMENTS  
+5. Les bâtiments projetés assurent une continuité de la trame urbaine par leur 
+implantation le long du boulevard Saint -Jacques, notamment en ayant une marge 
+avant inférieure à celle prescrite pour la zone 21020Ha , et un espace suffisant en 
+arrière -lot assure une insertion harmonieuse des bâtiments avec les bâtiments 
+voisins. 
+ 
+6. Le bâtiment situé sur la partie du territoire formée du lot numéro 1 019  632 
+du cadastre du Québec doit respecter la marge arrière de onze  mètres afin  de 
+préserver l’intimité avec les bâtiments voisins déjà existants  et de maximiser la 
+conservation des arbres existants en arrière -lot. 
+ 
+7. Un espace extérieur suffisant entre le  bâtiment situé sur la partie du 
+territoire formée des lots numéros 1  021 976, 3 810  797 et 6 387  158 du cadastre 
+du Québec et ceux des lots résidentiels adjacents  doit être conservé.  
+SECTION III  
+HAUTEUR DES BÂTIMENTS ET INTÉGRATION ARCHITECTURALE 
+8. La hauteur maximale autorisée des nouveaux bâtiments peut excéder la 
+hauteur maximale permise pour la zone 21020Ha. Toutefois, la hauteur ne peut 
+excéder onze  mètres pour l a partie du territoire formée du  lot numéro 1 019  632 
+du cadastre du Québec et 18 mètres pour celle formée des lots  numéros  
+1 021 976, 3  810 797 et 6 387  158 du cadastre du Québec. 1220

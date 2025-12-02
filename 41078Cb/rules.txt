@@ -1,0 +1,314 @@
+
+
+--- Page 487 ---
+10 m
+10 m10 m
+20 m10 m10 m20 m
+30 m
+3 m2 m
+4 m3 m
+6 m
+2 m
+75 m41164Fb
+41009Ca
+41169Rb41170Rb
+41177Rb41181Rb
+41178Ip41030Up
+41176Ha41060Ia
+41126Pb41168Ra
+41175Rb41180Rb41002Ra
+41046Cb
+41152Cb41092Ha41155Rb41171Rb41125Ha41163Pa
+41112Pa41183Rb
+41113Ip41150Ra41182Rb41080Pb
+41137Ra41142Hc41054Ma41064Cb
+41172Rb41133Aa41024Fb
+41035Cb
+41044Ha41047Ha
+41052Ha41144Ha41153Ha
+41025Ha
+41033Ha41045Ma
+41034Cb
+41108Cb41036Ma41037Cb
+41049Hc41038Ha
+41088Cb41041Cb
+41048Pa
+41050Pa41051Mb41056Ha
+41055Ha41057Cb41043Mb
+41059Ha41058Ha
+41068Cb41069Fb
+41106Up41070Ha
+41091Ha41085Ha
+41102Pa41087Cb
+41066Fb41077Ha
+41198Ha41082Hb
+41083Ha41086Cb41079Ha41071Fb
+41074Cb41067Ha
+41075Cb
+41078Cb 41081Cb41195Ha41145Fb
+41149Fa 41167Fb41003Fa
+41004Fb
+41012Fa41013Fa
+41017Fb41019Ia
+41021Fb41028Ha
+41065Fb
+41076Ha41005Fb
+41014Fb41015Ha41016Hd
+41018Ha41023Ha
+41027Ha
+41061Pa41062Ra
+41063Ra
+41072Ha41001Fa
+41006Fa41007Fa
+41160Ha41008Ha41010Hd 41166Fb
+41039Hb41040Pa41029Cc
+41042Hb41022Ha41032Cb
+41031Hb41011Fb
+41026Ia41020Ha
+41089Ha
+41148Ca
+41147Hb41157Ha
+41093Ha41097Hb41095Cb41098Ha
+41104Hc
+41185Ha41094Hc
+41096Ha41146Cb
+41162Hb
+41151Hc41101Ha41103Ca
+41123Ha41131Cb41121Hc 41124Hc41090Fb
+41105Ha
+41165Ha41179Ha
+41111Ha
+41120Ha
+41114Ip41130Ha41132Ha
+41196Ha41174Ha
+41116Ha
+41100Ha
+41197Hb41136Ha
+41084Ra
+41143Pb41073Fb
+41139Cb
+41140Ha41138Ha41128Ra
+41127Ha41119Ha
+41134Ha41129Hb41135Cb
+41141Hc41115Hb41122Cb41109Cb
+41117Cb41118Hc41110Hb41161Ha41099Fb
+Autoroute LaurentienneBoulevard Talbot
+Rue Aqueduc
+Boulevard Henri-BourassaRue DelageBoulevard du LacChemin de la Sagamité
+Chemin de la Grande-Ligne
+Côte BédardAvenue de la Rivière-Jaune
+Rue George-MuirRue Jacques-Bédard
+Boulevard du LoiretRue de la FauneRue VézinaAvenue du Lac-Saint-Charles
+Rue LepireRue Bernier Est
+Avenue des Platanes
+Rue RoussinAvenue Lapierre
+Rue des RosesBoulevard de la CollineRue de SherwoodRue de Dublin
+Rue DorvalRue Luc-Pelletier
+Rue du DaimRue Duberger
+Rue des CyprèsRue des LoutresRue PrénoveauRue de BellevilleRue Léo-T.-Julien
+Chemin de Château-BigotRue des AcadiensRue Pierre-Verret
+Rue de l'ArgonRue de Champéry
+Rue des PâquerettesRue des Épinettes-Rouges
+Rue du Comte
+Avenue des Tulipes
+Rue des ThuyasRue des Cantons
+Rue des Grizzlis
+Rue du Vice-Roi
+Rue des CornalinesRue du Piémont
+Avenue du ZooRue des InuitsRue Clément
+Rue Audubon
+Rue Raoul
+Rue des Trembles
+Rue des LynxRue du Repos
+Rue des MerisiersRue CécileRue de Genève
+Rue Thibodeau
+Rue de Bigorre
+Rue du Baron
+Rue des GlaïeulsRue du Sieur
+Rue BeaumanoirRue Manick
+Rue des Bois-FrancsRue de la ChâtelaineRue MarikaBoulevard du Lac /  Lac Beauport
+Rue Cliche
+Rue de l'ÉpilobeRue de la SouveraineRue des Écoliers
+Rue GillesRue Phydime-Deschênes
+Rue de l'ApogéeRue Lafrance
+Rue Beaulac
+Rue des TopazesAutoroute Laurentienne /  Stoneham-et-Tewkesbury
+Rue PacifiqueRue Genest
+Rue des Jacinthes
+Rue des LierresRue du Vallon
+Rue Delamarre
+Rue Jacques-Verret
+Rue des Eaux-FraîchesRue du NickelRue Josée
+Rue BeauséjourRue Saint-Alexandre
+Rue des BlaireauxRue Léo-SavardRue du CalvadosRue BeaurivageRue des Chalets
+Rue des Émeraudes
+Rue des TurquoisesRue des MainatesRue des Carouges
+Rue de Cassiopée
+Rue des Feuillus
+Rue de TritonRue des Cannas
+Rue des FaonsRue des Plaines-Rouges
+Rue Marc-ChagallRue de la Constellation
+Rue des ÉcureuilsRue des Biches
+Rue des WapitisRue du BélierRue des Martres
+Rue des ChrysolithesRue des LièvresRue Montpas
+Rue Roger-BontempsRue du Lac-Fripon
+Rue des Manitobains
+Rue des Orchidées
+Rue de l'AméthysteRue Hamann
+Rue des MarsouinsRue Moïse-Verret
+Rue DouglasRue du Monarque
+Rue Longchamps
+Rue des PruchesRue de l'Aventure
+Rue Van GoghAvenue du Bourg-Royal
+Rue des PervenchesRue des Pétunias
+Avenue des PicasRue de la GalèneRue des Mauriciens
+Rue Anne-Pivain
+Rue du GabareRue des CerfsRue Dunham
+Rue de la Grande-OurseRue Krieghoff
+Rue Simard
+Rue des TournesolsRue du Curé-Marcotte
+Rue PicassoAvenue des CaryasRue de la Détente
+Rue de CapellaRue des TamiasRue des Bosquets
+Rue du CarboneRue Rae
+Rue du MarigotChemin du Lac-Jaune
+Rue des PékansRue des Pigamons
+Rue de la PinèdeRue de la SeigneurieRue Therrien
+Rue de l'AlbâtreRue de l'Héritage
+Rue du Mascaret
+Rue du Bouleau-BlancRue de l'Aisance
+Rue des Chevreuils
+Avenue des FaisansRue des TiarellesRue de la Douceur
+Avenue le Duc NordRue des Alysses
+Avenue des GirofléesRue du VoltRue des Albertains
+Rue de SaturneRue Degas
+Rue des LazuritesRue du Léman
+Rue des PlainesRue des Couventines
+Rue du RubisRue des Esquimaux
+Rue des Zinnias
+Rue de l'ArdoiseRue des DahliasRue de la Corse
+Avenue de l'OrignalRue des CampanulesRue de Berne
+Rue des RamiersRue de l'OutremerRue de l'Étoile
+Rue des AmélanchiersRue des Ramures
+Rue du Prince-AlbertRue ÉricRue des Moissons
+Rue des MyosotisRue des RubellitesRue du Platine
+Avenue des BuglesRue Hector-Bédard
+Rue des QuenouillesRue Pelletier
+Rue des Violettes
+Rue du GraniteRue du CorindonRue Joseph-GagnéRue George-Heriot
+Rue Isabelle-Doucinet
+Rue des Capucines
+Rue du GirasolAvenue des Coyotes
+Rue de l'OpaleRue de l'ArcherieRue Bouchard
+Rue Marie-Didace
+Rue des Aigles
+Rue PompadourRue du SurvenantRue du Campestre
+Rue du RomarinRue du Canotage
+Rue des RenardsRue de Sion
+Rue de MercureAvenue du MarquisRue des Goélettes
+Rue Valéda-Auclair
+Rue Philippe-Bédard
+Rue d'AwasisAvenue des OeilletsRue de la Rêverie
+Rue de l'ÉtangRue Saint-Amour
+Avenue du SommetRue de l'OsierRue du Trappage
+Rue des AnémonesRue de Chavannes
+Rue du Calme
+Rue du Beau-ReposRue de Vallorbe
+Rue Éloi-GarneauRue des Otaries
+Rue des ZirconsAvenue de l'AltesseRue du Plein-AirRue des Alisiers
+Rue des VisonsRue du DauphinRue des Corètes
+Rue des LiseronsRue du RebordRue du Grand-Héron
+Rue GuylaineRue Jules-Laperrière
+Avenue des Verveines 
+Avenue du HouxRue du Petit-Coteau
+Avenue des ChrysanthèmesRue du Bois-de-Coulonge
+Rue de l'Accalmie
+Rue du MuguetRue des Cigales Rue des MusaraignesRue du Valais
+Rue des PhloxRue des Viornes
+Rue de la GalaxieRue des Pruniers
+Avenue des RennesRue de Fribourg
+Chem
+in du Réservoir-des-Bouleaux
+Rue Alphonse-Beaulieu
+Rue des SamaresRue Françoise-Cabrini
+Rue des Anciens-CanadiensRue Elmire
+Rue des ComètesRue Léo-FlamandCôte du Paysage
+Rue Françoise-Encelin
+Avenue des ZèbresRue de l'ÉclaircieChemin de l'Engoulevent
+Rue de l'ÉléganceChemin de la Coulée
+Rue des PimbinasRue Éthier
+Rue des ChâtaigniersRue des Radeaux
+Avenue des InulesRue du Noroît
+Place des LysRue des HuardsRue de ZurichRue des Framboisiers
+Rue du CuivreRue Michaud
+Avenue le Duc Sud
+Rue des VinaigriersRue de ChâteaurouxRue des Échassiers
+Rue du ConseillerRue de l'Harmonie
+Autoroute Laurentienne
+Boulevard de la CollineChemin de Château-Bigot
+Rue de MercureLISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M.
+PLAN Nº
+CA4Q41Z01ÉCHELLE
+1:10 000R.C.A.4V.Q.4
+EN VIGUEUR LE :2010-01-05
+2025-04-25M.M. R.C.A.4V.Q.17 2010-08-24
+M.M. R.C.A.4V.Q.9 2010-09-01
+M.M. R.C.A.4V.Q.18 2011-02-01
+M.M. R.C.A.4V.Q.54 2012-04-26
+M.M. R.C.A.4V.Q.59 2012-09-04
+M.M. R.C.A.4V.Q.63 2012-11-30
+M.M. R.C.A.4V.Q.70 2012-12-18
+M.M. R.C.A.4V.Q.87 2013-06-27
+M.M. R.C.A.4V.Q.73 2013-07-10
+M.M. R.C.A.4V.Q.83 2013-07-10
+M.M. R.C.A.4V.Q.90 2013-07-10
+M.M. R.C.A.4V.Q.109 2014-12-10
+SERVICE DE LA PLANIFICATION
+DE L'AMÉNAGEMENT
+ET DE L'ENVIRONNEMENT
+DIVISION DE LA PLANIFICATION
+STRATÉGIQUE DU TERRITOIRE
+TERRITOIRE 4-1RÈGLEMENT DE L'ARRONDISSEMENT
+DE CHARLESBOURG SUR L'URBANISME
+ANNEXE I 
+ZONAGE
+M.M. R.C.A.4V.Q.124 2016-07-06LÉGENDE
+Limite de zone
+Butte écran
+Mur anti-bruit
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulier
+O.A. R.C.A.4V.Q.137 2017-05-04
+M.M. R.C.A.4V.Q.151 2018-12-19
+M.M. R.C.A.4V.Q.155 2019-04-05
+M.M. R.C.A.4V.Q.167 2019-12-17
+R.C.A.4V.Q.174 S.R. 2020-03-26
+R.C.A.4V.Q.180 S.R. 2020-12-17
+R.C.A.4V.Q.188 S.R. 2020-12-17
+R.C.A.4V.Q.239 S.R. 2025-04-25487
+
+--- Page 1280 ---
+SERVICE DE LA PLANIFICATION
+ET DE LA COORDINATION DE
+L'AMÉNAGEMENT DU TERRITOIREDate du plan :
+No du règlement :
+Préparé par :Échelle :R.C.A.4V.Q.4
+S.R.
+No du plan :ANNEXE VIII
+ZONE BOISÉE À CONSERVER
+2024-09-25RCA4VQ4TB01RueduCalvadosRuedesYvelines Rue DorvalRue Lafrance
+Rue de Sherwood
+41083Ha41083Ha
+41083Ha41078Cb
+41078Cb
+41091Ha41080Pb
+41082Hb41081Cb
+41077Ha
+41085Ha41198Ha41066Fb
+1:2 500Zone boisée à conserver1280

@@ -1,0 +1,328 @@
+
+
+--- Page 515 ---
+22,5 m
+15 m
+5 m
+10 m5 m
+10 m22,5 m
+30 m15 m
+40 m
+10 m30 m15 m
+30 m3 m2 m
+2 m
+2 m4 m
+2 m2 m
+2 m10 m
+2 m
+3 m2 m
+2 m
+2 m2 m3 m
+3 m
+2 m2 m2 m
+2 m2 m
+7,5 m2 m
+2 m
+7,5 m2 m
+2 m
+2 m
+3 m2 m2 m
+2 m
+2 m
+3 m2 m
+15 m10 m 15,64 m
+75 m64302Mb
+64102Ha64029Fa
+64015Rb64007Ha
+64119Ha64144Ha
+64130Ha
+64141Ha64209Ha
+64210Cc64204Hc64305Ha
+64168Hb
+64154Ha64028Ha
+64103Mb
+64108Pa64158Ha
+64146Ha64155Ha
+64156Ha
+64124Ha64114Ha
+64152Ha64203Ha64307Rb
+64148Ha64147Hc64009Ra
+64016Ha
+64110Ha64113Ha64013Ha
+64163Mb64164Rb64129Pa64116Ha
+64123Ha
+64133Ha64213Ha64150Ha64008Ha
+64109Ha64030Mb64023Ha64025Ma
+64160Ip64165Rb
+64161Ip64149Hb
+64159Ha
+64216Ha64207Hb64105Hc64106Ha64101Ha
+64167Hb64010Ha64002Ha
+64011Ha
+64024Pb64003Ha
+64131Hb
+64140Ha64132Hb
+64151Ha64136Ha64014Ha64017Ha
+64022Ha
+64134Ha64121Ha
+64135Ha64202Ha64001Fb
+64166Rb64107Ha64019Ha
+64126Ha
+64157Ha64217Ha
+64214Hb64301Ha
+64104Ha64027Ha64006Rb
+64012Ha
+64020Ha64018Ha
+64112Hb
+64162Ip64115Hb
+64206Ha 64211Pb64205Rb64118Mb
+64169Mb
+64127Cc 64153Cc64178Hb64180Mb
+64177Hb64181Mb
+64120Hc64183Mc64184Hc64187Hc
+64186Hb64117Pa64026Hb
+64191Ra64190Hb
+64176Rb
+64142Ha64179Ha
+64182Hc
+64173Ia64172Ib64189Ha
+64185Hc
+64143Mb
+64175Rb64188Ha
+64122Hc
+64145Mb
+64201Cc
+64128Cc
+64137Cc
+64170Ib64171Ia64174Rb
+Autoroute Henri-IVRue de l'HôpitalRue RacineRue du Golf
+Route Sainte-GenevièveRue Louis-IX
+Rue BlainRue Martel
+Rue DurandBoulevard Pie-XI Sud
+Avenue ChauveauRue PincourtRue BoucherBoulevard Saint-Jacques
+Rue Lessard
+Rue Saint-MauriceRue Collin
+Route de l'AéroportRue Fortier
+Avenue de l'AmiralRue LégaréBoulevard Saint-Claude
+Rue SicotteRue Castel
+Rue Wilfrid-CaronRue Monseigneur-CookeRue Albert-Trudel
+Boulevard des Étudiants
+Rue de la HerseRue Bellerose
+Rue AladinRue Giroux
+Rue Verret
+Boulevard Johnny-ParentBoulevard Valcartier
+Avenue Nantel
+Rue JérémieRue Bazire
+Rue de l'AlouetteBoulevard des Cimes
+Rue John-SimonsRue Valvue
+Boulevard CoutureRue Courteline
+Rue des CalèchesAvenue de la VolièreRue du Glorieux
+Boulevard de l'OrmièreRue Bernard
+Rue AdamRoute PenneyRue du Centaure
+Rue MiramontRue des Neiges
+Rue RavelRue ChanteclercRue de Calais
+Avenue Becquet
+Rue de l'AmazoneRue Charles-Garnier
+Rue Beaubien
+Rue Jordi-Bonet
+Rue ArbourRue Monseigneur-DumasRue Paquet
+Rue d'AvignonRue des LauriersRue Loranger
+Rue Jean-MarchandRue Duhamel
+Rue Thibault
+Rue Vanier
+Rue RémyRue CabanaRue de Jouvence
+Avenue BerliozAvenue de Troyes
+Rue de l'AndromèdeRue Lavallée
+Rue du CristalRue du Caire
+Rue du CalicotRue de Kyoto
+Rue de la Crémaillère
+Rue des AbatisRue Louis-HébertAvenue Industrielle
+Rue John-F.-Kennedy
+Rue Arthur-Dion
+Boulevard de l'AuvergneRue des Nobles
+Rue Adrien-Pouliot
+Rue de l'AstrolabeRue Haendel
+Rue AthénaRue Yves-ThériaultAvenue du Patrimoine-MondialRue Parent
+Rue AdagioRue Arm
+and-Viau NordRue de Cabourg
+Rue CircéRue des Orchidées-Blanches
+Rue ApollonRue Albani
+Rue MelançonRue Pontchartrain
+Rue du Candélabre
+Rue de l'ActifRue BellinRue D'Estrées
+Avenue Guérin
+Rue René-ChaloultRue Brousseau
+Rue Jean-De BrébeufRue des Dames-Ursulines
+Rue de Venise Rue Linteau
+Rue de LimogesRue CorbierRue de Jéricho
+Rue de l'AquilonRue de la Faune
+Rue Maurice-Barthe
+Rue RubensRue de ColeraineRue Saint-AmandRue Bethune
+Rue de la Joconde
+Rue de Cap-ChatRue de l'Escarpement
+Rue BeauvilleRue Juneau
+Carré de ProvenceRue Huron
+Rue Gabriel-LalemantRue Paul-KaneRue de la JonquilleRue Julienne
+Rue CélesteRue Morissette
+Rue des Rigoles
+Boulevard GastonguayRue du CormoranRue des Récollets
+Rue AudetRue Boutet
+Rue de l'AbénaquiseRue des Canards
+Rue de Compostelle
+Rue des Canoés
+Rue de l'AmirautéRue Gourdeau
+Rue des Achillées
+Rue DionneRue de la Falaise-Verte
+Rue de la RenomméeRue du Père-ChabanelRue Georges-Cloutier
+Boulevard Bastien
+Rue des CamaradesRue Joviale
+Rue RamesayRue d'ÉvoraRue de Cadix
+Rue FauvetRue Bernadet
+Rue du JaveauBoulevard de la CollineRue Impériale
+Rue Bluteau
+Rue RobinRue du CaméliaRue de Macao
+Rue Louise-CarrierRue des Jardiniers
+Rue MoisanRue Betty-Baldwin
+Rue Desportes
+Rue Aimé-Lantier
+Rue Cimon
+Rue Sainte-BarbeRue du Cachemire
+Rue de l'Am
+breRue de Dakar
+Rue Franck
+Rue MalherbeAvenue AumierRue du CorailRue de la Marianne
+Rue BresseauRue Jordon
+Rue GravelRue Blondeau
+Rue du CerfeuilRue Jacques
+Rue des CéramistesRue Ernest-Renaud
+Rue Siméon-DroletRue des ÉcrivainsRue du Jasmin
+Rue Jacquelin
+Rue AllegroRue Irénée-Frenette
+Rue Le JasonRue des Fous-de-Bassan
+Avenue Claude-Monet
+Rue DostalerRue Albert-Rousseau
+Rue du Petit-BonheurRue Léo-Ayotte
+Rue des SauloisRue Thomas-ChapaisRue de la Java
+Rue Maurice-BellemareRue Marcel-Cantin
+Rue des Pères-Jésuites
+Rue de la QuiétudeRue du Père-Jogues
+Rue Georges-Émile-LapalmeRue l'ÉcuyerRue Pélisson
+Rue des MirabilisRue des OmbrettesRue de CourtraiRue AmyotRue du Château-d'Eau
+Rue De Guise
+Rue des Orties
+Rue Zéphirin-PaquetRue des CornouillersCarré Valois
+Rue Notre-Dame-de-Fatima
+Rue Gédéon-OuimetRue Chef Alphonse-T.-Picard
+Rue Gadbois
+Rue des Cévennes
+Rue Éveline-BosséRue Conrad-BernierRue des Cerfs-VolantsRue de l'Ivoire
+Carré DupratRue des CharmillesRue des AdagesRue Forant
+Rue Henry-DeyglunRue des Bénédictins
+Carré RouaultRue des Vieux-Pins
+Rue du Blanc-Manteau
+Rue Pierre-MercureRue de Moscou
+Boulevard Chauveau OuestRue de StockholmRue CalypsoRue de CalcuttaRue du Jade
+Rue Antoine-Bédard
+Rue LarousseCarré La FrenayeRue Jovette-BernierAvenue de Varsovie
+Rue BricaultRue ConstantinImpasse Huet
+Rue des Frères-Capucins
+Rue Liszt
+Rue Pierre-CorneilleAvenue Jean-BuchartRue du Père-Daniel
+Rue Maurice-De CellesRue Gustave-Gagnon
+Rue du Court-MétrageRue Chef François-Gros-LouisRue Saint-Alphonse
+Rue BoisbuissonAvenue des Affaires
+Rue Gaëtane-De MontreuilRue du Châtelain
+Rue Ringuet
+Rue d'AlmaRue Chef Nicolas-Vincent
+Rue des CarpatesRue Claude-Dablon
+Rue CuvillierRue du Parc-BoivinRue Chef Aimé-RomainRue du Grand-Pré
+Rue Pierre-Laporte
+Rue Adélard-GodboutRue du Parc-DroletRue Simone-HudonRue de l'IllusionRue Paul-BorduasRoute de la Bravoure
+Rue Chef Herménégilde-Vincent
+Im
+passe du CapRue de L'Arlésienne
+Rue du Point-du-JourRue AndanteRue du Frère-Élisée
+Rue des Chanterelles
+Rue Lasallienne
+Rue Roméo-VézinaRue des Grands-Champs
+Rue du Muguet-des-BoisPlace de la Rencontre
+Rue Rivière du Serpent
+Rue du Parc-des-Ursulines
+Rue des CaratsRue Chef Francis-Gros-Louis
+Rue des Pères-Franciscains
+Rue René-Goupil
+Rue De BoishébertRue Chef Michel-SiouiRue Chef Gabriel-Vincent
+Rue du Cabotage
+Rue du CapitolinRue Chef Philippe-Vincent
+Rue *ProjetéeRue de l'ArpègeRue des CitronniersRue du Court-Métrage
+Avenue Chauveau
+Autoroute Henri-IVRue du Caire
+Rue des Charmilles
+Rue Jean-MarchandAvenue ChauveauBoulevard Johnny-ParentRoute de la Bravoure
+Boulevard Johnny-ParentBoulevard Johnny-ParentAvenue Industrielle
+Avenue ChauveauRue *Projetée
+PLAN Nº
+CA6Q64Z01ÉCHELLE
+1:5 000LISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M. R.C.A.6V.Q. 4 2010-01-05
+M.M. R.C.A.6V.Q.13 2010-07-12
+M.M. R.C.A.6V.Q.18 2010-07-12
+EN VIGUEUR LE : 2025-08-26M.M. R.C.A.6V.Q.30 2010-11-12
+M.M. R.C.A.6V.Q.29 2010-12-16
+M.M. R.C.A.6V.Q.50 2011-09-01
+M.M. R.C.A.6V.Q.76 2012-09-10
+M.M. R.C.A.6V.Q.99 2013-01-22
+M.M. R.C.A.6V.Q.138 2014-07-04
+SERVICE DE LA PLANIFICATION
+DE L'AMÉNAGEMENT
+ET DE L'ENVIRONNEMENT
+DIVISION DE LA PLANIFICATION
+STRATÉGIQUE DU TERRITOIRE
+TERRITOIRE 6-4RÈGLEMENT DE L'ARRONDISSEMENT
+DE LA HAUTE-SAINT-CHARLES
+SUR L'URBANISME
+ANNEXE I 
+ZONAGE
+M.M. R.C.A.6V.Q.166 2015-09-09
+M.M. R.C.A.6V.Q.174 2016-02-11LÉGENDE
+Limite de zone
+Butte écran
+Mur anti-bruit
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulier
+M.M. R.C.A.6V.Q.185 2017-05-04
+M.M. R.C.A.6V.Q.226 2018-06-28
+M.B. R.C.A.6V.Q.218 et 230 2018-07-10
+M.M. R.C.A.6V.Q.241 2019-01-15
+M.M. R.C.A.6V.Q.268 2019-12-23
+M.M. R.C.A.6V.Q.270 2020-02-03
+R.C.A.6V.Q.286 S.R. 2020-12-21
+R.C.A.6V.Q.328 S.R. 2023-04-21
+R.C.A.6V.Q.339 S.R. 2023-11-27
+R.V.Q.3356 S.R. 2024-11-22
+R.V.Q.3437 S.R. 2025-08-26515
+
+--- Page 1300 ---
+Agrandissement autorisé d'une habitation d'au plus trois logements - article 878
+Maintien autorisé de l'usage dérogatoire - article 1138.0.16
+AUTRES DISPOSITIONS PARTICULIÈRES
+Normes particulières d'aménagement d'un écran visuel - article 724
+Un café-terrasse peut être implanté sur un balcon ou une terrasse - article 545GESTION DES DROITS ACQUIS
+USAGE DÉROGATOIRE
+CONSTRUCTION DÉROGATOIRESTATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESAxe structurant BTYPE
+Normes d'installation d'une enseigne sur socle - article 798ENSEIGNE
+DISPOSITIONS PARTICULIÈRESType 4 MixteTYPERÈGLEMENT DE L'ARRONDISSEMENT DE LA HAUTE-SAINT-CHARLES  SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+64169Mb R.V.Q. 3374
+L'aménagement d'une aire de stationnement devant une façade principale d'un bâtiment principal est prohibé - article 634
+Un seul accès à une rue est autorisé - article 667.0.1
+Un minimum de 50% du nombre de cases de stationnement aménagées sur un lot doivent être souterraines pour l'usage suivant : un bâtiment du groupe d'usages H1 ou H2 de 75 
+logements et plus - article 587
+Aucun nombre minimal de cases de stationnement n'est prescrit pour un usage du groupe C3 Lieu de rassemblement - article 596.0. 11300

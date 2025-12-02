@@ -1,0 +1,606 @@
+
+
+--- Page 526 ---
+20 m10 m20 m
+10 m
+80 m
+15 m
+10 m
+6 m10 m
+10 m
+15 m10 m10 m
+10 m20 m
+30 m
+20 m
+20 m
+4,5 m16 m
+10 m2 m30 m40 m
+10 m30 m
+30 m
+20 m3 m2 m
+2 m
+2 m
+3 m2 m
+2 m10 m
+2 m5 m
+6 m3 m5 m
+3 m15 m5 m5 m
+3 m2 m
+2 m10 m
+2 m5 m
+3 m5 m
+7,5 m3 m7,5 m
+3 m2 m10 m
+2 m 2 m
+3 m2 m2 m
+6 m
+3 m3 m
+3 m
+3 m3 m
+3 m3 m
+2 m
+2 m
+2 m2 m
+3 m2 m5 m
+2 m
+5 m3 m
+2 m15 m
+3 m5 m
+2 m2 m
+2 m2 m
+7,5 m
+2 m5 m
+2 m2 m
+15 m3 m
+3 m
+7,5 m6 m
+8 m
+3 m2 m5 m
+3 m3 m2 m
+2 m
+7,5 m2 m
+3 m5 m
+5 m8 m2 m7,5 m
+7,5 m
+2 m5 m
+3 m2 m
+2 m
+2 m
+3 m
+2 m3 m2 m
+6 m2 m
+2 m10 m8 m
+5 m
+2 m2 m
+2 m
+10 m
+3 m2 m
+2 m
+2 m
+3 m2 m
+3 m7,5 m5 m3 m
+10 m3 m2 m
+5 m
+27,9 m31,9 m75 m
+35 m
+20 m75 m22207Ma
+22429Hb22415Hc22002Cc
+22101Ha
+22514Pa22040Mb
+22431Hb22126Ip
+22509Ip22417Mb
+22520Ip22419Ha
+22117Cc22219Ma
+22432Mc22220Mb
+22518Pa22522Cb22329Hb
+22121Ib22325Rb
+22127Ip22435Ip
+22118Ip22413Ha
+22506Ip22232Ha22320Mb22302Ha
+22418Ha22321Hc22401Mc
+22238M
+b
+22609Ip22001Ip
+22305Ha
+22123Rb22211Ha
+22603Pa22106Cb22214Hb
+22323Mb22020Ip
+22521Cb
+22515Ip22119Ip22226Cb22307Ha
+22314Ha22237Hb22037Rb
+22308Ha
+22601Rb22310Ha22006Ma
+22614Ip22111Pa
+22229Ha
+22608Ip22225Ha22004Mb
+22317Hc
+22324Ha
+22112Cb
+22628Cc
+22620Cb22036Ha
+22318Mb
+22427Mb22009Ha
+22630Cb22205Ha22236Ha
+22627Ip22116Ip
+22332Hc22216Hb
+22507Ip22223Cb
+22611Cb
+22617Ip
+22624Cc22607Cb22425Ha22201Pa
+22406Hc
+22322Mb
+22618Ip22010Ra
+22410Ha
+22519Ip22012Rb
+22026Ip
+22428Mb22239Ha22031Ha
+22416Hb22014Ip
+22124Rb22420Hb22501Ia22023Hc
+22109Cb
+22120Ib22326Hb22306Pa
+22122Cc22242Mb
+22503Cb
+22631Cb22024Hc22005Ip
+22240Hb
+22217Ha22209Ha
+22504Cb22213Mb22402Cd
+22626Ip22129Cb
+22316Ra22028Cc
+22513Ip22104Ha
+22218Mb22204Ha
+22313Mb22301Rb
+22328Mb22333Mb22035Ha
+22221Ha22303Ha
+22334Ha
+22430Ha22312Ma22007Ha22011Rb
+22125Ip
+22228Ha22426Hb 22422Ha
+22227Ha22414Hb
+22434Cc22309Hb
+22331Mb
+22511Ip22629Cb22330Mc22212Mb
+22315Rb
+22602Rb22412Ha
+22230Pa22405Rb22025Rb
+22224Ma
+22502Ia
+22233Ha22039Hc
+22421Hb
+22615Ip 22516Ip22505Ip22433Ha22032Hc
+22606Pa22102Pa
+22604Cb22202Rb
+22523Rb22108Cb
+22610Hb22022Cb
+22103Ip
+22231Ha22034Cd
+22424Ha22409Hc22015Hb
+22033Pa
+22235Rb
+22234Ha
+22510Ip22404Hc
+22500Ip22107Ib22105Ha22208Ha
+22327Hb
+22613Ip22512Ha
+22517Ip22241Ha
+22423Mb22013Ip22003Ha
+22114Cb22042Mb
+22210Mb22206Mb22203Ha
+22605Cb22018Ha
+22215Ha22029Mb
+22304Mb
+22319Ia
+22113Ha22030Hb
+22311Ha
+22128Cb
+22616Cb22008Ip
+22222Ha22411Cc22017Hc
+22110Cb22019Ip
+22041Mb
+22043Mb
+22508CbAutoroute Henri-IV
+Avenue WattRue Einstein Autoroute CharestAutoroute Robert-BourassaAutoroute Félix-Leclerc
+Boulevard du Versant-NordRue Bouvier
+Rue du M
+araisRue MicheletAvenue Godin
+Rue Careau
+Autoroute DuplessisBoulevard de l'Orm
+ière
+Avenue DaltonRue Rideau
+Rue Frank-CarrelRue LabergeAvenue Chauveau
+Rue Cyrille-DuquetBoulevard Père-LelièvreBoulevard Saint-Jacques
+Rue Lemieux
+Rue LavoisierRue LétourneauBoulevard Pierre-Bertrand
+Avenue BanvilleBoulevard Robert-Bourassa
+Rue BorneRue des Rocailles
+Rue FortinBoulevard La Morille
+Rue Léon-HarmelBoulevard LebourgneufRue Monfet
+Avenue Galilée
+Rue ChabotRue DubéRue Jean-Perrin
+Chemin Sainte-FoyAvenue Blaise-PascalRue RobitailleRue Le M
+esnil
+Rue Armand-Viau
+Avenue Saint-Jean-BaptisteRue Morand
+Rue Beaucage
+Avenue Gauvin
+Avenue KeplerRue De Celles
+Avenue Verlaine
+Rue Nolin
+Avenue ChapdelaineRue Claisse
+Rue Darveau
+Rue Lachance
+Rue SempleRue Jérémie
+Rue Jean-Marchand
+Avenue du Costebelle
+Rue M
+étivier
+Rue CavelierRue des Brum
+es
+Boulevard du Parc-TechnologiqueBoulevard de M
+onaco
+Avenue Newton
+Rue ClérinAvenue Giguère
+Avenue Saint-Sacrem
+entAvenue de FatimaBoulevard NeuvialleRue Armand-Viau Nord
+Rue RouthierRue ProvincialeBoulevard Central
+Rue JacquardAvenue Claudel
+Avenue de la PaixRue des Ardennes
+Route de La SuèteRue Pépin
+Avenue D'AmoursRue Saint-Vallier OuestBoulevard Louis-XIV
+Rue RicherRue Larche
+Rue Franquet
+Rue BiencourtRue GalvaniAvenue BernatchezRue des Tournelles
+Rue De JoinvilleAvenue DandrieuRue de la Broussaille
+Boulevard Charest OuestBoulevard Wilfrid-HamelRue des Géranium
+s
+Avenue Montbray
+Avenue du BrabantRue John-Molson
+Avenue DalquierAvenue MoreauBoulevard Fontenelle
+Avenue Laurin
+Avenue Anne-HébertRue de l'Amazone
+Rue HalléAvenue Saint-Léandre
+Boulevard de l'EntenteRue des ArtisansRue A.-R.-DécaryRue John-Simons
+Rue DesrochersBoulevard Bastien
+Rue des TalusRue de la Rive-Boisée Nord
+Rue Taillon
+Rue Adrien-DroletRue du BlizzardRue Thérèse-Casgrain
+Rue GarnierRue BlouinRue de la Griotte
+Avenue de la Roselière
+Rue de Port-Royal
+Avenue BranlyBoulevard des GaleriesRue Latreille
+Rue Dion
+Rue Saint-JudeRue Beaubois
+Rue Paquin
+Avenue de NorvègeRue Le Page
+Boulevard M
+assonRue Dubuc
+Rue Côté
+Rue Jean-DurandRue LahayeAvenue M
+arivaux
+Rue de GênesRue Jean
+Avenue Nérée-TremblayRue Virginia-Woolf
+Rue FoucaultRue LaverdièreRue du Joybert
+Avenue M
+onkRue du Mont-Joli
+Rue PérignyAvenue PruneauRue Antonin-M
+arquis
+Avenue MarconiRue Zéphirin-Paquet
+Rue ClairmontRue de BarceloneRue de l'Andromède
+Rue MigneronRue de Burgos
+Rue RivardCarré Duclaux
+Rue HoudeRue NadeauRue du Griffon
+Avenue Chatrian
+Rue Saint-Vincent-FerrierAvenue Terriot
+Avenue BakerRue Toupin
+Avenue M
+yrandRue Chevalier
+Rue FaradayRue de CaenRue de ColignyRue de Buffalo
+Avenue JoffreRue Claire-Bonenfant
+Boulevard de l'Auvergne
+Rue De SabrevoisAvenue du Chanoine-ScottRue de la Comtoise
+Rue LemaireRue d'ArsRue Adrien-Pouliot
+Rue Fernand-Dufour
+Rue De SubercaseRue Étienne-DubreuilRue de l'Astrolabe
+Rue LescarbotRue de Bogota
+Rue du Parcours
+Rue BiardAvenue Borduas
+Rue Roland-Bédard
+Rue RageotRue Ém
+ile-Fleury
+Rue De BrugnonRue Rémy
+Avenue Ducharm
+eRue des Entrepreneurs
+Rue BrailleRue du ChinookRue de la Belle-Arrivée
+Rue BardouRue Fénelon
+Avenue Santerre
+Rue Lenoir
+Rue Curie
+Rue MorseAvenue Fillon
+Avenue Raym
+ond-BlouinAvenue O'NeilRue Adéla-Lessard
+Rue MassueRue du Bordelais
+Rue des IngénieursRue Léo-Lessard
+Rue TrudeauRue Pierre-Corneille
+Avenue BéchardRue des CanetonsRue Melançon
+Rue de VersaillesRue Croisset
+Rue des LobéliesRue LacosteRue des Aïeux
+Rue PapinAvenue BalzacRue du Massif
+Rue de Port-LouisRue de l'Actif
+Rue Pothier
+Avenue du Sémaphore
+Rue CharronRue PrévertRue de la GirandoleRue Liret
+Avenue Erlanger
+Rue BlaisRue BoilyRue de Pertuis
+Rue Lola
+Rue des TanneursBoulevard Chauveau Ouest
+Rue LapradeRue de la BeauceAvenue ProulxRue Henri-Landry
+Avenue DieselRue Archam
+bault
+Rue De MaupassantRue Saint-Prime
+Rue Cardinal
+Rue du Grand-TroncRue Victor-Delamarre
+Rue Philippe-ParadisRue de la HalteBoulevard des Gradins
+Avenue Cham
+pagnat
+Rue VilleroiRue Blériot
+Rue BrissonRue FaribaultRue de Bergen
+Rue De MerlacRue de Bilbao
+Rue Lionel
+Rue PagnolRue des BalsaminesRue Michel-Fragasso
+Rue du FinistèreRue des SapinsRue FlaubertRue du GabaritRue de Bastogne
+Rue Nicolas-PinelRue Gertrude-RoyRue des BourrachesRue Larousse
+Rue BaroletAvenue D'EntremontRue des Arbrisseaux
+Rue De LongpréRue de l'Aquilon
+Rue Alexandre
+Avenue Ém
+ile-CôtéRue De Goncourt
+Avenue Barrès
+Rue DuguéCarré PijartAvenue Carrel
+Avenue Jules-VerneRue Giraudoux
+Avenue BaillairgéRue Sainte-ÉlisabethRue Félicité-AngersRue des Gaulis
+Avenue d'Am
+brière
+Rue de l'ArméeRue Boyer
+Rue La M
+arche
+Rue Saint-Hubert
+Rue de la Bordée
+Rue DesandrouinsRue SocialeAvenue LespéranceRue Hugues-Randin
+Rue Pierre-ArdouinRue Audet
+Rue ColmontRue de la Boudinière
+Rue De La FresnièreRue de l'Abénaquise
+Avenue de CherbourgRue du GermoirRue Guillaume-RenaudRue du Voisinage
+Rue François-Villon
+Rue HocquartAvenue De LestresRue de l'Amirauté
+Rue Panet
+Rue de BeaurepaireRue Daniel-JohnsonAvenue BrassardRue DuquesneRue Dionne
+Rue La FraîcheurRue Marie-De Lamarre
+Avenue GaliboisRue de la Renommée
+Rue des Groseilles
+Rue Vincent-MasseyRue Sévigny
+Rue de l'AviationRue de la M
+arine
+Rue BeaugéRue de l'Islet
+Rue JacksonRue des Branches
+Rue de la Verdure
+Avenue ChevremontRue des Bois-BrûlésRue du Calcaire
+Rue des ImpatientesRue de la Montée
+Rue LarocheRue LeberRue VoltaRue Émile-Fontaine
+Boulevard de la ChaudièreRue du Danube
+Avenue du Colonel-JonesRue PoincaréRue des Brise-Vent
+Carré RochonRue Bizet
+Rue de Maskinongé
+Rue Louis-JettéRue Cécile-Vallerand
+Rue des RosiersRue GamelinRue Sainte-Barbe
+Rue BoivinAvenue Gobert
+Rue de l'AlsaceRue du BrasierRue Malherbe
+Rue de StrasbourgRue Bérubé
+Rue Claude-Picher Rue HertzRue Arsenault
+Rue de la Gerboise
+Rue Laurent
+Rue du Père-DruillettesRue de l'Aster
+Rue Jacques-BerthiaumeRue BeaucourtRue SamsonRue de la Pruchière Rue de Boston
+Rue du Curé-BéginRue Marie-Anne-Gaudreau
+Rue de BeauchastelRue des Bâtisseurs
+Carré du Brûlé
+Rue des Ronces
+Avenue du ChâteauRue Graham
+-BellRue de la Gandolière
+Rue Alfred-NobelRue Valjean
+Avenue NoreauRue Laurent-LarocheRue PowellRue La Durantaye
+Rue de Brasilia
+Rue du Mousquet
+Rue Riverin
+Avenue M
+auriacRue Le Jason
+Rue du BinômeRue DostalerRue du Chevalet
+Avenue Ém
+ile-Daigle
+Rue des MélèzesRue BellefeuilleRue des CassisRue La Franchise
+Rue de Rosewood
+Rue François-ArteauAvenue Jacques-Ibert
+Rue de RosemontRue des Saulois
+Rue Aurèle-CloutierAvenue GrandboisRue Beaufils
+Rue Jacques-Crépeault
+Avenue Ernest-GagnonCarré du Boisé
+Rue Jean-ArnaudAvenue des Replats
+Rue de Belm
+ontRue du Neptune
+Rue du Chanoine-GroulxRue des Clém
+atitesRue AllardRue Jean-Bernard
+Rue des Prim
+evèresRue du Guet
+Rue M
+orinRue Cinq-MarsRue Boissinot
+Rue DulhutRue des Mûriers
+Boulevard Pie-XIIRue de la BrindilleRue Hélène-Pedneault
+Carré des Alluvions
+Rue RattéRue Victor-HugoRue des Bienfaits
+Avenue Ém
+ile-HenriotRue Coursol
+Rue Le VerrierRue de DompierreRue Racicot
+Rue de la Place-Philippe
+Rue Robert-Latouche
+Rue MauriceCarré Richard
+Rue AuvrayRue des Barillets
+Avenue Nicolas-Fouquet
+Rue ValinRue du Beau-CheminRue du Quartz
+Rue Maurice-Bois
+Rue du Père-DollierRue de RougemontRue LafleurRue Rubens
+Rue LambervilleRue de Florence
+Rue MacKayRue Laure-ConanRue Colette-Sam
+son
+Rue des Alpes
+Rue LatulippeRue de l'ÉtapeRue des Appalaches
+Rue BoileauRue Gide
+Rue de l'AubierAvenue Descarreaux
+Rue de la RistigoucheRue Henry-Deyglun
+Rue de Braga
+Carré des Argiles
+Rue de Val-OmbreuseRue des Basses-Terres
+Avenue Flora-TristanRue Marcel
+Rue MarceauRue M
+arie-De Bure
+Rue de NantesAvenue des Gerbes
+Rue Maria-GorettiRue du Larm
+ier
+Rue De Villem
+ure
+Rue des Vignes
+Rue Monseigneur-LaflècheRue des AmarantesRue Louis-Hémon
+Avenue Monseigneur-GarantRue Saint-Louis-de-France
+Rue de Terrebonne
+Avenue des JésuitesRue de la Fonderie
+Rue de l'Ancienne-CartoucherieRue Flamand
+Rue Eugène-ChinicRue De La JonquièreRue Jean-Luc-GirouxCarré Antoine-Baumé
+Rue de la Bohême
+Rue de VendômeRue Abril
+Carré Cameron
+Rue Père-ArnaudRue Paul-Gury
+Avenue LaroseRue de la MinerveRue du Grand-Pic
+Carré d'AnjouRue Alphonse-LacoursièreRue de la Rive-Boisée SudRue Beaurevoir
+Rue CrevierRue du Haut-BordRue Louis-LumièreRue de l'Aigle-d'OrAvenue Alphonse-DaudetRue d'Alésia
+Avenue du Pont-Scott
+Rue des Mélèzes NordRue de la RenouéeRue Quesnel
+Rue du SaguenayRue Francine-McKenzie
+Rue Auguste-ComteRue du BrouillardRue des Gadelles
+Rue PrivatRue Louis-FluetRue ForestierRue Du Bellay
+Rue des Soeurs-du-Bon-PasteurCarré de BayonneRue LaterrièreRue Adine-FafardRue Rembrandt
+Carré Le Barbot
+Carré de Bon-AccueilRue de l'ÂtreRue De MussetRue De Foe
+Carré De L'OrmeauAvenue Achille-ChereauAvenue ColetteAvenue Charles-Borrom
+ée
+Rue Alice-TrépanierRue Pierre-Beaudin
+Rue des Tenailles
+Rue MontjoieRue du Courtil
+Rue De BeauharnoisRue des SaponairesRue Gérard-Lajoie
+Rue de la MinéralogieRue Henri-Letondal
+Rue D'Avaugour
+Rue De Vassan
+Rue Jean-GiletRue d'AurignyRue Le Rouge
+Autoroute Henri-IV
+Avenue PruneauBoulevard CentralAvenue M
+arivauxBoulevard des Gradins
+Rue Beaucage
+Avenue du Pont-Scott
+Avenue BranlyAutoroute Henri-IV
+Rue de StrasbourgAutoroute CharestBoulevard Wilfrid-Hamel
+Autoroute Félix-LeclercBoulevard Masson
+Rue Beaucage
+Autoroute DuplessisBoulevard Pierre-BertrandAutoroute Félix-Leclerc
+Boulevard Père-Lelièvre
+Autoroute Félix-LeclercBoulevard Père-Lelièvre
+Avenue BranlyAvenue Chauveau
+Avenue BernatchezAvenue ChauveauBoulevard Robert-Bourassa
+Avenue Saint-Jean-BaptisteRue Armand-Viau Nord
+Autoroute Félix-Leclerc
+Boulevard Wilfrid-HamelAvenue SanterreBoulevard Wilfrid-Hamel
+Chemin Sainte-FoyAvenue PruneauAvenue Chauveau
+LISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M.
+PLAN Nº
+CA2Q22Z01ÉCHELLE
+1:8 000R.C.A.2V.Q. 4
+EN VIGUEUR LE :2010-01-05
+2025-06-30M.M. R.C.A.2V.Q.13 2010-07-13
+M.M. R.C.A.2V.Q.23 2011-03-10
+M.M. R.C.A.2V.Q.46 2012-02-14
+M.M. R.C.A.2V.Q.52 2012-05-08
+M.M. R.C.A.2V.Q.55 2012-07-13
+R.C.A.2V.Q.65 J.D. 2012-10-05
+R.C.A.2V.Q.70 M.M. 2012-12-10
+R.C.A.2V.Q.76 M.M. 2013-02-08
+R.C.A.2V.Q.90 M.M. 2013-09-04
+R.C.A.2V.Q.91 M.M. 2013-10-07
+R.C.A.2V.Q.106 M.M. 2014-05-02
+R.C.A.2V.Q.110 M.M. 2014-07-02
+SERVICE DE LA PLANIFICATION
+DE L'AMÉNAGEMENT
+ET DE L'ENVIRONNEMENT
+DIVISION DE LA PLANIFICATION
+STRATÉGIQUE DU TERRITOIRE
+TERRITOIRE 2-2RÈGLEMENT DE L'ARRONDISSEMENT
+DES RIVIÈRES SUR L'URBANISME
+ANNEXE I 
+ZONAGE
+R.C.A.2V.Q.122 M.M. 2015-03-26
+R.C.A.2V.Q.128 et 130 M.M. 2015-05-29
+R.C.A.2V.Q.143 M.M. 2015-07-06
+R.C.A.2V.Q.139 M.M. 2015-10-29
+R.C.A.2V.Q.165 M.M. 2016-05-02
+R.C.A.2V.Q.169 M.M. 2016-07-13
+R.C.A.2V.Q.183 M.M. 2017-03-08
+R.C.A.2V.Q.192 M.M. 2017-05-04
+R.C.A.2V.Q.193 M.M. 2017-05-04LÉGENDE
+Limite de zone
+Butte écran
+Mur anti-bruit
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulier
+R.C.A.2V.Q.204 et 206 M.B. 2017-07-05
+R.C.A.2V.Q.209 M.B. 2017-07-13
+R.C.A.2V.Q.218 M.B. 2018-03-06
+R.C.A.2V.Q.223 M.B. 2018-07-05
+R.C.A.2V.Q.242 M.M. 2019-04-05
+2019-07-08 F.B. R.C.A.2V.Q.248
+2019-11-29 F.B. R.C.A.2V.Q.256
+2020-10-21 M.M. R.C.A.2V.Q.282
+R.C.A.2V.Q.277
+R.C.A.2V.Q.280M.M.
+S.R.2020-11-04
+2020-11-04
+R.C.A.2V.Q.289 S.R. 2020-12-16
+R.C.A.2V.Q.281 S.R. 2021-03-01
+R.C.A.2V.Q.301 S.R. 2021-07-16
+R.C.A.2V.Q.316 M.B. 2021-10-12
+R.C.A.2V.Q.311 et 312 M.B. 2022-03-01
+R.C.A.2V.Q.320 M.B. 2022-05-03
+R.C.A.2V.Q.342 et 345 S.R. 2023-07-11
+R.C.A.2V.Q.355 S.R. 2023-09-29
+R.C.A.2V.Q.362 S.R. 2023-12-20
+R.C.A.2V.Q.348 S.R. 2024-01-26
+R.C.A.2V.Q.363 S.R. 2024-04-10
+R.C.A.2V.Q.366 S.R. 2024-04-10
+R.C.A.2V.Q.370 S.R. 2024-06-03
+R.V.Q.3342 S.R. 2024-11-01
+R.V.Q.3360 S.R. 2025-02-21R.C.A.2V.Q.381 S.R. 2024-11-01
+R.C.A.2V.Q.387 S.R. 2025-05-05
+R.C.A.2V.Q.401 S.R. 2025-06-30526
+
+--- Page 1024 ---
+Remplacement autorisé d'un usage dérogatoire - article 856
+Réparation ou reconstruction autorisée malgré l'implantation dérogatoire - article 1138.0.15
+AUTRES DISPOSITIONS PARTICULIÈRES
+Substitut à un écran visuel - article 723GESTION DES DROITS ACQUIS
+USAGE DÉROGATOIRE
+CONSTRUCTION DÉROGATOIRE
+ENSEIGNE
+Type 6 CommercialTYPERÈGLEMENT DE L'ARRONDISSEMENT DES RIVIÈRES SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+22503Cb
+Agrandissement autorisé d'un bâtiment qui ne respecte pas la distance maximale prescrite entre la marge avant et une façade d'un bâtiment principal - article 900.0.2 1024

@@ -1,0 +1,450 @@
+
+
+--- Page 514 ---
+10 m15 m10 m
+22,5 m
+15 m
+5 m10 m
+5 m5 m
+5 m
+15 m22,5 m20 m15 m10 m10 m
+2 m4 m
+2 m2 m2 m
+3 m
+2 m10 m
+2 m
+2 m3 m2 m
+3 m
+3 m
+2 m2 m2 m2 m
+2 m
+2 m2 m
+2 m
+2 m2 m2 m
+2 m5 m63101Fb
+63201Fb63107Fa
+63374Hc
+63358Hb63321Hb
+63349Ha
+63402Pa
+63458Ha63469Ha63464Ha63465Ha63481Ha63467Ha63406Ha63355Ha
+63414Ha
+63430Hb
+63440Ha63442Ha63455Hc63345Ra63254Ha
+63539Hc63536Ha63023Ab
+63122Rb63025Fa
+63306Ha
+63308Ha63116Fb63117Fa
+63204Ha63105Ab
+63314Ha
+63322Ma63313Ha63325Ha63222Ha63223Ha63224Rb
+63263Pa
+63239Ha63216Ha63121Rb
+63463Ha
+63470Ha63421Ha
+63466Ha63356Mb63546Ha
+63533Ma63545Ha
+63527Ha63524Ma63028Fb63026Fa
+63030Fb
+63302Ha63259Ha63266Rb63208Ha
+63486Ha63326Ha
+63490Hc63351Hc
+63420Ma63413Mb63233Ha
+63327Pb63238Ha63243Ha
+63328Ha63244Ha
+63246Ha
+63344Ha63501Rb
+63484Ha63366Mb
+63441Ha
+63488Hb
+63454Ha63245Ra63247Ha63249Ha63250Ia
+63514Ha63516Ha
+63537Rb63504Fb
+63511Ma63544Cb
+63512Mb
+63529Ha
+63530Ha
+63304Ha
+63309Ha63207Ra63202Ha63203Ma63108Fb
+63489Hc63403Hc63352Hb63342Pb
+63405Hc63354Mb
+63487Ha63375Hb63225Ha
+63258Hb
+63461Ha63372Ma
+63422Ha
+63423Ha63477Ha
+63433Ha
+63472Rb63253Ra
+63538Ra63528Ha63505Ha
+63509Ha63510Cb
+63535Mb63027Ab63031Fa
+63104Ab
+63301Ha63219Ha63261Ha
+63419Ha
+63436Ha63437Ha
+63447Ha
+63452Ha63323Ha
+63347Ha63324Ha
+63336Ha
+63371Ha
+63360Ha63373Ha
+63370Ma63339Ha63315Hc63237Ha63260Ha63227Rb
+63240Ha
+63330Hc63217Fa63206Rb
+63448Ra63480Ha
+63462Ha63453Ha63412Ha
+63431Ha63540Ha63264Ha63248Ha63506Ha63502Fb
+63542Ha63024Fb
+63111Fa63125Fa63102Ab
+63213Ha63215Ha63255Ha63209Ha
+63401Cc63427Ha63316Pb
+63335Rb
+63362Ma63338Ha
+63363Ha
+63404Ha63341Ha63236Ha
+63320Ha63262Rb
+63256Ha63234Ha63228Up
+63459Ha63483Ha63407Pb
+63410Ha
+63429Hc63508Ha
+63346Ha63513Ha
+63518Ha63550Hb63507Cb
+63517Ha63532Fa
+63522Hc
+63531Ha63123Fa63115Pa63103Fa63029Fb
+63303Ha
+63307Ha
+63311Ha
+63310Ha63376Ha63112Fa63113Fa63118Fa
+63205Ha63119Rb
+63426Ha63361Ha63337Ha
+63350Ha63318Hb
+63474Hc
+63491Hc63340Ha
+63364Mb63220Ha
+63230Ha63226Ha
+63232Pa
+63257Ha63242Ra
+63329Cc
+63343Mb63210Rb
+63456Hc
+63460Ha63482Ha63365Mb63367Ha
+63438Ha63473Ha63475Ha63417Ha
+63451Ha63432Ha
+63443Pb
+63468Ha63331Ra63251Ha63519Ha63521Hb
+63523Hc63547Ha
+63541Ha63120Fa
+63214Ha
+63221Pa
+63305Ha63106Fb63109Fb
+63425Ha
+63445Ha
+63446Ha63333Ha63334Hc63312Pa
+63348Hc63353Pb63416Mb63231Ha
+63317Ha63235Ra63265Ha63229Ha63212Rb63110Fb
+63503Fa
+63485Ha63449Ha63428Ha63409Hb63368Mb
+63408Ha
+63450Pa63439Ha63476Ha
+63424Pb
+63434Ha63444Rb63332Ha
+63357Mb
+63415Rb63515Ha
+63526Hb63520Ha
+63534Mb63525Ra
+63548Mb63549Ma
+63543Mc63124Fa
+Rue de l'HôpitalBoulevard de la Colline
+Autoroute Henri-IVRue du Golf
+Rue RacineBoulevard Valcartier
+Rue Louis-IXRue Martel
+Rue DurandBoulevard Pie-XI Sud
+Rue Collin
+Rue BoucherRue Valvue
+Avenue de l'AmiralAvenue Industrielle
+Rue Lessard
+Boulevard Saint-JacquesRue FortierRue du Chef Max Gros-Louis
+Rue LégaréBoulevard Saint-ClaudeRue de la Rivière-Nelson
+Rue SicotteRue Castel
+Boulevard de l'OrmièreRue de l'Alliance
+Rue Wilfrid-CaronRue Monseigneur-CookeRue Albert-Trudel
+Boulevard des Étudiants
+Rue Bellerose
+Rue Saint-MauriceRue de Calais
+Rue PincourtRue Irving
+Rue GirouxRue du Petit-Vallon
+Rue Verret
+Boulevard Johnny-Parent
+Route Sainte-GenevièveRue Georges-CloutierRue de la FauneAvenue Lapierre
+Rue de la HerseRue Bazire
+Avenue NantelBoulevard des CimesRue Vézina
+Rue AladinRue Lamartine
+Route de la BravoureRue de la Garde
+Rue Courteline
+Rue des CalèchesAvenue de la VolièreRue du GlorieuxRue Maurice-Barthe
+Rue Bernard
+Rue AdamRoute PenneyAvenue des AffairesRue de l'Ours
+Rue du CentaureRue du Chef Stanislas-Koska
+Rue des Neiges
+Rue RavelRue Chanteclerc
+Avenue BecquetRue de Rouen
+Rue Charles-Garnier
+Rue Beaubien
+Rue Jordi-Bonet
+Rue Monseigneur-DumasRue Paquet
+Rue d'AvignonRue des LauriersRue LorangerRue du Gabare
+Rue DuhamelRue du Cuir
+Rue ThibaultRue Fréchette
+Rue VanierRue CabanaRue de ColeraineRue de Jouvence
+Avenue BerliozRue du Chef Claude-Sioui
+Avenue de TroyesRue du Chef Maurice-SébastienRue Longchamps
+Rue Lavallée
+Rue du CristalRue du Grand-Pré
+Rue Frédéric-Légaré
+Rue du Caire
+Rue du CalicotRue Martineau
+Rue de la CrémaillèreRue du Roitelet
+Rue des AbatisRue Louis-Hébert
+Rue des CharmillesRue John-F.-KennedyRue du Chef Thomas-Martin
+Rue du LidoRue des Caryers
+Rue de Calcutta
+Rue de l'AlouetteRue des Nobles
+Rue de KyotoRue Ivanhoë
+Rue AdagioRue HaendelRue Yves-ThériaultRue des Pins-Gris
+Boulevard CoutureRue Parent
+Rue de Cabourg
+Rue CircéRue des Orchidées-Blanches
+Rue Albani
+Rue ArbourRue Claude-Geoffrion
+Rue du Jasmin
+Rue de l'Éclair
+Avenue du Patrimoine-MondialRue de la Jonquille
+Rue Pontchartrain
+Rue du CandélabreRue des AndastesRue de l'Érablière
+Avenue Rigaud
+Rue de CourtraiRue des Jardiniers
+Rue BellinRue du JardinRue de la Prise-d'EauRue René-Auclair
+Rue D'Estrées
+Avenue GuérinRue Brousseau
+Rue des CamaradesRue Jean-De BrébeufRue des Trois-Soeurs
+Rue Rameau
+Rue des Dames-Ursulines
+Rue ConstantinChemin Saint-BarthélemyRue de LimaRue des Merisiers
+Rue Leblond
+Rue Linteau
+Rue de LimogesRue CorbierRue de la Coupe
+Rue ChagallRue de Jéricho
+Rue de VeniseRue des Vieux-Pins
+Rue des Contrevents
+Rue des Canards
+Rue ImpérialeRue de l'Érable
+Rue des Ibis
+Rue de la Joconde
+Rue de Cap-ChatRue de l'EscarpementRue du Chef Pierre-Atironta
+Rue BeauvilleRue Juneau
+Rue HuronRue Julienne
+Rue Gabriel-LalemantRue Paul-Kane
+Rue CélesteRue Morissette
+Rue de CalgaryRue Thomas-Duchaine
+Rue des Rigoles
+Boulevard GastonguayRue du CormoranRue des Trembles
+Rue des RécolletsRue des Écureuils
+Avenue de la Montagne Est
+Rue BoutetRue de la Courge
+Rue des CanoésRue GourdeauRue des Aulnaies
+Rue de ColomboRue des Myrtilles
+Rue de la Falaise-VerteRue du Père-ChabanelRue Bethune
+Rue JovialeRue Léopold
+Rue du Loup
+Rue d'ÉvoraRue Paix-et-Am
+itié
+Rue de CadixRue du Javeau
+Rue BluteauRue de l'Albatros
+Rue du CaméliaRue de Macao
+Rue de CompostelleRue Louise-CarrierRue du Château-d'Eau
+Rue MoisanRue WattréRue des Amélanchiers
+Rue Renfrew
+Rue Betty-BaldwinRue PageauRue des Léonides
+Rue Desportes
+Rue Aimé-LantierRue Françoise-Giffard
+Rue CimonRue du Maïs
+Rue du Petit-BoisRue Roland-Fiset
+Rue du CachemireRue Jeanne-Laliberté
+Rue de la FêveRue du Grand-Chef-Thonnakona Rue Roland-Saint-Laurent
+Rue de l'Am
+breRue FranckBoulevard Bastien
+Rue des Cariatides
+Avenue AumierRue Rochefort
+Rue du CorailRue du Chef Wellie Picard
+Rue de la MarianneRue du Fanion
+Rue Pierre-Curie
+Rue Bresseau
+Rue BlainRue Jordon
+Rue GravelRue BlondeauRue de l'InterludeRue du Javelot
+Rue du CerfeuilRue JacquesRue de l'Ivoire
+Rue des Céramistes
+Rue MiramontRue des ÉcrivainsRue du Campagnol
+Rue Jacquelin
+Rue AllegroRue Irénée-FrenetteRue Léger-Robitaille
+Rue Paul-Borduas
+Rue des Fous-de-Bassan
+Avenue Claude-MonetRue du Chef Jocelyne Gros-Louis
+Rue des AchilléesRue Albert-RousseauRue des Eaux-Fraîches
+Rue du Petit-BonheurRue Léo-Ayotte
+Rue Thomas-ChapaisRue de la ChartreuseRue de la Java
+Rue des Pères-Jésuites
+Rue de la QuiétudeRue du Père-JoguesRue du Cèdre
+Rue l'ÉcuyerRue PélissonRue Saint-Maxime
+Rue de l'IllusionRue de l'Orme
+Rue des OmbrettesRue Éloi-Garneau
+Rue Irénée
+Rue AmyotRue du Chevreuil
+Rue AthénaRue De GuiseBoulevard Pie-XI Nord
+Rue des OrtiesRue des CornouillersRue des Loutres
+Carré Valois
+Rue Notre-Dame-de-FatimaRue Saint-Marcel
+Rue Gédéon-OuimetRue GadboisRue Réaumur
+Rue Conrad-BernierRue des Cerfs-VolantsRue Projetée
+Rue Brault
+Rue des CitharesRue du Nord
+Carré DupratRue des Bois-Francs
+Rue du Chef Jean-Picard
+Rue des AdagesRue de l'Aquarelle
+Rue ForantRue Cyprien-TanguayRue de l'Égalité
+Rue Bériault
+Carré de ProvenceRue Louis-PasteurRue de Bavière
+Rue du Blanc-ManteauImpasse Marie-Guyart
+Rue Pierre-MercureRue de la Dignité
+Rue de Moscou
+Rue de Stockholm
+Rue Raymond-DaveluyRue CalypsoRue Alfred-Cloutier
+Rue LandreauRue de l'Unité
+Rue du JadeRue du Pré-CourtRue de la Liberté
+Rue Antoine-BédardRue d'Irlande
+Carré La FrenayeRue du CranRue des Éperviers
+Rue de la Solidarité
+Rue BricaultRue de DakarRue des Frères-CapucinsRue James-Huston
+Rue LisztAvenue Jean-BuchartRue Gustave-Gagnon
+Rue du Court-MétrageRue Blaise
+Rue TraversièreRue de l'Etna
+Rue BoisbuissonRue des Épinettes-Noires
+Rue des CévennesRue du Châtelain
+Rue Ringuet
+Rue d'AlmaAvenue de VarsovieRue des CarpatesRue de la Montagnette
+Rue Claude-Dablon
+Rue CuvillierPlace Chef Michel LaveauRue Hunter
+Rue du Parc-BoivinImpasse du Malard
+Rue Pierre-LaporteRue Simone-HudonRue Marie-Rose-GauthierRue de la TortueRue des Émilois
+Rue des IncasRue Faber
+Rue de L'ArlésienneRue Ernest-Verret
+Rue AndanteRue du Chef Aimé-RomainRue des Aronias
+Rue des Chanterelles
+Impasse de l'ArceauRue du Chef Herménégilde-VincentRue des Martes
+Rue des Aigrettes
+Rue du Muguet-des-BoisPlace de la Rencontre
+Rue du Coureur-des-BoisPlace de la GracieuseRue des CaratsRue de la Camaraderie
+Rue des Pères-Franciscains
+Rue René-GoupilRue Marie-Aristide
+Rue des Vieux-CèdresRue Chef Claude-Sioui
+Rue des Alvéoles
+Rue De BoishébertRue de la JacobéeRue du Parc-Marchand
+Rue René-Richard
+Rue Marie-Savard
+Rue du Cabotage
+Rue du CapitolinRue du Chef Michel-SiouiRue du Boisé-des-ChutesRue Lucien-Clément
+Rue du Parc-DionRue *Projetée
+Rue des Institutrices-Nadeau
+Rue de l'Iliade
+Rue des CitronniersRue *Projetée
+Boulevard Johnny-Parent
+Boulevard Johnny-ParentBoulevard ValcartierBoulevard de la Colline
+Boulevard Johnny-ParentRue du Petit-VallonRue du Loup
+Route de la Bravoure
+Rue du Caire
+Autoroute Henri-IVRue de Stockholm
+PLAN Nº
+CA6Q63Z01ÉCHELLE
+1:6 000LISTE DES AMENDEMENTS
+DESSINÉ PARNUMÉRO DU
+RÈGLEMENTEN VIGUEUR LE
+M.M. R.C.A.6V.Q. 4 2010-01-05
+M.M. R.C.A.6V.Q.7 2010-05-20
+EN VIGUEUR LE : 2025-03-24M.M. R.C.A.6V.Q.22 2010-07-12
+M.M. R.C.A.6V.Q.28 2010-10-15
+M.M. R.C.A.6V.Q.40 2011-05-17
+M.M. R.C.A.6V.Q.32 2011-09-30
+M.M. R.C.A.6V.Q.84 2012-07-18
+M.M. R.C.A.6V.Q.77 2012-09-12
+M.M. R.C.A.6V.Q.98 2013-01-23
+M.M. R.C.A.6V.Q.93 2013-03-15
+M.M. R.C.A.6V.Q.94 2013-03-15
+M.M. R.C.A.6V.Q.95 2013-03-15
+SERVICE DE LA PLANIFICATION
+DE L'AMÉNAGEMENT ET
+DE L'ENVIRONNEMENT
+DIVISION PLANIFICATION
+STRATÉGIQUE DU TERRITOIRE
+LÉGENDETERRITOIRE 6-3RÈGLEMENT DE L'ARRONDISSEMENT
+DE LA HAUTE-SAINT-CHARLES
+SUR L'URBANISME
+ANNEXE I 
+ZONAGE
+M.M. R.C.A.6V.Q.87 2013-03-22
+M.M. R.C.A.6V.Q.100 2013-05-21
+M.M. R.C.A.6V.Q.101 2013-06-14
+M.M. R.C.A.6V.Q.126 2014-01-23Limite de zone
+Butte écran
+Mur anti-bruit
+Écran visuel
+Zone tampon
+Autoroute
+Voie ferrée
+Cours d'eau, lacs ou étangs
+à débit régulier
+M.M. R.C.A.6V.Q.136 2014-02-14
+M.M. R.C.A.6V.Q.159 2015-04-17
+R.C.A.6V.Q.163 M.M. 2015-09-09
+R.C.A.6V.Q.172 M.M. 2015-12-16
+R.C.A.6V.Q.186 M.M. 2016-11-22
+R.C.A.6V.Q.184 M.M. 2017-05-0463001Fb
+63004Fa
+63005Fb63011Ab63018Ab
+63101Fb63013Up
+63023Ab
+63015Fa63025Fa63002Ab
+63009Ab
+63028Fb63026Fa
+63022Fb
+63030Fb63007Ab
+63008Fb
+63017Ab
+63020Fb
+63012Ab
+63027Ab
+63016Fb63019Ab
+63031Fa
+63104Ab63006Up
+63010Fa
+63024Fb
+63102Ab63021Aa
+63103Fa
+63029Fb
+63003Ab
+63014AbBoulevard Valcartier
+Route Léo-Major
+Rue Martineau
+Rue LepireRue YoungRue Richardson
+Rue du Petit-VallonRue du SentierM.M. R.C.A.6V.Q.213 2018-01-10
+M.B. R.C.A.6V.Q.224 2018-04-26
+M.M. R.C.A.6V.Q.220 2018-06-28
+M.M. R.C.A.6V.Q.223 2018-09-28
+M.M. R.C.A.6V.Q.238 2019-01-15
+R.C.A.6V.Q.261 M.M. 2019-11-29
+R.C.A.6V.Q.272 M.M. 2020-03-26
+R.C.A.6V.Q.281 S.R. 2020-09-03
+R.C.A.6V.Q.282 S.R. 2020-12-21
+R.C.A.6V.Q.302 J.P. 2021-09-10
+R.C.A.6V.Q.349 S.R. 2024-09-19R.C.A.6V.Q.336 S.R. 2023-08-31
+R.C.A.6V.Q.354 S.R. 2025-01-23
+R.C.A.6V.Q.360 S.R. 2025-03-24514

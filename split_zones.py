@@ -6,7 +6,7 @@ from PyPDF2 import PdfReader, PdfWriter
 
 # Pattern for zone codes like 31005HA (5 digits + 2 uppercase letters).
 # Adjust this if your zone codes look different.
-ZONE_PATTERN = re.compile(r"\b\d{5}[A-Z]{2}\b")
+ZONE_PATTERN = re.compile(r"\b\d{5}[a-zA-Z]{2}\b")
 
 
 def find_zones_in_text(text: str):
@@ -85,7 +85,8 @@ def main():
         print(f"File not found: {pdf_path}")
         sys.exit(1)
 
-    split_pdf_by_zone(pdf_path)
+    output_dir = sys.argv[2] if len(sys.argv) > 2 else "zones"
+    split_pdf_by_zone(pdf_path, output_dir)
 
 
 if __name__ == "__main__":

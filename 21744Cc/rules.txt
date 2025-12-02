@@ -1,0 +1,86 @@
+
+
+--- Page 798 ---
+CMA 1Aa
+ Administration
+ Vente au détail
+ Par établissement
+ Maximal
+65 log/haMinimalR1Parc
+Un bar est associé à un restaurant - article 221
+Un spectacle ou une présentation visuelle est associé à un restaurant ou un débit d'alcool - article 223
+Une piste de danse est  associée à un restaurant ou un débit d'alcool - article 224
+Un bar sur un café-terrasse est associé à un restaurant  - article 225
+Un centre de conditionnement physique d'une superficie de plancher de plus de 200 mètres carrés
+Les services financiers incluant les services de dépôt, de retrait et d'encaissement de chèques au comptoir ou par guichet automatiqueUsage associé :
+Usage spécifiquement autorisé :
+9 m  7 m 4.5 m
+Un café-terrasse peut être implanté en cour latérale - article 547
+Un café-terrasse peut être implanté en cour arrière - article 548
+La distance maximale entre la marge avant et la façade principale d'un bâtiment principal est de trois mètres - article 351
+Abri souple, rigide ou semi-rigide sur un café-terrasse - article 510.0.1P3
+P5Établissement d'éducation et de formation
+Établissement de santé sans hébergement 
+  
+ X
+XC20
+C21Restaurant
+Débit d'alcool 
+  
+ S,R X
+   3  11 m  60 %C1
+C2Services administratifs
+Vente au détail et services30000 m²
+  
+ X
+X
+C10Établissement d'hébergement touristique général    X
+Réparation ou reconstruction autorisée malgré l'implantation dérogatoire - article 1138.0.15Localisation Projet d'ensemble par établissement par bâtiment COMMERCE DE CONSOMMATION ET DE SERVICES
+Nombre maximal d'unités
+Localisation Projet d'ensemble par établissement par bâtiment COMMERCE D'HÉBERGEMENT TOURISTIQUE
+Superficie maximale de plancher
+ de l'aire de consommation
+par établissement par bâtiment Localisation Projet d'ensembleCOMMERCE DE RESTAURATION ET DE DÉBIT D'ALCOOL
+Localisation Projet d'ensemble par établissement par bâtiment PUBLIQUE Superficie maximale de plancher
+RÉCRÉATION EXTÉRIEURE
+USAGES PARTICULIERSUSAGES AUTORISÉS
+Superficie maximale de plancher
+Largeur minimale
+minimale maximale minimal maximalPourcentage minimal 
+de grands logementsDIMENSIONS DU BÂTIMENT  PRINCIPAL
+DISPOSITIONS PARTICULIÈRES   MATÉRIAUX DE REVÊTEMENT
+GESTION DES DROITS ACQUIS
+CONSTRUCTION DÉROGATOIREBÂTIMENT PRINCIPAL
+NORMES DE DENSITÉ Superficie maximale de plancher Nombre de logements à l'hectare 10 % 25 %DIMENSIONS GÉNÉRALES
+Largeur combinée des cours 
+latéralesMarge 
+arrière Marge avantMarge 
+latéralePOS
+minimalPourcentage 
+d'aire verte
+minimaleSuperficie 
+d'aire 
+d'agrément
+NORMES D'IMPLANTATION GÉNÉRALES
+Pourcentage minimal exigé
+Le stationnement doit être couvert à au moins 50 %  - article 582
+Le stationnement doit être situé à l'intérieur à au moins 50 %  - article 585STATIONNEMENT HORS RUE, CHARGEMENT OU DÉCHARGEMENT DES VÉHICULES
+DISPOSITIONS PARTICULIÈRESHauteur Nombre d'étages
+ 2 ch. ou + ou
+ 85m² ou +   3 ch. ou + ou 
+105m² ou +mètre %
+NORMES D'IMPLANTATION
+Par bâtiment
+Axe structurant BTYPE Matériaux prohibés : Clin de fibre de bois
+Enduit : stuc ou agrégat exposé
+Vinyle
+Clin de boisRÈGLEMENT DE L'ARRONDISSEMENT DES RIVIÈRES SUR L'URBANISME
+GRILLE DE SPÉCIFICATIONS
+Par bâtiment21716Cc
+Une aire de chargement ou de déchargement d'un usage du groupe C2 vente au détail et services d'une superficie de plancher de plus de 2000 mètres carrés doit être dissimulée 
+derrière un mur écran d'une hauteur minimale de quatre mètres ou être aménagée à l'intérieur d'un bâtiment principal - article 681
+L'aménagement d'une aire de stationnement devant une façade principale d'un bâtiment principal est prohibé - article 634
+Une aire de stationnement peut être aménagée dans un corridor de transport d'électricité ou sur un lot vacant contigu à un tel corridor - article 612
+L'aménagement d'une case de stationnement sur un lot situé à moins de 150 mètres et sur lequel n'est implanté aucun bâtiment principal est autorisé - article 608.0.1
+Une case de stationnement peut être située sur une aire de stationnement aménagée sur un lot situé dans la zone 21744Cc - article 610
+Le pourcentage minimal du nombre de cases de stationnement aménagées sur un lot qui doivent être souterraines est de 50% - article 586 798
